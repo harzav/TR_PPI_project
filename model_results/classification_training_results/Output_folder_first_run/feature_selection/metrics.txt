@@ -1,0 +1,12 @@
+Cross validation accuracy: 88.22 %
+Cross validation specificity: 98.78 %
+Cross validation sensitivity: 67.10 %
+Cross validation F1 score: 79.10 %
+Cross validation F2 score: 71.43 %
+Cross validation ROC AUC: 0.92 
+Training accuracy: 100.00 %
+Training specificity: 100.00 %
+Training sensitivity: 100.00 %
+Training F1 score: 100.00 %
+Training F2 score: 100.00 %
+Training ROC AUC: 1.00 

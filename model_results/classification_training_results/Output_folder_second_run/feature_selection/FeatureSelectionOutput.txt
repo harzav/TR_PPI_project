@@ -1,0 +1,2097 @@
+Parameters selected Gen: 50 , Pop: 20 , Sampling: True 
+Single Label, count of classes : 2
+Population initialised for 20 individuals 
+Initial population formulated. Sample indivdiuals length : 57, 57
+
+Generation : 0
+Feature indices in final selection : [1, 4, 8, 11, 14, 17, 18, 19, 21, 26, 27, 33, 37, 38, 40]
+Feature indices in final selection : [3, 6, 10, 20, 22, 25, 26, 30, 31, 32]
+Feature indices in final selection : [0, 1, 2, 6, 14, 26]
+Feature indices in final selection : [2, 5, 26]
+Feature indices in final selection : [1, 5, 6]
+Feature indices in final selection : [0, 14, 26, 35]
+Feature indices in final selection : [1, 4, 6, 8, 15, 18, 20, 26, 29, 33, 37]
+Feature indices in final selection : [0, 3, 4, 5, 6, 7, 11, 15, 20, 21, 22, 25, 26, 27, 28, 31, 32, 33, 37, 38]
+Feature indices in final selection : [5]
+Feature indices in final selection : [0, 1, 2, 4, 5, 6, 7, 8, 10, 11, 19, 22, 26, 28, 31, 32, 37, 40]
+Feature indices in final selection : [1, 2, 5, 7, 9, 15, 17, 18, 19, 20, 21, 23, 24, 27, 30, 31, 32, 34, 38]
+Feature indices in final selection : [4, 5, 7, 8, 10, 13, 17, 18, 19, 21, 24, 25, 27, 28, 32, 33, 37, 38, 40]
+Feature indices in final selection : [1, 2, 5, 9, 10, 11, 13, 17, 23, 25, 30, 32, 37, 40]
+Feature indices in final selection : [0, 1, 5, 6, 9, 10, 11, 13, 22, 25, 26, 27, 30, 31, 40]
+Feature indices in final selection : [1, 2, 4, 8, 9, 13, 14, 19, 23, 24, 25, 27, 28, 31, 32, 33, 38, 40]
+Feature indices in final selection : [0, 1, 2, 7, 8, 10, 11, 13, 14, 15, 17, 22, 23, 24, 25, 26, 27, 28, 30, 32, 34, 38]
+Feature indices in final selection : [4, 8, 9, 15, 17, 18, 19, 20, 22, 24, 26, 27, 28, 32]
+Feature indices in final selection : [1, 3, 4, 5, 6, 7, 8, 9, 10, 13, 14, 24, 25, 33, 37, 40]
+Feature indices in final selection : [0, 1, 2, 5, 8, 10, 11, 17, 25, 27, 32, 34, 37]
+Feature indices in final selection : [0, 1, 3, 4, 7, 10, 13, 17, 19, 21, 22, 25, 27, 28, 30, 31, 32, 33, 34, 40]
+best sol index found
+best sol index 7
+best avg performance 2.392291868494297
+avg of avg goal 1.981560667939576
+best performance :
+2.392291868494297
+Crossover population 20
+Temp individual length 20
+best sol sum before 3329.485237249395
+Doing 2-point crossover for sol: 1, 2
+Doing 2-point crossover for sol: 3, 4
+Doing 2-point crossover for sol: 9, 10
+Doing 2-point crossover for sol: 15, 16
+Doing 2-point crossover for sol: 17, 18
+best sol sum after 3329.485237249395
+Doing adaptive mutation
+population size 20
+
+Generation : 1
+Feature indices in final selection : [0, 3, 4, 5, 6, 7, 11, 15, 20, 21, 22, 25, 26, 27, 28, 31, 32, 33, 37, 38]
+Feature indices in final selection : [0, 4, 8, 9, 14, 20, 24, 25, 27, 28, 32]
+Feature indices in final selection : [1, 3, 4, 5, 6, 7, 8, 9, 10, 13, 17, 18, 19, 22, 24, 26, 33, 37, 40]
+Feature indices in final selection : [0, 1, 2, 6, 14, 26]
+Feature indices in final selection : [0, 1, 2, 3, 7, 8, 10, 11, 13, 14, 15, 17, 22, 23, 24, 25, 26, 27, 28, 30, 32, 34, 38]
+Feature indices in final selection : [0, 1, 5, 6, 9, 10, 11, 13, 22, 25, 26, 27, 30, 31, 40]
+Feature indices in final selection : [1, 2, 5, 7, 9, 15, 17, 18, 19, 20, 21, 23, 24, 27, 30, 31, 32, 34, 38]
+Feature indices in final selection : [0, 1, 2, 4, 5, 6, 7, 8, 10, 11, 19, 22, 26, 28, 31, 32, 37, 40]
+Feature indices in final selection : [1, 4, 8, 11, 14, 17, 18, 19, 21, 26, 27, 33, 37, 38, 40]
+Feature indices in final selection : [0, 3, 4, 5, 6, 7, 11, 15, 20, 21, 22, 25, 26, 27, 28, 31, 32, 33, 37, 38]
+Feature indices in final selection : [0, 1, 2, 4, 5, 6, 7, 8, 10, 11, 19, 22, 26, 28, 31, 32, 37, 40]
+Feature indices in final selection : [1, 5, 6]
+Feature indices in final selection : [0, 1, 2, 6, 14, 26]
+Feature indices in final selection : [4, 8, 9, 15, 17, 18, 19, 20, 22, 24, 26, 27, 28, 32]
+Feature indices in final selection : [4, 8, 9, 15, 17, 18, 19, 20, 22, 24, 26, 27, 28, 32]
+Feature indices in final selection : [0, 1, 2, 4, 5, 6, 7, 8, 10, 11, 19, 22, 26, 28, 31, 32, 37, 40]
+Feature indices in final selection : [1, 2, 4, 8, 9, 13, 14, 19, 23, 24, 25, 27, 28, 31, 32, 33, 38, 40]
+Feature indices in final selection : [0, 1, 2, 7, 8, 10, 11, 13, 14, 17, 22, 23, 24, 25, 26, 27, 28, 30, 32, 34, 38]
+Feature indices in final selection : [1, 3, 4, 5, 6, 7, 8, 9, 10, 13, 14, 24, 25, 33, 37, 40]
+Feature indices in final selection : [1, 5, 6]
+best sol index found
+best sol index 0
+best avg performance 2.392291868494297
+avg of avg goal 1.9841407269645548
+best performance :
+2.392291868494297
+Crossover population 20
+Temp individual length 20
+best sol sum before 3329.485237249395
+Doing 2-point crossover for sol: 3, 4
+Doing 2-point crossover for sol: 5, 6
+Doing 2-point crossover for sol: 7, 8
+Doing 2-point crossover for sol: 9, 10
+Doing 2-point crossover for sol: 11, 12
+Doing 2-point crossover for sol: 13, 14
+Doing 2-point crossover for sol: 15, 16
+Doing 2-point crossover for sol: 17, 18
+best sol sum after 3329.485237249395
+Doing adaptive mutation
+population size 20
+
+Generation : 2
+Feature indices in final selection : [0, 3, 4, 5, 6, 7, 11, 15, 20, 21, 22, 25, 26, 27, 28, 31, 32, 33, 37, 38]
+Feature indices in final selection : [0, 1, 2, 4, 5, 6, 7, 8, 10, 11, 19, 22, 26, 28, 31, 32, 37, 40]
+Feature indices in final selection : [0, 1, 2, 6, 14, 26]
+Feature indices in final selection : [0, 3, 4, 5, 6, 7, 11, 15, 20, 22, 25, 26, 27, 30, 31]
+Feature indices in final selection : [0, 1, 5, 6, 9, 10, 11, 13, 21, 22, 25, 26, 27, 28, 31, 32, 33, 38, 40]
+Feature indices in final selection : [0, 1, 2, 4, 5, 7, 8, 10, 11, 13, 14, 17, 22, 23, 24, 25, 26, 27, 28, 30, 32, 34, 38]
+Feature indices in final selection : [0, 1, 2, 6, 7, 8, 10, 11, 19, 22, 26, 28, 31, 32, 37, 40]
+Feature indices in final selection : [0, 4, 8, 9, 14, 20, 24, 25, 27, 28, 32]
+Feature indices in final selection : [0, 1, 5, 6, 9, 10, 11, 13, 22, 25, 26, 27, 30, 31, 33, 40]
+Feature indices in final selection : [0, 1, 2, 7, 8, 9, 10, 13, 17, 18, 22, 24, 26, 33, 37, 40]
+Feature indices in final selection : [1, 3, 4, 5, 6, 7, 8, 10, 11, 13, 14, 17, 22, 23, 24, 25, 26, 27, 28, 30, 32, 34, 38]
+Feature indices in final selection : [1, 2, 4, 8, 9, 13, 14, 19, 23, 24, 25, 27, 28, 31, 32, 33, 38, 40]
+Feature indices in final selection : [1, 2, 4, 8, 9, 13, 14, 19, 23, 24, 25, 27, 28, 31, 32, 33, 38, 40]
+Feature indices in final selection : [1, 3, 4, 5, 6, 7, 8, 9, 10, 13, 14, 24, 25, 33, 37, 40]
+Feature indices in final selection : [0, 1, 2, 6, 14, 26]
+Feature indices in final selection : [0, 2, 3, 4, 5, 6, 7, 8, 10, 11, 20, 21, 22, 25, 26, 27, 28, 31, 32, 33, 37, 38]
+Feature indices in final selection : [0, 1, 3, 5, 6, 7, 11, 15, 19, 22, 26, 28, 31, 32, 37, 40]
+Feature indices in final selection : [1, 3, 4, 5, 6, 7, 8, 9, 10, 13, 17, 18, 19, 22, 24, 26, 32, 40]
+Feature indices in final selection : [0, 4, 8, 9, 14, 20, 24, 25, 27, 28, 33, 37]
+Feature indices in final selection : [0, 1, 2, 7, 8, 10, 11, 13, 14, 17, 22, 23, 24, 25, 26, 27, 28, 30, 32, 34, 38]
+best sol index found
+best sol index 10
+best avg performance 2.4154041804212216
+avg of avg goal 2.067033691810558
+best performance :
+2.4154041804212216
+Crossover population 20
+Temp individual length 20
+best sol sum before 3329.1271036774347
+Doing 2-point crossover for sol: 1, 2
+Doing 2-point crossover for sol: 3, 4
+Doing 2-point crossover for sol: 5, 6
+Doing 2-point crossover for sol: 7, 8
+Doing 2-point crossover for sol: 9, 10
+Doing 2-point crossover for sol: 11, 12
+Doing 2-point crossover for sol: 13, 14
+Doing 2-point crossover for sol: 15, 16
+Doing 2-point crossover for sol: 17, 18
+best sol sum after 3329.1271036774347
+Doing adaptive mutation
+population size 20
+
+Generation : 3
+Feature indices in final selection : [1, 3, 4, 5, 6, 7, 8, 10, 11, 13, 14, 17, 22, 23, 24, 25, 26, 27, 28, 30, 32, 34, 38]
+Feature indices in final selection : [1, 3, 4, 5, 6, 7, 8, 10, 11, 13, 14, 17, 22, 23, 24, 25, 26, 27, 28, 30, 32, 34, 38]
+Feature indices in final selection : [0, 1, 2, 4, 5, 7, 8, 9, 10, 13, 14, 24, 25, 33, 37, 40]
+Feature indices in final selection : [0, 5, 6, 14, 26]
+Feature indices in final selection : [0, 1, 2, 6, 7, 8, 11, 15, 20, 21, 22, 25, 26, 27, 28, 31, 32, 33, 37, 38]
+Feature indices in final selection : [0, 1, 3, 5, 6, 9, 10, 11, 13, 20, 24, 25, 27, 30, 31, 33, 40]
+Feature indices in final selection : [0, 4, 8, 9, 14, 22, 25, 26, 27, 28, 33, 37]
+Feature indices in final selection : [1, 3, 4, 5, 6, 7, 10, 11, 13, 14, 17, 22, 23, 24, 25, 26, 27, 28, 30, 32, 34, 38]
+Feature indices in final selection : [0, 1, 3, 5, 6, 7, 8, 11, 15, 19, 22, 26, 28, 31, 32, 37, 40]
+Feature indices in final selection : [0, 1, 5, 6, 9, 10, 11, 13, 22, 25, 26, 27, 32, 40]
+Feature indices in final selection : [0, 4, 8, 9, 14, 20, 24, 25, 27, 28, 30, 31, 33]
+Feature indices in final selection : [0, 1, 2, 7, 8, 10, 11, 13, 14, 17, 22, 23, 24, 25, 26, 27, 28, 30, 32, 34, 38]
+Feature indices in final selection : [0, 1, 2, 4, 5, 7, 8, 10, 11, 13, 14, 17, 22, 23, 24, 25, 26, 27, 28, 30, 32, 34, 38]
+Feature indices in final selection : [1, 3, 4, 5, 6, 7, 8, 10, 11, 13, 14, 17, 22, 23, 24, 25, 26, 27, 28, 30, 33, 37]
+Feature indices in final selection : [0, 4, 8, 9, 14, 20, 24, 25, 27, 28, 32, 34, 38]
+Feature indices in final selection : [0, 3, 4, 5, 6, 7, 11, 15, 19, 22, 26, 28, 31, 32, 33, 37, 38]
+Feature indices in final selection : [0, 1, 3, 5, 6, 7, 11, 15, 20, 21, 22, 25, 26, 27, 28, 31, 32, 37, 40]
+Feature indices in final selection : [1, 3, 4, 5, 6, 7, 8, 9, 10, 13, 14, 17, 22, 23, 24, 25, 26, 27, 28, 33, 37, 40]
+Feature indices in final selection : [0, 1, 2, 4, 5, 7, 8, 10, 11, 13, 14, 15, 20, 24, 25, 30, 32, 34, 38]
+Feature indices in final selection : [0, 2, 3, 4, 5, 6, 7, 8, 10, 11, 20, 21, 22, 25, 26, 27, 28, 31, 32, 33, 37, 38]
+best sol index found
+best sol index 0
+best avg performance 2.4154041804212216
+avg of avg goal 2.1569789952544944
+best performance :
+2.4154041804212216
+Crossover population 20
+Temp individual length 20
+best sol sum before 3329.1271036774347
+Doing 2-point crossover for sol: 3, 4
+Doing 2-point crossover for sol: 5, 6
+Doing 2-point crossover for sol: 7, 8
+Doing 2-point crossover for sol: 9, 10
+Doing 2-point crossover for sol: 11, 12
+Doing 2-point crossover for sol: 13, 14
+Doing 2-point crossover for sol: 15, 16
+Doing 2-point crossover for sol: 17, 18
+best sol sum after 3329.1271036774347
+Doing adaptive mutation
+population size 20
+
+Generation : 4
+Feature indices in final selection : [1, 3, 4, 5, 6, 7, 8, 10, 11, 13, 14, 17, 22, 23, 24, 25, 26, 27, 28, 30, 32, 34, 38]
+Feature indices in final selection : [0, 4, 8, 9, 14, 20, 24, 25, 27, 28, 30, 31, 33]
+Feature indices in final selection : [0, 4, 8, 9, 14, 20, 24, 25, 27, 28, 32, 34, 38]
+Feature indices in final selection : [0, 4, 8, 9, 13, 14, 22, 25, 26, 27, 28, 33, 37]
+Feature indices in final selection : [1, 3, 4, 5, 6, 7, 10, 11, 14, 17, 22, 23, 24, 25, 26, 27, 28, 30, 32, 34, 38]
+Feature indices in final selection : [0, 4, 8, 9, 14, 20, 24, 25, 27, 28, 32, 34, 38]
+Feature indices in final selection : [0, 4, 8, 9, 14, 20, 24, 25, 27, 28, 32, 34, 38]
+Feature indices in final selection : [0, 2, 3, 4, 5, 6, 7, 8, 10, 11, 13, 14, 17, 18, 19, 22, 25, 26, 27, 28, 31, 32, 33, 37, 38]
+Feature indices in final selection : [5, 6, 26]
+Feature indices in final selection : [0, 1, 3, 5, 6, 9, 10, 11, 13, 17, 24, 25, 27, 30, 31, 33, 40]
+Feature indices in final selection : [1, 3, 4, 5, 6, 7, 8, 10, 11, 13, 14, 20, 22, 23, 24, 25, 26, 27, 28, 30, 33, 37]
+Feature indices in final selection : [0, 3, 5, 6, 7, 11, 15, 20, 21, 22, 25, 26, 27, 28, 31, 32, 37, 40]
+Feature indices in final selection : [0, 1, 4, 8, 9, 14, 20, 24, 25, 27, 28, 30, 31, 33]
+Feature indices in final selection : [0, 1, 3, 5, 6, 7, 11, 15, 20, 21, 22, 25, 26, 27, 28, 33, 37, 40]
+Feature indices in final selection : [0, 4, 8, 9, 14, 22, 25, 26, 27, 28, 31, 32, 37]
+Feature indices in final selection : [0, 14, 26]
+Feature indices in final selection : [0, 3, 4, 5, 6, 7, 9, 14, 20, 24, 25, 27, 28, 30, 31, 33]
+Feature indices in final selection : [0, 4, 8, 9, 14, 20, 24, 25, 27, 28, 30, 31, 33]
+Feature indices in final selection : [0, 4, 8, 9, 14, 20, 24, 25, 27, 28, 30, 31, 33]
+Feature indices in final selection : [1, 3, 4, 5, 6, 7, 10, 11, 13, 14, 17, 22, 23, 24, 25, 26, 27, 28, 30, 32, 34, 38]
+best sol index found
+best sol index 0
+best avg performance 2.4154041804212216
+avg of avg goal 1.9690957146143693
+best performance :
+2.4154041804212216
+Crossover population 20
+Temp individual length 20
+best sol sum before 3329.1271036774347
+Doing 2-point crossover for sol: 1, 2
+Doing 2-point crossover for sol: 3, 4
+Doing 2-point crossover for sol: 5, 6
+Doing 2-point crossover for sol: 7, 8
+Doing 2-point crossover for sol: 9, 10
+Doing 2-point crossover for sol: 11, 12
+Doing 2-point crossover for sol: 13, 14
+Doing 2-point crossover for sol: 15, 16
+Doing 2-point crossover for sol: 17, 18
+best sol sum after 3329.1271036774347
+Doing adaptive mutation
+population size 20
+
+Generation : 5
+Feature indices in final selection : [1, 3, 4, 5, 6, 7, 8, 10, 11, 13, 14, 17, 22, 23, 24, 25, 26, 27, 28, 30, 32, 34, 38]
+Feature indices in final selection : [0, 4, 8, 9, 10, 11, 13, 14, 17, 18, 19, 22, 25, 26, 27, 28, 31, 32, 37]
+Feature indices in final selection : [0, 2, 5, 6, 8, 14, 26, 37]
+Feature indices in final selection : [0, 1, 3, 5, 6, 9, 10, 11, 13, 17, 24, 25, 27, 30, 32, 34, 38, 40]
+Feature indices in final selection : [1, 3, 4, 5, 6, 7, 10, 11, 13, 14, 17, 22, 23, 24, 25, 26, 27, 28, 30, 31, 33]
+Feature indices in final selection : [1, 3, 4, 5, 6, 7, 8, 10, 11, 13, 14, 19, 20, 22, 23, 24, 25, 26, 27, 28, 33, 37]
+Feature indices in final selection : [0, 1, 3, 5, 6, 7, 11, 15, 20, 21, 22, 25, 26, 27, 28, 30, 33, 37, 40]
+Feature indices in final selection : [1, 3, 4, 5, 6, 7, 8, 10, 11, 13, 14, 20, 22, 23, 24, 25, 26, 27, 28, 30, 33, 37]
+Feature indices in final selection : [0, 4, 8, 9, 13, 14, 22, 25, 26, 27, 28, 33, 37]
+Feature indices in final selection : [1, 26]
+Feature indices in final selection : [0, 3, 4, 5, 6, 7, 9, 11, 14, 20, 24, 27, 28, 30, 31, 33]
+Feature indices in final selection : [0, 4, 8, 9, 11, 13, 14, 17, 22, 23, 24, 25, 26, 27, 28, 30, 32, 34, 38]
+Feature indices in final selection : [1, 5, 6, 14, 26]
+Feature indices in final selection : [0, 4, 8, 9, 14, 24, 25, 27, 28, 30, 31, 33]
+Feature indices in final selection : [0, 4, 8, 9, 13, 14, 20, 22, 25, 26, 27, 28, 33, 37]
+Feature indices in final selection : [0, 4, 8, 9, 14, 20, 24, 25, 27, 28, 30, 31, 33]
+Feature indices in final selection : [0, 4, 8, 9, 14, 20, 24, 25, 27, 28, 30, 31, 33]
+Feature indices in final selection : [0, 2, 3, 4, 5, 6, 7, 8, 10, 11, 13, 14, 17, 18, 19, 22, 25, 26, 27, 28, 31, 32, 33, 37, 38]
+Feature indices in final selection : [0, 2, 3, 4, 5, 6, 7, 8, 10, 11, 13, 14, 17, 18, 19, 22, 25, 26, 27, 28, 31, 32, 33, 37, 38]
+Feature indices in final selection : [0, 3, 4, 5, 6, 7, 9, 14, 20, 24, 25, 27, 28, 30, 31, 33]
+best sol index found
+best sol index 0
+best avg performance 2.4154041804212216
+avg of avg goal 2.072046814568146
+best performance :
+2.4154041804212216
+Crossover population 20
+Temp individual length 20
+best sol sum before 3329.1271036774347
+Doing 2-point crossover for sol: 3, 4
+Doing 2-point crossover for sol: 5, 6
+Doing 2-point crossover for sol: 7, 8
+Doing 2-point crossover for sol: 9, 10
+Doing 2-point crossover for sol: 11, 12
+Doing 2-point crossover for sol: 15, 16
+Doing 2-point crossover for sol: 17, 18
+best sol sum after 3329.1271036774347
+Doing adaptive mutation
+population size 20
+
+Generation : 6
+Feature indices in final selection : [1, 3, 4, 5, 6, 7, 8, 10, 11, 13, 14, 17, 22, 23, 24, 25, 26, 27, 28, 30, 32, 34, 38]
+Feature indices in final selection : [0, 4, 8, 9, 13, 14, 22, 25, 26, 27, 28, 33]
+Feature indices in final selection : [0, 1, 3, 5, 6, 7, 11, 15, 20, 21, 22, 25, 26, 27, 28, 30, 33, 37, 40]
+Feature indices in final selection : [1, 5, 6, 14]
+Feature indices in final selection : [0, 1, 3, 5, 6, 9, 10, 11, 13, 17, 24, 25, 26, 30, 33, 34, 37, 40]
+Feature indices in final selection : [0, 4, 8, 9, 14, 24, 25, 27, 28, 30, 31, 33]
+Feature indices in final selection : [0, 4, 8, 9, 14, 24, 25, 27, 28, 30, 31, 33]
+Feature indices in final selection : [0, 2, 3, 4, 5, 6, 7, 8, 10, 11, 13, 14, 17, 18, 19, 22, 25, 26, 27, 28, 31, 32, 33, 37, 38]
+Feature indices in final selection : [0, 4, 8, 9, 11, 13, 14, 17, 22, 23, 24, 25, 26, 27, 28, 30, 32, 34, 38]
+Feature indices in final selection : [0, 3, 4, 5, 6, 7, 9, 14, 20, 24, 25, 27, 28, 30, 31, 33]
+Feature indices in final selection : [0, 4, 8, 9, 14, 20, 24, 25, 27, 28, 30, 31, 33]
+Feature indices in final selection : [0, 4, 7, 8, 10, 11, 14, 24, 25, 27, 28, 30, 31, 33]
+Feature indices in final selection : [1, 3, 4, 5, 6, 8, 9, 13, 14, 20, 22, 23, 24, 25, 26, 27, 28, 30, 33, 37]
+Feature indices in final selection : [0, 4, 8, 9, 10, 11, 13, 14, 17, 18, 19, 22, 25, 26, 27, 28, 31, 32, 37]
+Feature indices in final selection : [0, 4, 8, 9, 13, 14, 22, 25, 26, 27, 28, 33, 37, 40]
+Feature indices in final selection : [0, 2, 5, 6, 8, 14, 26, 37]
+Feature indices in final selection : [1, 5, 6, 14, 26]
+Feature indices in final selection : [1, 3, 4, 5, 6, 7, 8, 10, 11, 13, 14, 20, 22, 23, 24, 25, 26, 27, 28, 30, 33, 37]
+Feature indices in final selection : [0, 4, 8, 9, 13, 14, 22, 25, 26, 27, 28, 33, 37]
+Feature indices in final selection : [0, 4, 8, 9, 13, 14, 22, 26, 27, 28, 33, 37]
+best sol index found
+best sol index 0
+best avg performance 2.4154041804212216
+avg of avg goal 2.0151536769517073
+best performance :
+2.4154041804212216
+Crossover population 20
+Temp individual length 20
+best sol sum before 3329.1271036774347
+Doing 2-point crossover for sol: 1, 2
+Doing 2-point crossover for sol: 3, 4
+Doing 2-point crossover for sol: 5, 6
+Doing 2-point crossover for sol: 7, 8
+Doing 2-point crossover for sol: 9, 10
+Doing 2-point crossover for sol: 11, 12
+Doing 2-point crossover for sol: 13, 14
+Doing 2-point crossover for sol: 15, 16
+Doing 2-point crossover for sol: 17, 18
+best sol sum after 3329.1271036774347
+Doing adaptive mutation
+population size 20
+
+Generation : 7
+Feature indices in final selection : [1, 3, 4, 5, 6, 7, 8, 10, 11, 13, 14, 17, 22, 23, 24, 25, 26, 27, 28, 30, 32, 34, 38]
+Feature indices in final selection : [1, 3, 4, 5, 6, 7, 8, 10, 11, 13, 14, 22, 23, 24, 25, 26, 27, 28, 30, 33, 37]
+Feature indices in final selection : [0, 4, 8, 9, 13, 14, 20, 22, 25, 26, 27, 28, 33, 37]
+Feature indices in final selection : [1, 5, 6, 14]
+Feature indices in final selection : [1, 3, 4, 5, 6, 7, 8, 10, 11, 13, 14, 17, 22, 23, 24, 25, 26, 27, 28, 30, 32, 34, 38]
+Feature indices in final selection : [0, 4, 8, 9, 13, 14, 17, 18, 19, 22, 26, 27, 28, 33, 37]
+Feature indices in final selection : [1, 5, 6, 14]
+Feature indices in final selection : [0, 3, 4, 5, 6, 7, 9, 14, 20, 24, 25, 27, 28, 30, 31, 33]
+Feature indices in final selection : [1, 3, 4, 5, 6, 8, 9, 13, 14, 20, 22, 23, 24, 25, 26, 27, 28, 30, 33, 37]
+Feature indices in final selection : [0, 4, 7, 8, 9, 13, 14, 22, 25, 26, 27, 28, 33, 37, 40]
+Feature indices in final selection : [0, 4, 8, 9, 13, 14, 22, 25, 26, 27, 28, 33, 37]
+Feature indices in final selection : [0, 2, 5, 6, 8, 14, 26]
+Feature indices in final selection : [0, 3, 4, 5, 6, 7, 9, 14, 20, 24, 25, 27, 28, 30, 31, 33, 37, 38]
+Feature indices in final selection : [1, 3, 4, 5, 6, 7, 8, 10, 11, 14, 17, 22, 23, 24, 25, 26, 27, 28, 30, 32, 34, 38]
+Feature indices in final selection : [0, 14]
+Feature indices in final selection : [0, 4, 7, 8, 10, 11, 14, 22, 25, 26, 27, 28, 33, 37]
+Feature indices in final selection : [0, 4, 8, 9, 13, 14, 24, 25, 27, 28, 30, 31, 33]
+Feature indices in final selection : [0, 2, 3, 4, 5, 6, 8, 9, 11, 13, 14, 17, 22, 23, 24, 25, 26, 27, 28, 30, 32, 34, 38]
+Feature indices in final selection : [0, 8, 14, 26, 37]
+Feature indices in final selection : [1, 3, 4, 5, 6, 8, 9, 13, 14, 20, 22, 23, 24, 25, 26, 27, 28, 30, 33, 37]
+best sol index found
+best sol index 0
+best avg performance 2.4154041804212216
+avg of avg goal 2.072733797798553
+best performance :
+2.4154041804212216
+Crossover population 20
+Temp individual length 20
+best sol sum before 3329.1271036774347
+Doing 2-point crossover for sol: 1, 2
+Doing 2-point crossover for sol: 3, 4
+Doing 2-point crossover for sol: 5, 6
+Doing 2-point crossover for sol: 9, 10
+Doing 2-point crossover for sol: 11, 12
+Doing 2-point crossover for sol: 13, 14
+Doing 2-point crossover for sol: 15, 16
+best sol sum after 3329.1271036774347
+Doing adaptive mutation
+population size 20
+
+Generation : 8
+Feature indices in final selection : [1, 3, 4, 5, 6, 7, 8, 10, 11, 13, 14, 17, 22, 23, 24, 25, 26, 27, 28, 30, 32, 34, 38]
+Feature indices in final selection : [0, 3, 4, 5, 6, 7, 9, 14, 20, 24, 25, 27, 28, 30, 31, 33, 38]
+Feature indices in final selection : [1, 3, 4, 5, 6, 7, 8, 10, 11, 14, 17, 22, 23, 24, 25, 26, 27, 28, 30, 32, 34, 37, 38]
+Feature indices in final selection : [1, 3, 4, 5, 6, 8, 9, 13, 14, 20, 22, 24, 25, 27, 28, 30, 31, 33]
+Feature indices in final selection : [0, 2, 3, 4, 5, 6, 7, 9, 14, 20, 24, 25, 26, 27, 28, 30, 33, 37]
+Feature indices in final selection : [0, 4, 8, 9, 13, 14, 22, 25, 26, 27, 28, 30, 31, 33]
+Feature indices in final selection : [0, 2, 5, 6, 8, 14]
+Feature indices in final selection : [0, 4, 5, 6, 7, 9, 14, 20, 24, 25, 27, 28, 31, 33]
+Feature indices in final selection : [0, 4, 8, 9, 13, 14, 17, 18, 19, 22, 26, 27, 28, 33, 37]
+Feature indices in final selection : [0, 4, 7, 8, 10, 11, 13, 14, 22, 23, 24, 25, 26, 27, 28, 30, 33, 37]
+Feature indices in final selection : [1, 3, 4, 5, 6, 7, 8, 10, 11, 14, 22, 25, 26, 27, 28, 33, 37]
+Feature indices in final selection : [0, 2, 5, 6, 8, 14, 26]
+Feature indices in final selection : [0, 4, 7, 8, 9, 14, 22, 25, 26, 27, 28, 33, 37, 40]
+Feature indices in final selection : [0, 4, 7, 8, 13, 14, 17, 18, 19, 22, 26, 27, 28, 33, 37]
+Feature indices in final selection : [0, 2, 5, 6, 8, 14, 26]
+Feature indices in final selection : [1, 3, 4, 5, 6, 7, 8, 10, 11, 13, 14, 22, 25, 26, 27, 28, 30, 33, 37]
+Feature indices in final selection : [0, 4, 7, 8, 10, 11, 14, 22, 23, 24, 25, 26, 27, 28, 33, 37]
+Feature indices in final selection : [0, 8, 14, 26, 37]
+Feature indices in final selection : [1, 3, 4, 5, 6, 8, 9, 13, 14, 20, 22, 23, 24, 25, 26, 27, 28, 30, 33, 37]
+Feature indices in final selection : [1, 3, 4, 5, 6, 8, 9, 13, 14, 20, 22, 23, 24, 25, 26, 27, 28, 30, 33, 37]
+best sol index found
+best sol index 0
+best avg performance 2.4154041804212216
+avg of avg goal 2.0884690616875234
+best performance :
+2.4154041804212216
+Crossover population 20
+Temp individual length 20
+best sol sum before 3329.1271036774347
+Doing 2-point crossover for sol: 1, 2
+Doing 2-point crossover for sol: 3, 4
+Doing 2-point crossover for sol: 5, 6
+Doing 2-point crossover for sol: 7, 8
+Doing 2-point crossover for sol: 9, 10
+Doing 2-point crossover for sol: 11, 12
+Doing 2-point crossover for sol: 13, 14
+Doing 2-point crossover for sol: 15, 16
+Doing 2-point crossover for sol: 17, 18
+best sol sum after 3329.1271036774347
+Doing adaptive mutation
+population size 20
+
+Generation : 9
+Feature indices in final selection : [1, 3, 4, 5, 6, 7, 8, 10, 11, 13, 14, 17, 22, 23, 24, 25, 26, 27, 28, 30, 32, 34, 38]
+Feature indices in final selection : [0, 2, 5, 6, 8, 14, 26]
+Feature indices in final selection : [0, 2, 5, 6, 26]
+Feature indices in final selection : [1, 3, 4, 5, 6, 8, 9, 14, 20, 24, 25, 27, 28, 30, 33, 37]
+Feature indices in final selection : [0, 4, 5, 6, 7, 9, 13, 14, 20, 22, 23, 24, 25, 26, 27, 28, 31, 33]
+Feature indices in final selection : [1, 3, 4, 5, 6, 8, 9, 13, 14, 22, 23, 24, 25, 26, 27, 28, 30, 31, 33]
+Feature indices in final selection : [1, 3, 4, 5, 6, 7, 8, 10, 11, 14, 17, 20, 22, 24, 25, 27, 28, 30, 32, 34, 37, 38]
+Feature indices in final selection : [0, 3, 4, 5, 6, 7, 9, 14, 20, 24, 25, 27, 28, 30, 31, 33, 38]
+Feature indices in final selection : [1, 3, 4, 5, 6, 7, 8, 10, 11, 14, 17, 22, 23, 24, 25, 26, 27, 28, 30, 32, 34, 37, 38]
+Feature indices in final selection : [0, 4, 7, 8, 10, 11, 14, 22, 25, 26, 27, 28, 33, 37, 40]
+Feature indices in final selection : [0, 4, 7, 8, 9, 14, 22, 23, 24, 25, 26, 27, 28, 33, 37]
+Feature indices in final selection : [0, 4, 5, 6, 7, 8, 10, 11, 14, 22, 25, 26, 27, 28, 33, 37]
+Feature indices in final selection : [1, 3, 4, 7, 8, 9, 13, 14, 22, 25, 26, 27, 28, 30, 31, 33]
+Feature indices in final selection : [0, 4, 7, 8, 9, 14, 22, 25, 26, 27, 28, 33, 37, 40]
+Feature indices in final selection : [0, 4, 8, 9, 13, 14, 17, 18, 19, 22, 26, 27, 28, 33, 37]
+Feature indices in final selection : [0, 4, 7, 8, 13, 14, 17, 18, 19, 22, 26, 27, 28, 33, 37]
+Feature indices in final selection : [1, 3, 4, 5, 6, 7, 8, 10, 11, 13, 14, 22, 25, 26, 27, 28, 30, 33, 37]
+Feature indices in final selection : [0, 4, 8, 9, 13, 14, 17, 18, 19, 22, 26, 27, 28, 31, 32, 33]
+Feature indices in final selection : [0, 2, 5, 6, 8, 14, 26, 37]
+Feature indices in final selection : [0, 4, 8, 9, 13, 14, 17, 18, 19, 22, 26, 27, 28, 33, 37]
+best sol index found
+best sol index 0
+best avg performance 2.4154041804212216
+avg of avg goal 2.052898158436358
+best performance :
+2.4154041804212216
+Crossover population 20
+Temp individual length 20
+best sol sum before 3329.1271036774347
+Doing 2-point crossover for sol: 1, 2
+Doing 2-point crossover for sol: 3, 4
+Doing 2-point crossover for sol: 5, 6
+Doing 2-point crossover for sol: 7, 8
+Doing 2-point crossover for sol: 9, 10
+Doing 2-point crossover for sol: 11, 12
+Doing 2-point crossover for sol: 13, 14
+Doing 2-point crossover for sol: 15, 16
+best sol sum after 3329.1271036774347
+Doing adaptive mutation
+population size 20
+
+Generation : 10
+Feature indices in final selection : [1, 3, 4, 5, 6, 7, 8, 10, 11, 13, 14, 17, 22, 23, 24, 25, 26, 27, 28, 30, 32, 34, 38]
+Feature indices in final selection : [1, 3, 4, 5, 6, 8, 10, 11, 13, 14, 22, 25, 26, 27, 28, 30, 33, 37]
+Feature indices in final selection : [1, 3, 4, 5, 6, 7, 8, 9, 14, 20, 24, 25, 27, 28, 30, 33, 37]
+Feature indices in final selection : [1, 3, 4, 5, 6, 8, 9, 14, 20, 24, 25, 27, 28, 30, 33, 37]
+Feature indices in final selection : [0, 4, 7, 8, 9, 14, 22, 25, 26, 27, 28, 33, 37, 40]
+Feature indices in final selection : [4, 7, 8, 9, 14, 22, 25, 26, 27, 28, 30, 31, 33]
+Feature indices in final selection : [0, 1, 3, 4, 7, 8, 9, 13, 14, 18, 22, 23, 24, 25, 26, 27, 28, 33, 37]
+Feature indices in final selection : [1, 3, 4, 7, 8, 9, 13, 14, 22, 25, 26, 27, 28, 30, 31, 33]
+Feature indices in final selection : [1, 3, 4, 7, 8, 9, 13, 14, 22, 25, 26, 27, 28, 30, 31, 33]
+Feature indices in final selection : [0, 3, 4, 5, 6, 7, 9, 14, 20, 24, 25, 27, 28, 30, 31, 33, 38]
+Feature indices in final selection : [0, 3, 4, 5, 6, 7, 9, 14, 20, 24, 25, 27, 28, 30, 31, 33, 38]
+Feature indices in final selection : [0, 4, 7, 8, 10, 11, 14, 17, 18, 19, 22, 26, 27, 28, 33, 37]
+Feature indices in final selection : [0, 4, 7, 8, 14, 22, 25, 26, 27, 28, 33, 37, 40]
+Feature indices in final selection : [1, 3, 4, 5, 6, 7, 8, 10, 11, 14, 17, 20, 22, 24, 25, 27, 28, 30, 32, 34, 37, 38]
+Feature indices in final selection : [1, 3, 4, 5, 6, 7, 8, 10, 11, 14, 17, 22, 23, 24, 25, 26, 27, 28, 30, 32, 34, 37, 38]
+Feature indices in final selection : [0, 4, 7, 8, 9, 13, 14, 17, 18, 19, 22, 26, 27, 28, 33, 37]
+Feature indices in final selection : [0, 4, 7, 8, 14, 22, 23, 24, 25, 26, 27, 28, 33, 37]
+Feature indices in final selection : [0, 4, 8, 9, 13, 14, 17, 18, 19, 22, 26, 27, 28, 31, 32, 33]
+Feature indices in final selection : [0, 4, 5, 6, 7, 9, 13, 20, 22, 23, 24, 25, 26, 27, 28, 31, 33]
+Feature indices in final selection : [0, 4, 7, 8, 9, 14, 22, 25, 26, 27, 28, 33, 37, 40]
+best sol index found
+best sol index 0
+best avg performance 2.4154041804212216
+avg of avg goal 1.958435147825734
+best performance :
+2.4154041804212216
+Crossover population 20
+Temp individual length 20
+best sol sum before 3329.1271036774347
+Doing 2-point crossover for sol: 1, 2
+Doing 2-point crossover for sol: 3, 4
+Doing 2-point crossover for sol: 7, 8
+Doing 2-point crossover for sol: 9, 10
+Doing 2-point crossover for sol: 11, 12
+Doing 2-point crossover for sol: 13, 14
+Doing 2-point crossover for sol: 15, 16
+Doing 2-point crossover for sol: 17, 18
+best sol sum after 3329.1271036774347
+Doing adaptive mutation
+population size 20
+
+Generation : 11
+Feature indices in final selection : [1, 3, 4, 5, 6, 7, 8, 10, 11, 13, 14, 17, 22, 23, 24, 25, 26, 27, 28, 30, 32, 34, 38]
+Feature indices in final selection : [1, 3, 4, 5, 6, 8, 10, 11, 13, 14, 17, 22, 23, 24, 25, 26, 27, 28, 30, 32, 34, 38]
+Feature indices in final selection : [0, 3, 4, 5, 6, 7, 9, 14, 20, 24, 25, 27, 28, 30, 31, 33, 38]
+Feature indices in final selection : [1, 3, 4, 5, 6, 8, 10, 11, 13, 14, 22, 25, 26, 27, 28, 30, 33, 37]
+Feature indices in final selection : [0, 4, 7, 8, 14, 22, 25, 26, 27, 28, 33, 37, 40]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 9, 14, 20, 24, 25, 27, 28, 30, 33, 37]
+Feature indices in final selection : [1, 3, 4, 5, 6, 8, 9, 14, 20, 22, 24, 25, 27, 28, 30, 33, 37]
+Feature indices in final selection : [0, 4, 7, 8, 9, 14, 22, 25, 26, 27, 28, 33, 37, 40]
+Feature indices in final selection : [0, 4, 7, 8, 9, 14, 22, 25, 26, 27, 28, 33, 37, 40]
+Feature indices in final selection : [0, 3, 4, 5, 6, 7, 9, 13, 14, 20, 24, 25, 27, 28, 30, 31, 33, 38]
+Feature indices in final selection : [1, 3, 4, 5, 6, 8, 10, 11, 14, 18, 22, 25, 26, 27, 28, 30, 33, 37]
+Feature indices in final selection : [1, 3, 4, 5, 6, 8, 10, 11, 13, 14, 22, 25, 26, 27, 28, 30, 33, 37]
+Feature indices in final selection : [4, 8, 9, 14, 22, 25, 26, 27, 28, 30, 31, 33]
+Feature indices in final selection : [0, 4, 7, 8, 10, 11, 14, 22, 25, 26, 27, 28, 33, 37, 40]
+Feature indices in final selection : [1, 3, 4, 5, 6, 7, 8, 9, 14, 17, 18, 20, 22, 24, 25, 27, 28, 30, 32, 34, 37, 38]
+Feature indices in final selection : [1, 3, 4, 5, 6, 7, 8, 10, 11, 14, 17, 20, 22, 24, 25, 27, 28, 30, 32, 34, 37, 38]
+Feature indices in final selection : [1, 3, 4, 5, 6, 7, 8, 10, 11, 14, 17, 20, 22, 24, 25, 27, 28, 30, 32, 34, 37, 38]
+Feature indices in final selection : [0, 4, 7, 8, 14, 22, 25, 26, 27, 28, 30, 31, 33]
+Feature indices in final selection : [4, 7, 8, 9, 14, 22, 25, 26, 27, 28, 33, 37, 40]
+Feature indices in final selection : [1, 3, 4, 5, 6, 7, 8, 10, 11, 14, 17, 22, 23, 24, 25, 26, 27, 28, 30, 32, 34, 37, 38]
+best sol index found
+best sol index 5
+best avg performance 2.415657143295097
+avg of avg goal 2.113854643579334
+best performance :
+2.415657143295097
+Crossover population 20
+Temp individual length 20
+best sol sum before 3324.9984551550583
+Doing 2-point crossover for sol: 1, 2
+Doing 2-point crossover for sol: 3, 4
+Doing 2-point crossover for sol: 5, 6
+Doing 2-point crossover for sol: 7, 8
+Doing 2-point crossover for sol: 11, 12
+Doing 2-point crossover for sol: 13, 14
+Doing 2-point crossover for sol: 15, 16
+Doing 2-point crossover for sol: 17, 18
+best sol sum after 3324.9984551550583
+Doing adaptive mutation
+population size 20
+
+Generation : 12
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 9, 14, 20, 24, 25, 27, 28, 30, 33, 37]
+Feature indices in final selection : [1, 3, 4, 5, 6, 8, 10, 11, 13, 14, 22, 25, 26, 27, 28, 30, 33, 37]
+Feature indices in final selection : [1, 3, 4, 5, 6, 8, 9, 14, 20, 22, 24, 25, 27, 28, 30, 33, 37]
+Feature indices in final selection : [1, 3, 4, 5, 6, 8, 10, 11, 14, 17, 20, 22, 24, 25, 27, 28, 30, 32, 34, 37, 38]
+Feature indices in final selection : [1, 3, 4, 5, 6, 7, 8, 10, 11, 13, 14, 22, 25, 26, 27, 28, 30, 33, 37]
+Feature indices in final selection : [1, 3, 4, 5, 6, 8, 9, 14, 22, 25, 26, 27, 28, 33, 37, 40]
+Feature indices in final selection : [4, 7, 8, 10, 11, 14, 18, 22, 25, 26, 27, 28, 30, 33, 37]
+Feature indices in final selection : [1, 3, 4, 5, 6, 8, 10, 11, 13, 14, 22, 25, 26, 27, 28, 30, 33, 37]
+Feature indices in final selection : [1, 3, 4, 5, 6, 8, 10, 11, 14, 18, 22, 25, 26, 27, 28, 30, 33, 37]
+Feature indices in final selection : [1, 3, 4, 5, 6, 7, 8, 10, 11, 14, 17, 22, 23, 24, 25, 26, 27, 28, 30, 32, 33, 34, 37, 38]
+Feature indices in final selection : [0, 4, 7, 8, 10, 11, 14, 22, 25, 26, 27, 28, 33, 37, 40]
+Feature indices in final selection : [4, 8, 9, 14, 22, 25, 26, 27, 28, 30, 31, 33]
+Feature indices in final selection : [0, 4, 7, 8, 14, 22, 25, 26, 27, 28, 30, 31, 33]
+Feature indices in final selection : [1, 3, 4, 5, 6, 8, 10, 11, 13, 14, 22, 25, 26, 27, 28, 30, 33, 38]
+Feature indices in final selection : [1, 3, 4, 5, 6, 8, 10, 11, 13, 14, 17, 22, 23, 24, 25, 26, 27, 28, 30, 32, 34, 37]
+Feature indices in final selection : [0, 3, 4, 5, 6, 7, 8, 9, 14, 20, 24, 25, 27, 28, 30, 33, 37]
+Feature indices in final selection : [4, 7, 8, 14, 22, 25, 26, 27, 28, 30, 31, 33]
+Feature indices in final selection : [4, 7, 8, 9, 14, 22, 25, 26, 27, 28, 33, 40]
+Feature indices in final selection : [0, 4, 7, 8, 14, 22, 25, 26, 27, 28, 30, 31, 33, 37]
+Feature indices in final selection : [0, 3, 4, 7, 8, 9, 14, 22, 25, 26, 27, 28, 33, 37, 40]
+best sol index found
+best sol index 0
+best avg performance 2.415657143295097
+avg of avg goal 2.1311617802071745
+best performance :
+2.415657143295097
+Crossover population 20
+Temp individual length 20
+best sol sum before 3324.9984551550583
+Doing 2-point crossover for sol: 1, 2
+Doing 2-point crossover for sol: 3, 4
+Doing 2-point crossover for sol: 5, 6
+Doing 2-point crossover for sol: 7, 8
+Doing 2-point crossover for sol: 9, 10
+Doing 2-point crossover for sol: 11, 12
+Doing 2-point crossover for sol: 13, 14
+Doing 2-point crossover for sol: 15, 16
+Doing 2-point crossover for sol: 17, 18
+best sol sum after 3324.9984551550583
+Doing adaptive mutation
+population size 20
+
+Generation : 13
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 9, 14, 20, 24, 25, 27, 28, 30, 33, 37]
+Feature indices in final selection : [4, 7, 8, 10, 11, 13, 14, 22, 25, 26, 27, 28, 33, 40]
+Feature indices in final selection : [1, 3, 4, 5, 6, 8, 9, 14, 22, 25, 26, 27, 28, 30, 33, 38]
+Feature indices in final selection : [1, 14, 22, 25, 26, 30, 32, 33, 37]
+Feature indices in final selection : [0, 3, 4, 6, 7, 8, 10, 11, 14, 22, 25, 26, 27, 28, 33, 37, 40]
+Feature indices in final selection : [0, 3, 4, 5, 6, 7, 8, 10, 11, 14, 20, 24, 25, 27, 28, 30, 33, 37]
+Feature indices in final selection : [4, 7, 8, 9, 14, 18, 22, 25, 26, 27, 28, 30, 33, 37]
+Feature indices in final selection : [0, 4, 7, 8, 10, 11, 14, 22, 25, 26, 27, 28, 33, 37, 40]
+Feature indices in final selection : [1, 3, 4, 5, 6, 8, 10, 11, 13, 14, 22, 25, 26, 27, 28, 30, 33, 37]
+Feature indices in final selection : [0, 4, 7, 8, 10, 11, 14, 22, 25, 26, 27, 28, 33, 37, 40]
+Feature indices in final selection : [0, 4, 7, 8, 10, 11, 14, 22, 25, 26, 27, 28, 33, 37, 40]
+Feature indices in final selection : [1, 3, 4, 5, 6, 8, 9, 14, 22, 25, 26, 27, 28, 33, 37, 40]
+Feature indices in final selection : [1, 3, 4, 5, 6, 8, 9, 14, 22, 25, 26, 27, 28, 33, 37, 40]
+Feature indices in final selection : [0, 4, 7, 8, 10, 11, 14, 20, 22, 24, 25, 27, 28, 30, 33, 37, 40]
+Feature indices in final selection : [1, 3, 4, 5, 6, 8, 9, 13, 14, 22, 25, 26, 27, 28, 33, 37]
+Feature indices in final selection : [4, 8, 9, 14, 17, 22, 25, 26, 27, 28, 30, 31, 33, 37]
+Feature indices in final selection : [1, 3, 4, 5, 6, 8, 10, 11, 14, 18, 22, 25, 26, 27, 28, 30, 33]
+Feature indices in final selection : [1, 3, 4, 5, 6, 8, 9, 14, 20, 24, 25, 27, 28, 30, 33, 37]
+Feature indices in final selection : [1, 3, 4, 5, 6, 8, 10, 11, 14, 17, 20, 22, 23, 24, 25, 27, 28, 30, 32, 34, 37, 38]
+Feature indices in final selection : [0, 4, 7, 8, 14, 22, 25, 26, 27, 28, 30, 31, 33, 37]
+best sol index found
+best sol index 0
+best avg performance 2.415657143295097
+avg of avg goal 2.0557610692425556
+best performance :
+2.415657143295097
+Crossover population 20
+Temp individual length 20
+best sol sum before 3324.9984551550583
+Doing 2-point crossover for sol: 1, 2
+Doing 2-point crossover for sol: 3, 4
+Doing 2-point crossover for sol: 5, 6
+Doing 2-point crossover for sol: 9, 10
+Doing 2-point crossover for sol: 11, 12
+Doing 2-point crossover for sol: 13, 14
+Doing 2-point crossover for sol: 15, 16
+Doing 2-point crossover for sol: 17, 18
+best sol sum after 3324.9984551550583
+Doing adaptive mutation
+population size 20
+
+Generation : 14
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 9, 14, 20, 24, 25, 27, 28, 30, 33, 37]
+Feature indices in final selection : [1, 3, 4, 5, 6, 8, 9, 13, 14, 22, 25, 26, 27, 28, 33, 37, 40]
+Feature indices in final selection : [4, 7, 8, 10, 11, 14, 22, 25, 26, 27, 28, 33, 40]
+Feature indices in final selection : [0, 4, 7, 8, 10, 11, 14, 22, 25, 26, 27, 28, 33, 37, 40]
+Feature indices in final selection : [0, 3, 4, 6, 7, 8, 10, 11, 14, 22, 25, 26, 27, 28, 33, 37, 40]
+Feature indices in final selection : [0, 4, 7, 8, 10, 14, 18, 22, 25, 26, 27, 28, 30, 33, 37]
+Feature indices in final selection : [4, 7, 8, 9, 11, 14, 22, 24, 25, 27, 28, 30, 33, 37, 40]
+Feature indices in final selection : [4, 8, 9, 14, 17, 22, 25, 26, 27, 28, 30, 31, 33, 37]
+Feature indices in final selection : [1, 5, 8, 14, 26, 37]
+Feature indices in final selection : [1, 4, 7, 8, 10, 11, 14, 20, 22, 24, 25, 27, 28, 30, 33, 37, 40]
+Feature indices in final selection : [0, 3, 4, 5, 6, 8, 10, 11, 13, 14, 22, 25, 26, 27, 28, 30, 33]
+Feature indices in final selection : [0, 3, 4, 5, 6, 7, 8, 10, 11, 14, 24, 25, 27, 28, 30, 33, 37]
+Feature indices in final selection : [0, 4, 7, 8, 10, 11, 14, 22, 25, 26, 27, 28, 33, 37, 40]
+Feature indices in final selection : [0, 4, 7, 8, 10, 11, 14, 20, 22, 24, 25, 27, 28, 30, 33, 37, 40]
+Feature indices in final selection : [0, 3, 4, 5, 6, 8, 10, 11, 14, 20, 24, 25, 27, 28, 30, 33, 37]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 9, 14, 20, 24, 25, 27, 28, 30, 33]
+Feature indices in final selection : [4, 7, 8, 10, 11, 13, 14, 22, 25, 26, 27, 28, 33, 37, 40]
+Feature indices in final selection : [0, 4, 7, 8, 10, 11, 14, 20, 22, 24, 25, 27, 28, 30, 33, 37, 40]
+Feature indices in final selection : [0, 3, 4, 5, 6, 7, 8, 10, 11, 14, 20, 24, 25, 27, 28, 30, 33, 37]
+Feature indices in final selection : [1, 14, 22, 25, 26, 30, 32, 33, 37]
+best sol index found
+best sol index 0
+best avg performance 2.415657143295097
+avg of avg goal 2.0003154168258774
+best performance :
+2.415657143295097
+Crossover population 20
+Temp individual length 20
+best sol sum before 3324.9984551550583
+Doing 2-point crossover for sol: 1, 2
+Doing 2-point crossover for sol: 3, 4
+Doing 2-point crossover for sol: 5, 6
+Doing 2-point crossover for sol: 7, 8
+Doing 2-point crossover for sol: 9, 10
+Doing 2-point crossover for sol: 13, 14
+Doing 2-point crossover for sol: 15, 16
+best sol sum after 3324.9984551550583
+Doing adaptive mutation
+population size 20
+
+Generation : 15
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 9, 14, 20, 24, 25, 27, 28, 30, 33, 37]
+Feature indices in final selection : [4, 8, 9, 14, 17, 22, 25, 26, 27, 28, 30, 31, 33, 37]
+Feature indices in final selection : [0, 4, 7, 8, 10, 11, 14, 20, 22, 24, 25, 27, 28, 30, 33, 37, 40]
+Feature indices in final selection : [0, 4, 7, 8, 10, 11, 14, 20, 22, 25, 26, 27, 28, 33, 37, 40]
+Feature indices in final selection : [4, 7, 8, 10, 11, 13, 14, 22, 24, 25, 27, 28, 30, 33, 37, 40]
+Feature indices in final selection : [0, 4, 7, 8, 10, 11, 14, 22, 25, 26, 27, 28, 33, 37]
+Feature indices in final selection : [4, 7, 8, 10, 11, 14, 22, 25, 26, 27, 28, 33, 40]
+Feature indices in final selection : [0, 4, 7, 8, 10, 11, 14, 20, 24, 25, 27, 28, 30, 33, 37]
+Feature indices in final selection : [0, 3, 4, 5, 6, 8, 10, 11, 14, 22, 25, 26, 27, 28, 33, 37, 40]
+Feature indices in final selection : [3, 4, 5, 6, 8, 10, 11, 14, 20, 24, 25, 27, 28, 30, 33, 37]
+Feature indices in final selection : [0, 3, 4, 5, 6, 7, 8, 9, 14, 20, 24, 25, 27, 28, 30, 33, 37]
+Feature indices in final selection : [4, 8, 9, 14, 17, 22, 25, 26, 27, 28, 30, 31, 33, 37]
+Feature indices in final selection : [4, 7, 8, 10, 11, 14, 22, 25, 26, 27, 28, 33, 40]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 9, 14, 17, 20, 24, 25, 27, 28, 30, 33]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 9, 14, 20, 24, 25, 27, 28, 30, 33, 37]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 10, 11, 13, 14, 22, 24, 25, 27, 28, 30, 33, 37]
+Feature indices in final selection : [0, 3, 4, 5, 6, 8, 9, 14, 20, 24, 25, 26, 27, 28, 30, 33]
+Feature indices in final selection : [4, 7, 8, 10, 11, 14, 22, 25, 26, 27, 28, 33, 40]
+Feature indices in final selection : [1, 3, 4, 5, 6, 8, 9, 13, 14, 22, 25, 26, 27, 28, 33, 37, 40]
+Feature indices in final selection : [4, 7, 8, 10, 11, 13, 14, 22, 25, 26, 27, 28, 33, 37, 40]
+best sol index found
+best sol index 0
+best avg performance 2.415657143295097
+avg of avg goal 2.000357694666105
+best performance :
+2.415657143295097
+Crossover population 20
+Temp individual length 20
+best sol sum before 3324.9984551550583
+Doing 2-point crossover for sol: 1, 2
+Doing 2-point crossover for sol: 3, 4
+Doing 2-point crossover for sol: 5, 6
+Doing 2-point crossover for sol: 7, 8
+Doing 2-point crossover for sol: 9, 10
+Doing 2-point crossover for sol: 11, 12
+Doing 2-point crossover for sol: 15, 16
+Doing 2-point crossover for sol: 17, 18
+best sol sum after 3324.9984551550583
+Doing adaptive mutation
+population size 20
+
+Generation : 16
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 9, 14, 20, 24, 25, 27, 28, 30, 33, 37]
+Feature indices in final selection : [4, 8, 9, 14, 20, 22, 25, 26, 27, 28, 30, 31, 33, 37]
+Feature indices in final selection : [0, 4, 6, 7, 8, 10, 11, 14, 17, 22, 24, 25, 27, 28, 30, 33, 37, 40]
+Feature indices in final selection : [4, 7, 8, 9, 13, 14, 22, 24, 25, 26, 27, 28, 33, 37, 40]
+Feature indices in final selection : [4, 8, 10, 11, 14, 17, 22, 25, 26, 27, 28, 30, 31, 33, 37]
+Feature indices in final selection : [4, 8, 9, 14, 17, 22, 25, 26, 27, 28, 30, 31, 33, 37]
+Feature indices in final selection : [4, 6, 7, 8, 10, 11, 13, 14, 22, 24, 25, 27, 28, 30, 33, 37, 40]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 10, 11, 13, 14, 22, 24, 25, 27, 28, 30, 33, 37]
+Feature indices in final selection : [3, 4, 5, 6, 8, 10, 11, 14, 20, 24, 25, 27, 28, 30, 33, 37]
+Feature indices in final selection : [4, 7, 8, 9, 14, 17, 22, 25, 26, 27, 28, 33, 37, 40]
+Feature indices in final selection : [4, 8, 10, 11, 13, 14, 22, 25, 26, 27, 28, 30, 31, 33, 37]
+Feature indices in final selection : [3, 4, 5, 6, 8, 10, 11, 14, 20, 24, 25, 27, 28, 30, 33, 37]
+Feature indices in final selection : [3, 4, 5, 6, 8, 10, 11, 14, 20, 24, 25, 27, 28, 30, 33, 37]
+Feature indices in final selection : [0, 4, 7, 8, 10, 11, 14, 22, 25, 26, 27, 28, 33, 37]
+Feature indices in final selection : [1, 3, 4, 5, 6, 8, 9, 13, 14, 22, 25, 26, 27, 28, 33, 37, 40]
+Feature indices in final selection : [4, 7, 8, 10, 11, 14, 22, 25, 26, 27, 28, 30, 31, 33, 37]
+Feature indices in final selection : [0, 4, 8, 9, 13, 14, 17, 20, 22, 25, 26, 27, 28, 33, 37, 40]
+Feature indices in final selection : [4, 7, 8, 10, 11, 13, 14, 22, 25, 26, 28, 33, 40]
+Feature indices in final selection : [4, 7, 8, 10, 11, 14, 22, 24, 25, 27, 28, 30, 33, 37, 40]
+Feature indices in final selection : [4, 7, 8, 10, 11, 13, 14, 22, 25, 26, 27, 28, 33, 37, 40]
+best sol index found
+best sol index 0
+best avg performance 2.415657143295097
+avg of avg goal 1.900122541415422
+best performance :
+2.415657143295097
+Crossover population 20
+Temp individual length 20
+best sol sum before 3324.9984551550583
+Doing 2-point crossover for sol: 1, 2
+Doing 2-point crossover for sol: 3, 4
+Doing 2-point crossover for sol: 5, 6
+Doing 2-point crossover for sol: 11, 12
+Doing 2-point crossover for sol: 13, 14
+Doing 2-point crossover for sol: 15, 16
+Doing 2-point crossover for sol: 17, 18
+best sol sum after 3324.9984551550583
+Doing adaptive mutation
+population size 20
+
+Generation : 17
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 9, 14, 20, 24, 25, 27, 28, 30, 33, 37]
+Feature indices in final selection : [4, 6, 7, 8, 10, 11, 13, 14, 22, 24, 25, 27, 28, 30, 33, 37, 40]
+Feature indices in final selection : [4, 6, 7, 8, 10, 11, 13, 14, 22, 24, 25, 27, 28, 30, 32, 33, 37, 40]
+Feature indices in final selection : [4, 7, 8, 9, 10, 11, 13, 14, 22, 25, 26, 27, 28, 30, 31, 33, 37]
+Feature indices in final selection : [4, 8, 13, 14, 22, 24, 25, 26, 27, 28, 33, 37, 40]
+Feature indices in final selection : [4, 8, 10, 11, 13, 14, 15, 22, 25, 26, 27, 28, 30, 31, 33, 37]
+Feature indices in final selection : [4, 8, 10, 11, 14, 17, 22, 25, 26, 27, 28, 30, 31, 33, 37]
+Feature indices in final selection : [0, 4, 8, 9, 13, 14, 17, 20, 22, 25, 26, 27, 28, 33, 37, 40]
+Feature indices in final selection : [3, 4, 5, 6, 8, 10, 11, 14, 20, 24, 25, 27, 28, 30, 33, 34, 37]
+Feature indices in final selection : [1, 3, 4, 5, 6, 8, 9, 13, 14, 22, 25, 26, 27, 28, 33, 37, 40]
+Feature indices in final selection : [4, 8, 10, 11, 14, 22, 25, 26, 27, 28, 30, 31, 33, 37]
+Feature indices in final selection : [4, 8, 10, 11, 14, 17, 22, 25, 26, 27, 28, 30, 31, 33, 37]
+Feature indices in final selection : [4, 8, 10, 11, 14, 17, 22, 25, 26, 27, 28, 30, 31, 33, 37]
+Feature indices in final selection : [4, 7, 8, 9, 14, 17, 22, 25, 26, 27, 28, 30, 33, 37, 40]
+Feature indices in final selection : [4, 6, 7, 8, 10, 11, 13, 14, 22, 24, 25, 27, 33, 37, 40]
+Feature indices in final selection : [4, 7, 8, 9, 14, 17, 22, 25, 26, 27, 28, 33, 37, 40]
+Feature indices in final selection : [4, 7, 8, 10, 11, 14, 22, 24, 25, 27, 28, 30, 33, 37, 40]
+Feature indices in final selection : [4, 8, 10, 11, 14, 17, 22, 23, 25, 26, 27, 28, 30, 31, 33, 37]
+Feature indices in final selection : [4, 7, 8, 9, 14, 17, 22, 25, 26, 27, 28, 33, 37, 40]
+Feature indices in final selection : [4, 8, 9, 14, 17, 22, 25, 26, 27, 28, 30, 31, 33, 37]
+best sol index found
+best sol index 8
+best avg performance 2.415964549018478
+avg of avg goal 1.791049388250799
+best performance :
+2.415964549018478
+Crossover population 20
+Temp individual length 20
+best sol sum before 3461.853857635692
+Doing 2-point crossover for sol: 1, 2
+Doing 2-point crossover for sol: 3, 4
+Doing 2-point crossover for sol: 7, 8
+Doing 2-point crossover for sol: 11, 12
+Doing 2-point crossover for sol: 13, 14
+Doing 2-point crossover for sol: 15, 16
+Doing 2-point crossover for sol: 17, 18
+best sol sum after 3461.853857635692
+Doing adaptive mutation
+population size 20
+
+Generation : 18
+Feature indices in final selection : [3, 4, 5, 6, 8, 10, 11, 14, 20, 24, 25, 27, 28, 30, 33, 34, 37]
+Feature indices in final selection : [4, 8, 10, 11, 13, 14, 15, 22, 25, 26, 27, 28, 33, 37]
+Feature indices in final selection : [4, 7, 8, 9, 14, 17, 22, 25, 26, 27, 28, 30, 31, 33, 37, 40]
+Feature indices in final selection : [4, 6, 7, 8, 10, 11, 13, 14, 22, 24, 25, 27, 28, 30, 32, 33, 37, 40]
+Feature indices in final selection : [4, 7, 8, 9, 14, 17, 22, 25, 26, 27, 28, 33, 37, 40]
+Feature indices in final selection : [4, 8, 10, 11, 14, 17, 22, 23, 25, 26, 27, 28, 30, 31, 33, 37]
+Feature indices in final selection : [1, 3, 4, 5, 6, 8, 13, 14, 22, 25, 26, 27, 28, 33, 37, 40]
+Feature indices in final selection : [4, 8, 10, 11, 14, 17, 22, 25, 26, 27, 28, 30, 31, 33, 37]
+Feature indices in final selection : [1, 3, 4, 5, 6, 8, 9, 13, 14, 22, 25, 26, 27, 28, 33, 37, 40]
+Feature indices in final selection : [4, 7, 8, 9, 10, 11, 13, 14, 22, 25, 26, 27, 28, 30, 31, 33, 37]
+Feature indices in final selection : [4, 8, 10, 11, 14, 17, 22, 23, 25, 26, 27, 28, 30, 31, 33, 37]
+Feature indices in final selection : [4, 8, 10, 11, 14, 17, 22, 24, 25, 27, 28, 30, 32, 33, 37]
+Feature indices in final selection : [4, 8, 10, 11, 13, 14, 15, 22, 25, 26, 27, 28, 30, 31, 33, 37]
+Feature indices in final selection : [4, 8, 10, 11, 13, 14, 15, 22, 24, 25, 26, 27, 28, 30, 31, 33, 37]
+Feature indices in final selection : [4, 7, 8, 9, 14, 17, 22, 25, 26, 27, 28, 30, 31, 33, 37, 40]
+Feature indices in final selection : [4, 8, 10, 11, 14, 17, 22, 25, 26, 27, 28, 33, 37]
+Feature indices in final selection : [4, 8, 10, 11, 13, 14, 15, 22, 25, 26, 27, 28, 30, 31, 33, 34, 37]
+Feature indices in final selection : [3, 4, 5, 6, 8, 10, 11, 13, 14, 20, 24, 25, 27, 28, 30, 33, 37]
+Feature indices in final selection : [4, 8, 10, 11, 14, 17, 22, 25, 26, 27, 28, 30, 31, 33, 37]
+best sol index found
+best sol index 0
+best avg performance 2.415964549018478
+avg of avg goal 1.7197174187784827
+best performance :
+2.415964549018478
+Crossover population 20
+Temp individual length 20
+best sol sum before 3461.853857635692
+Doing 2-point crossover for sol: 1, 2
+Doing 2-point crossover for sol: 3, 4
+Doing 2-point crossover for sol: 5, 6
+Doing 2-point crossover for sol: 7, 8
+Doing 2-point crossover for sol: 9, 10
+Doing 2-point crossover for sol: 11, 12
+Doing 2-point crossover for sol: 15, 16
+Doing 2-point crossover for sol: 17, 18
+best sol sum after 3461.853857635692
+Doing adaptive mutation
+population size 20
+
+Generation : 19
+Feature indices in final selection : [3, 4, 5, 6, 8, 10, 11, 14, 20, 24, 25, 27, 28, 30, 33, 34, 37]
+Feature indices in final selection : [3, 4, 5, 6, 8, 10, 11, 14, 17, 22, 25, 26, 27, 28, 30, 31, 33, 37]
+Feature indices in final selection : [4, 8, 10, 11, 14, 20, 24, 25, 27, 28, 30, 33, 34, 37]
+Feature indices in final selection : [4, 5, 6, 8, 10, 11, 13, 14, 22, 25, 26, 27, 28, 30, 31, 33, 37]
+Feature indices in final selection : [3, 4, 8, 10, 11, 14, 17, 20, 24, 25, 27, 28, 30, 33, 37]
+Feature indices in final selection : [3, 4, 5, 6, 8, 10, 11, 13, 14, 20, 25, 26, 27, 28, 30, 31, 33, 34, 37]
+Feature indices in final selection : [4, 8, 10, 11, 13, 14, 15, 22, 24, 25, 27, 28, 30, 33, 37]
+Feature indices in final selection : [3, 4, 5, 6, 8, 10, 11, 14, 17, 22, 24, 25, 27, 28, 30, 32, 33, 37]
+Feature indices in final selection : [4, 8, 10, 11, 14, 20, 24, 25, 27, 28, 30, 33, 34, 37]
+Feature indices in final selection : [4, 6, 7, 8, 10, 11, 13, 14, 22, 24, 25, 27, 28, 30, 31, 33, 37, 40]
+Feature indices in final selection : [7, 8, 9, 14, 22, 26, 27, 30, 32, 37]
+Feature indices in final selection : [3, 4, 5, 6, 8, 10, 11, 13, 14, 15, 18, 22, 24, 25, 26, 27, 28, 30, 33, 37]
+Feature indices in final selection : [4, 8, 10, 13, 14, 20, 24, 25, 27, 28, 30, 31, 33, 37]
+Feature indices in final selection : [4, 8, 10, 11, 14, 17, 22, 25, 26, 27, 28, 33, 37]
+Feature indices in final selection : [3, 4, 5, 6, 8, 10, 11, 14, 20, 24, 25, 27, 28, 30, 33, 34, 37]
+Feature indices in final selection : [4, 6, 7, 8, 9, 10, 11, 13, 14, 22, 24, 25, 27, 28, 30, 32, 33, 37, 40]
+Feature indices in final selection : [4, 8, 10, 11, 14, 17, 22, 24, 25, 27, 28, 30, 32, 33, 37]
+Feature indices in final selection : [4, 8, 10, 11, 14, 17, 22, 25, 26, 27, 28, 30, 31, 33, 37]
+Feature indices in final selection : [4, 8, 10, 11, 14, 17, 22, 25, 26, 27, 28, 30, 31, 33, 37]
+Feature indices in final selection : [4, 8, 10, 11, 14, 17, 22, 23, 25, 26, 27, 28, 30, 31, 33, 37]
+best sol index found
+best sol index 5
+best avg performance 2.417649082966004
+avg of avg goal 1.931474647313184
+best performance :
+2.417649082966004
+Crossover population 20
+Temp individual length 20
+best sol sum before 3457.558569884038
+Doing 2-point crossover for sol: 1, 2
+Doing 2-point crossover for sol: 3, 4
+Doing 2-point crossover for sol: 5, 6
+Doing 2-point crossover for sol: 7, 8
+Doing 2-point crossover for sol: 9, 10
+Doing 2-point crossover for sol: 11, 12
+Doing 2-point crossover for sol: 13, 14
+Doing 2-point crossover for sol: 15, 16
+Doing 2-point crossover for sol: 17, 18
+best sol sum after 3457.558569884038
+Doing adaptive mutation
+population size 20
+
+Generation : 20
+Feature indices in final selection : [3, 4, 5, 6, 8, 10, 11, 13, 14, 20, 25, 26, 27, 28, 30, 31, 33, 34, 37]
+Feature indices in final selection : [7, 8, 9, 14, 22, 26, 27, 30, 32, 37]
+Feature indices in final selection : [4, 8, 10, 11, 13, 14, 15, 17, 22, 24, 25, 27, 28, 30, 33, 37]
+Feature indices in final selection : [4, 8, 10, 13, 14, 22, 25, 26, 27, 30, 32, 33, 37]
+Feature indices in final selection : [7, 8, 9, 14, 24, 27, 30, 37]
+Feature indices in final selection : [4, 8, 10, 11, 14, 17, 22, 25, 26, 27, 28, 30, 31, 33, 37]
+Feature indices in final selection : [4, 7, 8, 10, 11, 14, 17, 22, 24, 25, 27, 28, 30, 32, 33, 37]
+Feature indices in final selection : [4, 8, 10, 11, 14, 17, 22, 25, 26, 27, 28, 30, 32, 33, 37]
+Feature indices in final selection : [3, 4, 5, 6, 8, 10, 11, 14, 17, 22, 24, 25, 27, 28, 30, 31, 33, 37]
+Feature indices in final selection : [4, 8, 10, 11, 13, 14, 15, 22, 24, 25, 27, 30, 33, 37]
+Feature indices in final selection : [4, 8, 10, 11, 13, 14, 15, 22, 24, 25, 27, 28, 30, 33, 37]
+Feature indices in final selection : [4, 8, 10, 11, 13, 14, 20, 24, 25, 27, 28, 30, 31, 33, 37]
+Feature indices in final selection : [4, 6, 7, 8, 9, 10, 11, 13, 14, 22, 24, 25, 27, 28, 30, 32, 33, 37, 40]
+Feature indices in final selection : [4, 8, 10, 11, 14, 17, 22, 24, 25, 27, 28, 30, 31, 33, 37]
+Feature indices in final selection : [4, 8, 10, 11, 14, 17, 22, 25, 26, 27, 28, 30, 32, 33, 37]
+Feature indices in final selection : [4, 8, 10, 11, 14, 17, 22, 25, 26, 27, 28, 30, 32, 33, 37]
+Feature indices in final selection : [4, 8, 10, 11, 14, 17, 22, 24, 25, 27, 28, 30, 31, 33, 37]
+Feature indices in final selection : [4, 8, 10, 11, 13, 14, 17, 22, 23, 25, 26, 27, 28, 30, 31, 33, 37]
+Feature indices in final selection : [4, 8, 10, 11, 14, 15, 22, 24, 25, 27, 28, 30, 33, 37]
+Feature indices in final selection : [4, 6, 7, 8, 10, 11, 13, 14, 22, 24, 25, 27, 28, 30, 31, 33, 37, 40]
+best sol index found
+best sol index 0
+best avg performance 2.417649082966004
+avg of avg goal 1.7713287967193896
+best performance :
+2.417649082966004
+Crossover population 20
+Temp individual length 20
+best sol sum before 3457.558569884038
+Doing 2-point crossover for sol: 1, 2
+Doing 2-point crossover for sol: 3, 4
+Doing 2-point crossover for sol: 5, 6
+Doing 2-point crossover for sol: 7, 8
+Doing 2-point crossover for sol: 9, 10
+Doing 2-point crossover for sol: 11, 12
+Doing 2-point crossover for sol: 13, 14
+Doing 2-point crossover for sol: 15, 16
+best sol sum after 3457.558569884038
+Doing adaptive mutation
+population size 20
+
+Generation : 21
+Feature indices in final selection : [3, 4, 5, 6, 8, 10, 11, 13, 14, 20, 25, 26, 27, 28, 30, 31, 33, 34, 37]
+Feature indices in final selection : [4, 8, 10, 11, 13, 14, 20, 24, 25, 27, 28, 30, 31, 33, 37]
+Feature indices in final selection : [4, 8, 10, 11, 13, 14, 17, 22, 23, 25, 26, 27, 28, 30, 31, 33, 37]
+Feature indices in final selection : [8, 13, 14, 22, 24, 27, 30, 37]
+Feature indices in final selection : [4, 7, 8, 9, 14, 17, 20, 24, 25, 27, 28, 30, 31, 33, 37, 40]
+Feature indices in final selection : [3, 4, 5, 6, 8, 10, 11, 13, 14, 20, 25, 26, 27, 28, 30, 31, 33, 34, 37]
+Feature indices in final selection : [4, 6, 7, 8, 10, 11, 13, 14, 22, 23, 24, 25, 27, 28, 30, 31, 33, 37, 40]
+Feature indices in final selection : [4, 8, 10, 11, 14, 17, 22, 25, 26, 27, 28, 30, 32, 33, 37]
+Feature indices in final selection : [4, 8, 10, 11, 14, 17, 22, 25, 26, 27, 28, 30, 32, 33, 37]
+Feature indices in final selection : [7, 8, 9, 14, 22, 26, 27, 30, 32, 37]
+Feature indices in final selection : [7, 8, 9, 14, 24, 27, 30, 37]
+Feature indices in final selection : [3, 4, 5, 6, 8, 10, 11, 13, 14, 20, 25, 26, 27, 30, 31, 33, 37]
+Feature indices in final selection : [4, 8, 10, 11, 14, 17, 22, 24, 25, 27, 28, 30, 31, 33, 34, 37]
+Feature indices in final selection : [4, 8, 10, 11, 14, 17, 22, 24, 25, 27, 28, 30, 32, 33, 37]
+Feature indices in final selection : [4, 8, 10, 11, 14, 17, 22, 25, 26, 27, 28, 30, 31, 33, 37, 40]
+Feature indices in final selection : [3, 4, 5, 6, 8, 10, 11, 14, 17, 22, 24, 25, 27, 28, 30, 31, 33, 37]
+Feature indices in final selection : [4, 8, 10, 11, 13, 14, 15, 22, 24, 25, 27, 30, 33, 37]
+Feature indices in final selection : [4, 8, 10, 11, 14, 17, 22, 25, 26, 27, 28, 30, 32, 33, 37]
+Feature indices in final selection : [4, 6, 7, 8, 10, 11, 13, 14, 22, 24, 25, 27, 28, 30, 31, 33, 37, 40]
+Feature indices in final selection : [3, 4, 5, 6, 8, 10, 11, 14, 17, 22, 24, 25, 27, 28, 30, 31, 33, 37]
+best sol index found
+best sol index 11
+best avg performance 2.418168029131888
+avg of avg goal 1.8352677697164008
+best performance :
+2.418168029131888
+Crossover population 20
+Temp individual length 20
+best sol sum before 3456.922355841258
+Doing 2-point crossover for sol: 1, 2
+Doing 2-point crossover for sol: 3, 4
+Doing 2-point crossover for sol: 7, 8
+Doing 2-point crossover for sol: 9, 10
+Doing 2-point crossover for sol: 11, 12
+Doing 2-point crossover for sol: 13, 14
+Doing 2-point crossover for sol: 15, 16
+Doing 2-point crossover for sol: 17, 18
+best sol sum after 3456.922355841258
+Doing adaptive mutation
+population size 20
+
+Generation : 22
+Feature indices in final selection : [3, 4, 5, 6, 8, 10, 11, 13, 14, 20, 25, 26, 27, 30, 31, 33, 37]
+Feature indices in final selection : [3, 4, 5, 6, 8, 10, 11, 14, 17, 20, 25, 26, 27, 28, 30, 31, 33, 34, 37]
+Feature indices in final selection : [3, 4, 5, 6, 8, 10, 11, 13, 14, 22, 24, 25, 27, 28, 30, 31, 33, 34, 37]
+Feature indices in final selection : [4, 8, 10, 11, 13, 14, 17, 22, 23, 25, 26, 27, 28, 30, 31, 33, 37]
+Feature indices in final selection : [4, 8, 10, 11, 14, 17, 22, 25, 26, 27, 28, 30, 31, 33, 37, 40]
+Feature indices in final selection : [2, 7, 8, 9, 14, 24, 27, 30, 37]
+Feature indices in final selection : [3, 4, 5, 6, 8, 10, 11, 13, 14, 20, 25, 26, 27, 30, 31, 33, 37]
+Feature indices in final selection : [4, 6, 7, 8, 10, 11, 13, 14, 22, 23, 24, 25, 27, 28, 30, 31, 33, 37, 40]
+Feature indices in final selection : [4, 8, 10, 11, 14, 17, 21, 22, 25, 26, 27, 28, 30, 32, 33, 37]
+Feature indices in final selection : [8, 13, 14, 22, 24, 27, 30, 37]
+Feature indices in final selection : [4, 5, 6, 8, 10, 11, 13, 14, 15, 20, 21, 25, 26, 27, 28, 30, 31, 33, 34, 37]
+Feature indices in final selection : [8, 13, 14, 22, 24, 27, 30, 37]
+Feature indices in final selection : [4, 8, 10, 11, 13, 14, 17, 22, 23, 25, 26, 27, 28, 30, 31, 33, 37]
+Feature indices in final selection : [4, 8, 10, 11, 13, 14, 15, 22, 24, 25, 27, 30, 33, 37]
+Feature indices in final selection : [4, 6, 7, 8, 14, 17, 20, 24, 25, 27, 28, 30, 31, 33, 37, 40]
+Feature indices in final selection : [7, 8, 9, 11, 13, 14, 22, 24, 27, 30, 37]
+Feature indices in final selection : [7, 8, 11, 14, 24, 27, 30, 37]
+Feature indices in final selection : [4, 6, 7, 8, 9, 13, 14, 22, 24, 25, 27, 28, 30, 31, 33, 37, 40]
+Feature indices in final selection : [7, 8, 9, 14, 22, 26, 27, 30, 32, 37]
+best sol index found
+best sol index 0
+best avg performance 2.418168029131888
+avg of avg goal 1.7663728255961424
+best performance :
+2.418168029131888
+Crossover population 20
+Temp individual length 20
+best sol sum before 3456.922355841258
+Doing 2-point crossover for sol: 1, 2
+Doing 2-point crossover for sol: 3, 4
+Doing 2-point crossover for sol: 5, 6
+Doing 2-point crossover for sol: 7, 8
+Doing 2-point crossover for sol: 9, 10
+Doing 2-point crossover for sol: 11, 12
+Doing 2-point crossover for sol: 13, 14
+Doing 2-point crossover for sol: 15, 16
+Doing 2-point crossover for sol: 17, 18
+best sol sum after 3456.922355841258
+Doing adaptive mutation
+population size 20
+
+Generation : 23
+Feature indices in final selection : [3, 4, 5, 6, 8, 10, 11, 13, 14, 20, 25, 26, 27, 30, 31, 33, 37]
+Feature indices in final selection : [3, 4, 5, 6, 8, 10, 11, 14, 17, 20, 25, 26, 27, 30, 31, 33, 37]
+Feature indices in final selection : [7, 8, 11, 13, 14, 24, 27, 30, 37]
+Feature indices in final selection : [4, 5, 6, 8, 10, 11, 13, 14, 15, 20, 21, 25, 26, 27, 28, 30, 31, 33, 34, 37]
+Feature indices in final selection : [3, 4, 5, 6, 8, 11, 13, 14, 22, 24, 25, 27, 28, 30, 31, 33, 34, 37]
+Feature indices in final selection : [3, 4, 5, 6, 8, 9, 10, 11, 13, 14, 20, 25, 26, 30, 31, 33, 37]
+Feature indices in final selection : [3, 4, 5, 6, 8, 10, 11, 13, 14, 22, 24, 25, 27, 28, 30, 31, 33, 34, 37]
+Feature indices in final selection : [4, 8, 10, 11, 13, 14, 17, 22, 23, 25, 26, 27, 28, 30, 31, 33, 34, 37]
+Feature indices in final selection : [4, 5, 6, 8, 10, 11, 13, 14, 15, 20, 21, 25, 26, 27, 28, 30, 31, 33, 37]
+Feature indices in final selection : [4, 6, 7, 8, 9, 13, 14, 22, 24, 25, 27, 28, 30, 31, 33, 37, 40]
+Feature indices in final selection : [4, 6, 7, 8, 9, 13, 14, 22, 24, 25, 27, 28, 30, 31, 33, 37, 40]
+Feature indices in final selection : [5, 7, 8, 9, 11, 13, 14, 22, 24, 27, 30, 37]
+Feature indices in final selection : [3, 4, 5, 6, 8, 10, 11, 13, 14, 22, 24, 25, 27, 28, 30, 31, 33, 34, 37]
+Feature indices in final selection : [4, 7, 8, 10, 11, 13, 14, 22, 23, 24, 25, 27, 28, 30, 31, 33, 37]
+Feature indices in final selection : [4, 6, 7, 8, 10, 11, 13, 14, 17, 22, 23, 25, 26, 27, 28, 30, 31, 33, 37, 40]
+Feature indices in final selection : [3, 4, 5, 6, 8, 10, 11, 13, 14, 22, 24, 25, 27, 28, 30, 31, 33, 34, 37]
+Feature indices in final selection : [3, 4, 5, 6, 8, 10, 11, 14, 20, 25, 26, 27, 30, 31, 33, 37]
+Feature indices in final selection : [7, 8, 11, 14, 24, 27, 30, 37]
+Feature indices in final selection : [0, 4, 8, 10, 11, 13, 14, 17, 22, 23, 25, 26, 27, 28, 30, 31, 33, 37, 38]
+Feature indices in final selection : [7, 8, 9, 11, 13, 14, 22, 24, 27, 30, 37]
+best sol index found
+best sol index 16
+best avg performance 2.420279962713524
+avg of avg goal 1.970751411522344
+best performance :
+2.420279962713524
+Crossover population 20
+Temp individual length 20
+best sol sum before 3456.342205072272
+Doing 2-point crossover for sol: 1, 2
+Doing 2-point crossover for sol: 3, 4
+Doing 2-point crossover for sol: 5, 6
+Doing 2-point crossover for sol: 7, 8
+Doing 2-point crossover for sol: 9, 10
+Doing 2-point crossover for sol: 11, 12
+Doing 2-point crossover for sol: 13, 14
+Doing 2-point crossover for sol: 15, 16
+Doing 2-point crossover for sol: 17, 18
+best sol sum after 3456.342205072272
+Doing adaptive mutation
+population size 20
+
+Generation : 24
+Feature indices in final selection : [3, 4, 5, 6, 8, 10, 11, 14, 20, 25, 26, 27, 30, 31, 33, 37]
+Feature indices in final selection : [4, 7, 8, 10, 11, 14, 17, 20, 24, 25, 27, 28, 30, 31, 33, 37, 40]
+Feature indices in final selection : [5, 6, 8, 11, 13, 14, 22, 24, 27, 30, 37]
+Feature indices in final selection : [3, 4, 5, 6, 8, 10, 11, 13, 14, 15, 20, 21, 25, 26, 28, 30, 31, 33, 34, 37]
+Feature indices in final selection : [4, 5, 6, 8, 10, 11, 13, 14, 22, 24, 25, 27, 28, 30, 31, 32, 33, 34, 37]
+Feature indices in final selection : [3, 4, 5, 6, 8, 10, 11, 13, 14, 20, 25, 26, 27, 30, 31, 33, 37]
+Feature indices in final selection : [3, 4, 5, 6, 8, 10, 11, 13, 14, 20, 25, 26, 27, 30, 31, 33, 37]
+Feature indices in final selection : [4, 5, 6, 8, 10, 11, 13, 14, 15, 20, 21, 25, 26, 27, 28, 30, 31, 33, 37, 40]
+Feature indices in final selection : [5, 7, 8, 9, 11, 13, 14, 22, 24, 27, 30, 37]
+Feature indices in final selection : [5, 6, 8, 9, 11, 13, 14, 26, 30, 37]
+Feature indices in final selection : [4, 7, 8, 10, 11, 14, 17, 20, 24, 25, 27, 28, 30, 31, 33, 37, 40]
+Feature indices in final selection : [4, 5, 6, 8, 10, 11, 13, 14, 15, 20, 21, 25, 26, 27, 28, 30, 31, 33, 34, 37]
+Feature indices in final selection : [4, 5, 6, 8, 10, 11, 13, 14, 15, 20, 21, 25, 26, 27, 28, 30, 31, 33, 37]
+Feature indices in final selection : [4, 8, 10, 11, 13, 14, 17, 22, 23, 25, 26, 27, 28, 30, 31, 33, 34]
+Feature indices in final selection : [4, 5, 6, 8, 10, 11, 13, 14, 15, 20, 21, 25, 26, 27, 28, 30, 31, 33, 34, 37]
+Feature indices in final selection : [8, 11, 13, 14, 22, 23, 26, 27, 30, 37]
+Feature indices in final selection : [4, 7, 8, 10, 11, 13, 14, 20, 23, 24, 25, 27, 28, 30, 31, 33, 37, 38, 40]
+Feature indices in final selection : [4, 7, 8, 10, 11, 13, 14, 22, 23, 25, 26, 30, 31, 33, 37]
+Feature indices in final selection : [3, 4, 5, 6, 8, 9, 10, 11, 13, 14, 20, 24, 25, 27, 28, 30, 31, 33, 37]
+Feature indices in final selection : [4, 5, 6, 8, 10, 11, 13, 14, 15, 17, 20, 21, 25, 26, 27, 28, 30, 31, 33, 37]
+best sol index found
+best sol index 0
+best avg performance 2.420279962713524
+avg of avg goal 2.1177244973725418
+best performance :
+2.420279962713524
+Crossover population 20
+Temp individual length 20
+best sol sum before 3456.342205072272
+Doing 2-point crossover for sol: 1, 2
+Doing 2-point crossover for sol: 3, 4
+Doing 2-point crossover for sol: 5, 6
+Doing 2-point crossover for sol: 7, 8
+Doing 2-point crossover for sol: 9, 10
+Doing 2-point crossover for sol: 11, 12
+Doing 2-point crossover for sol: 13, 14
+Doing 2-point crossover for sol: 15, 16
+best sol sum after 3456.342205072272
+Doing adaptive mutation
+population size 20
+
+Generation : 25
+Feature indices in final selection : [3, 4, 5, 6, 8, 10, 11, 14, 20, 25, 26, 27, 30, 31, 33, 37]
+Feature indices in final selection : [4, 7, 8, 10, 11, 13, 14, 15, 20, 21, 25, 26, 27, 28, 30, 31, 33, 34, 37]
+Feature indices in final selection : [4, 5, 6, 8, 10, 11, 13, 14, 22, 23, 25, 26, 30, 31, 33, 37]
+Feature indices in final selection : [4, 7, 8, 10, 11, 14, 17, 20, 24, 25, 27, 28, 30, 31, 33, 37, 40]
+Feature indices in final selection : [8, 11, 13, 14, 22, 23, 26, 27, 30, 37]
+Feature indices in final selection : [4, 7, 8, 10, 11, 13, 14, 15, 17, 20, 21, 25, 26, 27, 28, 30, 31, 33, 37]
+Feature indices in final selection : [4, 5, 6, 8, 10, 11, 14, 17, 20, 24, 25, 27, 28, 30, 33, 37, 40]
+Feature indices in final selection : [4, 5, 6, 8, 9, 10, 11, 13, 14, 20, 24, 25, 27, 28, 30, 31, 33, 37]
+Feature indices in final selection : [5, 7, 8, 9, 11, 13, 14, 22, 24, 27, 30, 37]
+Feature indices in final selection : [4, 7, 8, 10, 11, 13, 14, 22, 23, 25, 26, 30, 31, 33, 37]
+Feature indices in final selection : [4, 7, 8, 10, 11, 13, 14, 22, 23, 25, 26, 30, 31, 33, 37]
+Feature indices in final selection : [5, 6, 8, 11, 13, 14, 22, 24, 27, 30, 37]
+Feature indices in final selection : [3, 4, 5, 6, 8, 10, 11, 13, 14, 25, 26, 27, 30, 31, 33, 37]
+Feature indices in final selection : [4, 5, 6, 7, 8, 10, 11, 14, 15, 17, 20, 24, 25, 27, 28, 30, 31, 33, 37, 40]
+Feature indices in final selection : [3, 4, 8, 10, 11, 13, 14, 20, 25, 26, 27, 30, 31, 33, 37]
+Feature indices in final selection : [4, 5, 6, 8, 10, 11, 13, 14, 15, 20, 21, 25, 26, 27, 28, 30, 31, 33, 34, 37]
+Feature indices in final selection : [4, 5, 6, 8, 10, 11, 13, 14, 15, 20, 21, 25, 26, 27, 28, 30, 31, 33, 37, 40]
+Feature indices in final selection : [3, 4, 5, 6, 8, 10, 11, 13, 14, 20, 25, 26, 27, 30, 31, 33, 37]
+Feature indices in final selection : [4, 5, 6, 8, 10, 11, 13, 14, 22, 24, 25, 27, 28, 30, 31, 32, 33, 34, 37]
+Feature indices in final selection : [5, 6, 8, 9, 11, 13, 14, 26, 30, 37]
+best sol index found
+best sol index 0
+best avg performance 2.420279962713524
+avg of avg goal 2.0804734985814077
+best performance :
+2.420279962713524
+Crossover population 20
+Temp individual length 20
+best sol sum before 3456.342205072272
+Doing 2-point crossover for sol: 1, 2
+Doing 2-point crossover for sol: 3, 4
+Doing 2-point crossover for sol: 5, 6
+Doing 2-point crossover for sol: 7, 8
+Doing 2-point crossover for sol: 9, 10
+Doing 2-point crossover for sol: 11, 12
+Doing 2-point crossover for sol: 13, 14
+Doing 2-point crossover for sol: 15, 16
+Doing 2-point crossover for sol: 17, 18
+best sol sum after 3456.342205072272
+Doing adaptive mutation
+population size 20
+
+Generation : 26
+Feature indices in final selection : [3, 4, 5, 6, 8, 10, 11, 14, 20, 25, 26, 27, 30, 31, 33, 37]
+Feature indices in final selection : [2, 5, 6, 8, 11, 13, 14, 22, 24, 27, 30, 37]
+Feature indices in final selection : [4, 7, 8, 10, 11, 13, 14, 20, 21, 25, 26, 27, 28, 30, 33, 34, 37]
+Feature indices in final selection : [4, 8, 10, 11, 13, 14, 17, 22, 23, 25, 26, 27, 28, 30, 31, 33, 34, 37]
+Feature indices in final selection : [5, 6, 8, 11, 13, 14, 26, 27, 30, 37]
+Feature indices in final selection : [4, 5, 6, 7, 8, 10, 11, 14, 17, 20, 24, 25, 27, 28, 30, 31, 33, 37, 40]
+Feature indices in final selection : [3, 4, 7, 8, 10, 11, 14, 15, 17, 20, 24, 25, 27, 28, 30, 31, 33, 37, 40]
+Feature indices in final selection : [3, 4, 8, 10, 11, 13, 14, 20, 25, 26, 27, 30, 31, 33, 37]
+Feature indices in final selection : [4, 7, 8, 10, 11, 13, 14, 22, 23, 25, 26, 30, 31, 33, 37, 40]
+Feature indices in final selection : [4, 8, 10, 11, 13, 14, 22, 23, 25, 26, 30, 31, 33, 37]
+Feature indices in final selection : [7, 8, 11, 13, 14, 22, 23, 26, 27, 30, 37]
+Feature indices in final selection : [5, 6, 8, 11, 13, 14, 26, 30, 37]
+Feature indices in final selection : [4, 5, 6, 8, 9, 10, 11, 13, 14, 20, 21, 25, 26, 27, 28, 30, 31, 33, 37, 40]
+Feature indices in final selection : [8, 11, 13, 14, 23, 26, 27, 30, 37]
+Feature indices in final selection : [3, 4, 5, 6, 8, 10, 11, 14, 22, 25, 26, 27, 30, 31, 33, 37]
+Feature indices in final selection : [4, 7, 8, 10, 11, 13, 14, 15, 17, 22, 24, 25, 27, 28, 30, 31, 33, 37]
+Feature indices in final selection : [5, 7, 8, 9, 11, 13, 14, 26, 27, 30, 37]
+Feature indices in final selection : [4, 7, 8, 10, 11, 13, 14, 15, 17, 20, 21, 25, 26, 27, 28, 30, 31, 33, 37]
+Feature indices in final selection : [4, 7, 8, 10, 11, 13, 14, 15, 17, 20, 21, 25, 26, 27, 28, 30, 31, 33, 37]
+Feature indices in final selection : [5, 6, 11, 13, 14, 22, 24, 27, 30, 37]
+best sol index found
+best sol index 11
+best avg performance 2.435238257497429
+avg of avg goal 2.024559277328522
+best performance :
+2.435238257497429
+Crossover population 20
+Temp individual length 20
+best sol sum before 2027.3389412590204
+Doing 2-point crossover for sol: 1, 2
+Doing 2-point crossover for sol: 3, 4
+Doing 2-point crossover for sol: 5, 6
+Doing 2-point crossover for sol: 7, 8
+Doing 2-point crossover for sol: 9, 10
+Doing 2-point crossover for sol: 13, 14
+Doing 2-point crossover for sol: 15, 16
+Doing 2-point crossover for sol: 17, 18
+best sol sum after 2027.3389412590204
+Doing adaptive mutation
+population size 20
+
+Generation : 27
+Feature indices in final selection : [5, 6, 8, 11, 13, 14, 26, 30, 37]
+Feature indices in final selection : [4, 5, 6, 7, 8, 10, 11, 13, 14, 20, 21, 24, 25, 27, 28, 30, 31, 33, 37, 40]
+Feature indices in final selection : [4, 7, 8, 10, 11, 14, 17, 20, 25, 26, 27, 28, 30, 33, 34, 37]
+Feature indices in final selection : [8, 11, 13, 14, 23, 26, 27, 30, 37]
+Feature indices in final selection : [5, 6, 11, 13, 14, 22, 24, 27, 30, 37]
+Feature indices in final selection : [7, 8, 11, 13, 14, 22, 23, 26, 30, 37]
+Feature indices in final selection : [4, 7, 8, 10, 11, 13, 14, 22, 23, 25, 26, 27, 28, 30, 31, 33, 34, 37, 40]
+Feature indices in final selection : [2, 5, 6, 8, 11, 13, 14, 22, 24, 27, 30, 37]
+Feature indices in final selection : [5, 6, 8, 11, 13, 14, 26, 27, 30, 37]
+Feature indices in final selection : [8, 11, 13, 14, 22, 24, 27, 30, 37]
+Feature indices in final selection : [2, 3, 4, 5, 6, 8, 10, 11, 13, 14, 17, 22, 23, 25, 26, 27, 28, 30, 31, 33, 34, 37]
+Feature indices in final selection : [4, 7, 8, 10, 11, 13, 14, 20, 21, 25, 26, 27, 28, 30, 33, 34, 37]
+Feature indices in final selection : [4, 7, 8, 10, 11, 13, 14, 15, 17, 20, 21, 25, 26, 27, 28, 30, 31, 33, 37]
+Feature indices in final selection : [3, 4, 7, 8, 10, 11, 14, 15, 17, 20, 22, 24, 25, 27, 28, 30, 31, 33, 37, 40]
+Feature indices in final selection : [5, 6, 11, 13, 14, 24, 27, 30, 37]
+Feature indices in final selection : [3, 4, 7, 8, 10, 11, 13, 14, 15, 17, 20, 21, 24, 25, 27, 28, 30, 31, 33, 37, 40]
+Feature indices in final selection : [4, 7, 8, 10, 11, 14, 15, 17, 20, 25, 26, 27, 28, 30, 31, 33, 37]
+Feature indices in final selection : [4, 7, 8, 10, 11, 13, 14, 17, 20, 24, 25, 27, 28, 30, 31, 33, 37, 40]
+Feature indices in final selection : [4, 5, 6, 7, 8, 10, 11, 14, 22, 23, 25, 26, 30, 31, 33, 37, 40]
+Feature indices in final selection : [3, 4, 7, 8, 10, 11, 14, 15, 17, 20, 24, 25, 27, 28, 30, 31, 33, 37, 40]
+best sol index found
+best sol index 0
+best avg performance 2.435238257497429
+avg of avg goal 1.9441774924922481
+best performance :
+2.435238257497429
+Crossover population 20
+Temp individual length 20
+best sol sum before 2027.3389412590204
+Doing 2-point crossover for sol: 1, 2
+Doing 2-point crossover for sol: 3, 4
+Doing 2-point crossover for sol: 5, 6
+Doing 2-point crossover for sol: 7, 8
+Doing 2-point crossover for sol: 9, 10
+Doing 2-point crossover for sol: 11, 12
+Doing 2-point crossover for sol: 13, 14
+Doing 2-point crossover for sol: 15, 16
+Doing 2-point crossover for sol: 17, 18
+best sol sum after 2027.3389412590204
+Doing adaptive mutation
+population size 20
+
+Generation : 28
+Feature indices in final selection : [5, 6, 8, 11, 13, 14, 26, 30, 37]
+Feature indices in final selection : [3, 4, 7, 8, 10, 11, 14, 15, 17, 20, 22, 24, 25, 26, 27, 28, 30, 31, 34, 37, 40]
+Feature indices in final selection : [4, 7, 8, 10, 11, 13, 14, 22, 23, 25, 27, 28, 30, 31, 33, 37, 40]
+Feature indices in final selection : [4, 7, 8, 10, 11, 14, 15, 17, 20, 24, 25, 26, 27, 28, 30, 31, 33, 37, 40]
+Feature indices in final selection : [8, 11, 13, 14, 22, 24, 27, 30, 37]
+Feature indices in final selection : [4, 7, 8, 10, 11, 13, 14, 20, 25, 26, 27, 28, 30, 31, 33, 34, 37, 40]
+Feature indices in final selection : [4, 7, 8, 10, 11, 14, 15, 17, 22, 23, 25, 26, 27, 28, 30, 31, 33, 37]
+Feature indices in final selection : [2, 3, 4, 7, 8, 10, 11, 13, 14, 21, 22, 23, 25, 26, 27, 28, 30, 31, 33, 34, 37, 40]
+Feature indices in final selection : [4, 5, 8, 10, 11, 13, 14, 17, 22, 23, 25, 26, 27, 28, 30, 31, 33, 34, 37]
+Feature indices in final selection : [4, 7, 8, 10, 11, 13, 14, 25, 26, 27, 28, 30, 33, 34, 37, 40]
+Feature indices in final selection : [4, 7, 8, 10, 11, 14, 17, 20, 22, 23, 25, 26, 27, 28, 30, 31, 33, 34, 37]
+Feature indices in final selection : [3, 4, 7, 8, 10, 11, 13, 20, 21, 25, 26, 27, 28, 30, 33, 34, 37, 38]
+Feature indices in final selection : [5, 6, 8, 9, 11, 13, 14, 26, 30, 37]
+Feature indices in final selection : [7, 8, 11, 13, 14, 22, 23, 26, 30, 37]
+Feature indices in final selection : [4, 7, 8, 10, 11, 13, 14, 17, 20, 24, 25, 27, 28, 30, 31, 33, 37, 40]
+Feature indices in final selection : [4, 5, 6, 7, 10, 11, 14, 21, 22, 23, 25, 26, 30, 31, 33, 37, 40]
+Feature indices in final selection : [5, 6, 8, 11, 13, 14, 26, 30, 37]
+Feature indices in final selection : [4, 7, 8, 10, 11, 13, 14, 22, 23, 25, 26, 27, 28, 30, 31, 33, 34, 37, 40]
+Feature indices in final selection : [3, 4, 7, 8, 10, 11, 14, 15, 17, 20, 24, 25, 27, 28, 30, 31, 33, 37, 40]
+best sol index found
+best sol index 12
+best avg performance 2.4379073516194603
+avg of avg goal 1.8145226758915765
+best performance :
+2.4379073516194603
+Crossover population 20
+Temp individual length 20
+best sol sum before 2033.880665804025
+Doing 2-point crossover for sol: 1, 2
+Doing 2-point crossover for sol: 3, 4
+Doing 2-point crossover for sol: 5, 6
+Doing 2-point crossover for sol: 7, 8
+Doing 2-point crossover for sol: 9, 10
+Doing 2-point crossover for sol: 11, 12
+Doing 2-point crossover for sol: 13, 14
+Doing 2-point crossover for sol: 15, 16
+Doing 2-point crossover for sol: 17, 18
+best sol sum after 2033.880665804025
+Doing adaptive mutation
+population size 20
+
+Generation : 29
+Feature indices in final selection : [5, 6, 8, 9, 11, 13, 14, 26, 30, 37]
+Feature indices in final selection : [4, 7, 8, 10, 11, 13, 14, 20, 25, 26, 27, 28, 30, 31, 33, 34, 37, 40]
+Feature indices in final selection : [5, 6, 8, 11, 13, 14, 26, 30, 37]
+Feature indices in final selection : [4, 7, 8, 10, 11, 13, 14, 23, 25, 27, 28, 30, 31, 33, 37, 40]
+Feature indices in final selection : [8, 11, 13, 14, 22, 24, 27, 30, 37]
+Feature indices in final selection : [4, 7, 10, 11, 14, 21, 22, 23, 25, 26, 28, 30, 31, 33, 37, 40]
+Feature indices in final selection : [4, 5, 6, 7, 8, 10, 11, 13, 14, 20, 25, 26, 27, 28, 30, 31, 33, 34, 37, 40]
+Feature indices in final selection : [4, 7, 8, 10, 11, 14, 15, 17, 22, 23, 24, 25, 26, 27, 28, 30, 31, 33, 37, 38]
+Feature indices in final selection : [5, 6, 8, 11, 13, 14, 26, 30, 37]
+Feature indices in final selection : [7, 8, 11, 13, 14, 26, 30, 37]
+Feature indices in final selection : [3, 4, 5, 6, 8, 10, 11, 13, 14, 25, 26, 27, 28, 30, 33, 34, 37, 40]
+Feature indices in final selection : [3, 4, 7, 8, 10, 11, 13, 14, 25, 26, 27, 28, 30, 33, 34, 37, 40]
+Feature indices in final selection : [2, 4, 7, 8, 10, 11, 13, 14, 21, 22, 23, 25, 26, 27, 28, 30, 31, 33, 34, 37, 40]
+Feature indices in final selection : [5, 6, 8, 11, 13, 14, 26, 30, 37]
+Feature indices in final selection : [4, 7, 8, 10, 11, 14, 17, 22, 23, 25, 26, 27, 28, 30, 31, 33, 34, 37]
+Feature indices in final selection : [4, 7, 8, 10, 11, 13, 14, 25, 26, 27, 28, 30, 31, 33, 34, 37, 38, 40]
+Feature indices in final selection : [3, 4, 7, 8, 9, 10, 11, 13, 20, 21, 25, 26, 27, 28, 30, 31, 33, 34, 37]
+Feature indices in final selection : [4, 7, 8, 10, 11, 13, 14, 22, 23, 25, 27, 28, 30, 31, 33, 37, 40]
+Feature indices in final selection : [4, 7, 8, 10, 11, 13, 14, 22, 23, 25, 27, 28, 30, 31, 33, 37, 40]
+Feature indices in final selection : [4, 5, 8, 10, 11, 13, 14, 17, 22, 23, 25, 26, 27, 28, 30, 31, 33, 34, 37]
+best sol index found
+best sol index 0
+best avg performance 2.4379073516194603
+avg of avg goal 1.9569715316664642
+best performance :
+2.4379073516194603
+Crossover population 20
+Temp individual length 20
+best sol sum before 2033.880665804025
+Doing 2-point crossover for sol: 1, 2
+Doing 2-point crossover for sol: 3, 4
+Doing 2-point crossover for sol: 5, 6
+Doing 2-point crossover for sol: 7, 8
+Doing 2-point crossover for sol: 9, 10
+Doing 2-point crossover for sol: 11, 12
+Doing 2-point crossover for sol: 13, 14
+Doing 2-point crossover for sol: 17, 18
+best sol sum after 2033.880665804025
+Doing adaptive mutation
+population size 20
+
+Generation : 30
+Feature indices in final selection : [5, 6, 8, 9, 11, 13, 14, 26, 30, 37]
+Feature indices in final selection : [5, 6, 8, 11, 13, 14, 26, 27, 30, 37]
+Feature indices in final selection : [3, 4, 8, 14, 25, 26, 33, 37, 40]
+Feature indices in final selection : [1, 2, 4, 7, 8, 10, 11, 13, 14, 21, 22, 23, 25, 26, 27, 28, 30, 31, 33, 37, 40]
+Feature indices in final selection : [5, 6, 8, 11, 13, 14, 26, 30, 37]
+Feature indices in final selection : [5, 6, 8, 11, 13, 14, 26, 30, 37]
+Feature indices in final selection : [3, 4, 7, 8, 10, 11, 13, 14, 25, 26, 27, 28, 30, 31, 33, 37, 40]
+Feature indices in final selection : [7, 8, 9, 11, 13, 14, 26, 30, 37]
+Feature indices in final selection : [3, 4, 5, 6, 8, 10, 11, 13, 14, 15, 23, 25, 27, 28, 30, 31, 33, 37, 40]
+Feature indices in final selection : [4, 7, 8, 10, 11, 13, 14, 25, 26, 27, 28, 30, 31, 33, 34, 37, 38, 40]
+Feature indices in final selection : [4, 5, 6, 7, 8, 10, 11, 13, 14, 20, 25, 26, 27, 28, 30, 31, 33, 34, 37, 40]
+Feature indices in final selection : [2, 4, 5, 6, 7, 8, 10, 11, 13, 14, 21, 22, 23, 25, 26, 27, 28, 30, 31, 33, 34, 37, 40]
+Feature indices in final selection : [8, 9, 11, 13, 14, 26, 30, 37]
+Feature indices in final selection : [4, 6, 7, 8, 10, 11, 13, 14, 22, 23, 25, 27, 28, 30, 31, 33, 37, 40]
+Feature indices in final selection : [4, 7, 10, 11, 14, 21, 22, 23, 25, 26, 28, 30, 31, 33, 37, 40]
+Feature indices in final selection : [4, 7, 8, 10, 11, 13, 14, 25, 26, 27, 28, 30, 31, 33, 34, 37, 38, 40]
+Feature indices in final selection : [4, 7, 8, 10, 11, 13, 14, 22, 23, 25, 27, 28, 30, 31, 33, 37, 40]
+Feature indices in final selection : [4, 6, 7, 8, 10, 11, 13, 14, 22, 23, 25, 27, 28, 30, 31, 33, 37, 40]
+Feature indices in final selection : [3, 4, 7, 8, 9, 10, 11, 13, 20, 21, 25, 26, 27, 28, 30, 31, 33, 34, 37]
+Feature indices in final selection : [4, 7, 8, 10, 11, 13, 14, 23, 25, 27, 28, 30, 31, 33, 37, 40]
+best sol index found
+best sol index 1
+best avg performance 2.438004301042324
+avg of avg goal 1.9439885909735988
+best performance :
+2.438004301042324
+Crossover population 20
+Temp individual length 20
+best sol sum before 1717.9092043390826
+Doing 2-point crossover for sol: 1, 2
+Doing 2-point crossover for sol: 3, 4
+Doing 2-point crossover for sol: 5, 6
+Doing 2-point crossover for sol: 7, 8
+Doing 2-point crossover for sol: 9, 10
+Doing 2-point crossover for sol: 11, 12
+Doing 2-point crossover for sol: 13, 14
+Doing 2-point crossover for sol: 15, 16
+best sol sum after 1717.9092043390826
+Doing adaptive mutation
+population size 20
+
+Generation : 31
+Feature indices in final selection : [5, 6, 8, 11, 13, 14, 26, 27, 30, 37]
+Feature indices in final selection : [4, 6, 8, 10, 11, 13, 14, 22, 23, 25, 27, 28, 30, 31, 33, 37, 40]
+Feature indices in final selection : [3, 4, 5, 7, 8, 10, 11, 13, 14, 15, 23, 25, 27, 28, 30, 31, 33, 37, 40]
+Feature indices in final selection : [2, 4, 5, 6, 7, 8, 9, 10, 11, 13, 14, 23, 25, 27, 28, 30, 31, 33, 34, 37, 40]
+Feature indices in final selection : [4, 7, 8, 10, 11, 13, 14, 21, 22, 23, 25, 26, 27, 28, 30, 31, 33, 37, 40]
+Feature indices in final selection : [4, 6, 7, 8, 10, 11, 13, 14, 21, 22, 23, 25, 26, 27, 28, 30, 31, 33, 34, 40]
+Feature indices in final selection : [2, 4, 5, 6, 7, 8, 10, 11, 13, 14, 22, 23, 25, 27, 28, 30, 31, 33, 37, 40]
+Feature indices in final selection : [4, 6, 7, 8, 10, 11, 13, 14, 25, 26, 27, 28, 30, 31, 33, 34, 37, 38, 40]
+Feature indices in final selection : [4, 7, 8, 10, 11, 13, 14, 22, 23, 25, 27, 28, 30, 31, 33, 37, 40]
+Feature indices in final selection : [4, 7, 8, 10, 11, 13, 14, 25, 26, 30, 33, 37, 40]
+Feature indices in final selection : [5, 6, 8, 11, 13, 14, 22, 23, 27, 30, 37]
+Feature indices in final selection : [7, 11, 14, 26, 30, 37]
+Feature indices in final selection : [3, 4, 5, 6, 8, 10, 11, 13, 14, 21, 22, 23, 25, 26, 28, 30, 31, 33, 37, 40]
+Feature indices in final selection : [4, 7, 8, 10, 11, 13, 14, 25, 26, 27, 28, 30, 31, 33, 34, 37, 38, 40]
+Feature indices in final selection : [3, 4, 5, 6, 8, 10, 11, 13, 14, 15, 23, 25, 27, 28, 30, 31, 33, 37, 40]
+Feature indices in final selection : [4, 7, 8, 10, 11, 13, 14, 23, 25, 27, 28, 30, 31, 33, 37, 40]
+Feature indices in final selection : [4, 7, 8, 10, 11, 13, 14, 22, 23, 25, 27, 28, 30, 31, 33, 37, 40]
+Feature indices in final selection : [5, 6, 8, 11, 13, 14, 26, 27, 30, 37]
+Feature indices in final selection : [5, 6, 8, 11, 13, 14, 26, 30, 37]
+Feature indices in final selection : [1, 2, 4, 7, 8, 10, 11, 13, 14, 21, 22, 23, 25, 26, 27, 28, 30, 31, 33, 37, 40]
+best sol index found
+best sol index 0
+best avg performance 2.438004301042324
+avg of avg goal 1.9154942560649446
+best performance :
+2.438004301042324
+Crossover population 20
+Temp individual length 20
+best sol sum before 1717.9092043390826
+Doing 2-point crossover for sol: 3, 4
+Doing 2-point crossover for sol: 5, 6
+Doing 2-point crossover for sol: 7, 8
+Doing 2-point crossover for sol: 9, 10
+Doing 2-point crossover for sol: 11, 12
+Doing 2-point crossover for sol: 13, 14
+Doing 2-point crossover for sol: 15, 16
+Doing 2-point crossover for sol: 17, 18
+best sol sum after 1717.9092043390826
+Doing adaptive mutation
+population size 20
+
+Generation : 32
+Feature indices in final selection : [5, 6, 8, 11, 13, 14, 26, 27, 30, 37]
+Feature indices in final selection : [4, 6, 7, 8, 10, 11, 13, 14, 25, 26, 27, 28, 30, 31, 33, 34, 37, 38, 40]
+Feature indices in final selection : [4, 7, 8, 10, 11, 13, 14, 25, 26, 30, 33, 37, 40]
+Feature indices in final selection : [4, 6, 7, 8, 10, 11, 13, 14, 23, 25, 26, 27, 28, 30, 31, 33, 34, 40]
+Feature indices in final selection : [4, 6, 7, 8, 10, 11, 13, 14, 21, 22, 25, 26, 27, 28, 30, 31, 33, 34, 37, 38, 40]
+Feature indices in final selection : [4, 7, 8, 10, 11, 13, 14, 22, 23, 25, 27, 28, 30, 31, 33, 37, 40]
+Feature indices in final selection : [4, 6, 8, 10, 11, 13, 14, 22, 23, 25, 27, 28, 30, 31, 33, 37, 40]
+Feature indices in final selection : [3, 4, 5, 6, 8, 10, 11, 13, 14, 15, 25, 26, 30, 31, 33, 34, 37]
+Feature indices in final selection : [2, 5, 6, 7, 8, 9, 11, 13, 14, 23, 27, 30, 37]
+Feature indices in final selection : [5, 6, 8, 11, 13, 14, 26, 30, 37]
+Feature indices in final selection : [3, 4, 5, 6, 8, 10, 11, 13, 14, 15, 23, 25, 27, 28, 30, 31, 33, 37, 40]
+Feature indices in final selection : [4, 6, 8, 10, 11, 13, 14, 22, 23, 25, 27, 28, 30, 31, 33, 34, 37, 40]
+Feature indices in final selection : [7, 11, 14, 26, 30, 37]
+Feature indices in final selection : [7, 11, 13, 14, 26, 30, 37]
+Feature indices in final selection : [4, 6, 7, 8, 10, 11, 14, 15, 25, 26, 27, 28, 30, 31, 33, 34, 37, 38, 40]
+Feature indices in final selection : [4, 6, 8, 10, 11, 13, 14, 25, 26, 27, 28, 30, 31, 33, 34, 37, 38, 40]
+Feature indices in final selection : [5, 6, 7, 8, 11, 13, 14, 26, 30, 37]
+Feature indices in final selection : [3, 4, 5, 6, 8, 10, 11, 13, 14, 25, 26, 27, 28, 30, 31, 33, 34, 37, 38, 40]
+Feature indices in final selection : [4, 6, 7, 8, 10, 11, 13, 14, 15, 23, 25, 27, 28, 30, 31, 33, 37, 40]
+Feature indices in final selection : [4, 7, 8, 10, 11, 13, 14, 21, 22, 23, 25, 26, 27, 28, 30, 31, 33, 37, 40]
+best sol index found
+best sol index 0
+best avg performance 2.438004301042324
+avg of avg goal 1.8978475388361904
+best performance :
+2.438004301042324
+Crossover population 20
+Temp individual length 20
+best sol sum before 1717.9092043390826
+Doing 2-point crossover for sol: 1, 2
+Doing 2-point crossover for sol: 5, 6
+Doing 2-point crossover for sol: 7, 8
+Doing 2-point crossover for sol: 9, 10
+Doing 2-point crossover for sol: 11, 12
+Doing 2-point crossover for sol: 15, 16
+Doing 2-point crossover for sol: 17, 18
+best sol sum after 1717.9092043390826
+Doing adaptive mutation
+population size 20
+
+Generation : 33
+Feature indices in final selection : [5, 6, 8, 11, 13, 14, 26, 27, 30, 37]
+Feature indices in final selection : [3, 4, 5, 6, 8, 10, 11, 13, 14, 15, 20, 25, 26, 27, 28, 30, 33, 34, 37]
+Feature indices in final selection : [5, 6, 8, 11, 13, 14, 26, 27, 30, 37]
+Feature indices in final selection : [4, 6, 8, 10, 11, 13, 14, 25, 26, 27, 28, 30, 31, 33, 34, 37, 38, 40]
+Feature indices in final selection : [4, 7, 8, 10, 11, 13, 14, 21, 22, 23, 24, 25, 26, 27, 28, 30, 31, 33, 37, 40]
+Feature indices in final selection : [4, 7, 8, 10, 11, 13, 14, 21, 22, 23, 25, 26, 27, 28, 30, 33, 37, 40]
+Feature indices in final selection : [4, 6, 7, 8, 10, 11, 13, 14, 25, 26, 27, 28, 30, 31, 33, 34, 37, 38, 40]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 10, 11, 13, 14, 23, 25, 26, 27, 28, 30, 31, 33, 34, 40]
+Feature indices in final selection : [6, 7, 8, 11, 13, 14, 26, 30, 37]
+Feature indices in final selection : [4, 7, 10, 11, 13, 14, 21, 22, 23, 25, 26, 27, 28, 30, 31, 33, 37, 40]
+Feature indices in final selection : [7, 8, 11, 13, 14, 26, 30, 37]
+Feature indices in final selection : [3, 4, 5, 6, 8, 10, 11, 13, 14, 15, 23, 25, 27, 28, 30, 31, 33, 37, 40]
+Feature indices in final selection : [3, 4, 5, 6, 8, 10, 11, 13, 14, 15, 25, 26, 30, 33, 34, 37]
+Feature indices in final selection : [4, 7, 8, 10, 11, 13, 14, 22, 23, 25, 27, 28, 30, 31, 33, 37, 40]
+Feature indices in final selection : [1, 3, 4, 5, 6, 8, 10, 11, 13, 14, 15, 25, 26, 30, 31, 33, 34, 37]
+Feature indices in final selection : [4, 7, 8, 10, 11, 13, 14, 22, 23, 25, 27, 28, 30, 31, 33, 37]
+Feature indices in final selection : [4, 6, 8, 14, 25, 33, 35, 37, 40]
+Feature indices in final selection : [4, 6, 7, 8, 10, 11, 13, 14, 21, 22, 25, 26, 27, 28, 30, 31, 33, 34, 37, 40]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 10, 11, 13, 14, 25, 26, 30, 33, 37]
+Feature indices in final selection : [4, 6, 8, 10, 11, 13, 14, 22, 23, 25, 27, 28, 30, 31, 33, 37, 40]
+best sol index found
+best sol index 1
+best avg performance 2.4675511342127106
+avg of avg goal 1.9391774853438597
+best performance :
+2.4675511342127106
+Crossover population 20
+Temp individual length 20
+best sol sum before 715.0280458104595
+Doing 2-point crossover for sol: 1, 2
+Doing 2-point crossover for sol: 3, 4
+Doing 2-point crossover for sol: 5, 6
+Doing 2-point crossover for sol: 7, 8
+Doing 2-point crossover for sol: 9, 10
+Doing 2-point crossover for sol: 11, 12
+Doing 2-point crossover for sol: 13, 14
+Doing 2-point crossover for sol: 15, 16
+Doing 2-point crossover for sol: 17, 18
+best sol sum after 715.0280458104595
+Doing adaptive mutation
+population size 20
+
+Generation : 34
+Feature indices in final selection : [3, 4, 5, 6, 8, 10, 11, 13, 14, 15, 20, 25, 26, 27, 28, 30, 33, 34, 37]
+Feature indices in final selection : [4, 7, 8, 10, 11, 13, 14, 22, 23, 25, 27, 28, 30, 31, 33, 37]
+Feature indices in final selection : [3, 4, 5, 6, 8, 10, 11, 13, 14, 15, 25, 27, 28, 30, 31, 33, 37, 40]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 10, 11, 13, 14, 22, 23, 25, 27, 28, 30, 31, 33, 37, 40]
+Feature indices in final selection : [4, 8, 10, 11, 13, 14, 15, 23, 25, 27, 28, 30, 31, 33, 37, 40]
+Feature indices in final selection : [3, 4, 5, 6, 8, 10, 11, 13, 14, 15, 20, 25, 26, 27, 28, 30, 33, 34, 37]
+Feature indices in final selection : [3, 4, 5, 6, 8, 10, 11, 13, 14, 15, 23, 25, 27, 28, 30, 31, 33, 37, 40]
+Feature indices in final selection : [3, 4, 5, 6, 8, 10, 11, 13, 14, 15, 23, 25, 26, 27, 28, 30, 31, 33, 34, 37, 38, 40]
+Feature indices in final selection : [4, 6, 7, 8, 10, 11, 13, 14, 25, 27, 28, 30, 31, 33, 37, 40]
+Feature indices in final selection : [4, 6, 8, 14, 25, 33, 35, 37, 40]
+Feature indices in final selection : [4, 8, 14, 25, 33, 35, 37, 40]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 10, 11, 13, 14, 23, 25, 26, 27, 28, 30, 31, 33, 34, 40]
+Feature indices in final selection : [4, 7, 8, 10, 11, 13, 14, 22, 23, 25, 27, 28, 30, 31, 33, 34, 37]
+Feature indices in final selection : [4, 7, 8, 10, 11, 13, 14, 25, 26, 27, 28, 30, 31, 33, 34, 37, 38, 40]
+Feature indices in final selection : [4, 6, 10, 11, 13, 14, 21, 22, 23, 25, 26, 27, 28, 30, 31, 33, 37, 40]
+Feature indices in final selection : [4, 6, 8, 10, 11, 13, 14, 21, 22, 23, 25, 26, 27, 28, 30, 31, 33, 37, 40]
+Feature indices in final selection : [4, 7, 10, 11, 13, 14, 25, 26, 27, 28, 30, 31, 33, 34, 37, 38, 40]
+Feature indices in final selection : [3, 4, 5, 6, 8, 10, 11, 13, 14, 15, 21, 22, 23, 25, 26, 27, 28, 30, 33, 34, 37]
+Feature indices in final selection : [4, 7, 8, 10, 11, 13, 14, 20, 25, 26, 27, 28, 30, 33, 37, 40]
+Feature indices in final selection : [0, 4, 7, 8, 10, 11, 13, 14, 21, 22, 23, 24, 25, 26, 27, 28, 30, 31, 33, 37, 40]
+best sol index found
+best sol index 17
+best avg performance 2.470848135726829
+avg of avg goal 1.8974053810444147
+best performance :
+2.470848135726829
+Crossover population 20
+Temp individual length 20
+best sol sum before 706.5780442479182
+Doing 2-point crossover for sol: 1, 2
+Doing 2-point crossover for sol: 3, 4
+Doing 2-point crossover for sol: 9, 10
+Doing 2-point crossover for sol: 11, 12
+Doing 2-point crossover for sol: 13, 14
+Doing 2-point crossover for sol: 15, 16
+best sol sum after 706.5780442479182
+Doing adaptive mutation
+population size 20
+
+Generation : 35
+Feature indices in final selection : [3, 4, 5, 6, 8, 10, 11, 13, 14, 15, 21, 22, 23, 25, 26, 27, 28, 30, 33, 34, 37]
+Feature indices in final selection : [3, 4, 5, 6, 8, 10, 11, 13, 14, 15, 20, 25, 26, 27, 28, 30, 33, 34, 37]
+Feature indices in final selection : [3, 4, 6, 8, 10, 11, 13, 14, 15, 23, 25, 27, 28, 30, 31, 33, 37, 40]
+Feature indices in final selection : [4, 8, 10, 11, 13, 14, 15, 23, 25, 27, 28, 30, 31, 33, 37, 40]
+Feature indices in final selection : [3, 4, 5, 6, 8, 10, 11, 13, 14, 15, 23, 25, 26, 27, 28, 30, 31, 33, 34, 37, 38, 40]
+Feature indices in final selection : [4, 6, 10, 11, 13, 14, 21, 22, 23, 25, 26, 27, 28, 30, 31, 33, 37, 40]
+Feature indices in final selection : [4, 6, 10, 11, 13, 14, 21, 22, 23, 25, 26, 27, 28, 30, 31, 33, 37, 40]
+Feature indices in final selection : [4, 7, 8, 10, 11, 13, 14, 22, 23, 25, 27, 28, 30, 31, 33, 37]
+Feature indices in final selection : [3, 4, 5, 6, 8, 10, 11, 13, 14, 15, 21, 22, 23, 25, 26, 27, 28, 30, 33, 34, 37]
+Feature indices in final selection : [3, 4, 5, 6, 8, 10, 11, 13, 14, 25, 27, 28, 30, 31, 33, 37, 40]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 10, 11, 13, 14, 15, 23, 25, 26, 27, 28, 30, 31, 33, 34, 40]
+Feature indices in final selection : [3, 4, 5, 7, 8, 10, 11, 13, 14, 23, 25, 26, 27, 28, 30, 31, 33, 34, 40]
+Feature indices in final selection : [3, 4, 5, 6, 8, 10, 11, 13, 14, 15, 23, 25, 27, 28, 30, 31, 33, 37, 40]
+Feature indices in final selection : [3, 4, 5, 6, 8, 10, 11, 13, 14, 15, 21, 22, 23, 25, 26, 27, 28, 30, 33, 34, 37]
+Feature indices in final selection : [4, 6, 8, 14, 25, 33, 35, 37, 40]
+Feature indices in final selection : [4, 5, 8, 10, 11, 13, 14, 15, 25, 26, 27, 28, 30, 31, 33, 34, 37, 38, 40]
+Feature indices in final selection : [4, 7, 10, 11, 13, 14, 23, 25, 27, 28, 30, 31, 32, 33, 37, 40]
+Feature indices in final selection : [3, 4, 5, 6, 8, 10, 11, 13, 14, 15, 20, 25, 26, 27, 28, 30, 33, 34, 37]
+Feature indices in final selection : [3, 4, 5, 6, 8, 10, 11, 13, 14, 15, 20, 25, 26, 27, 28, 30, 33, 34, 37]
+Feature indices in final selection : [0, 4, 7, 8, 10, 11, 13, 14, 21, 22, 23, 24, 25, 26, 27, 28, 30, 31, 33, 37, 40]
+best sol index found
+best sol index 0
+best avg performance 2.470848135726829
+avg of avg goal 2.0015570058359424
+best performance :
+2.470848135726829
+Crossover population 20
+Temp individual length 20
+best sol sum before 706.5780442479182
+Doing 2-point crossover for sol: 1, 2
+Doing 2-point crossover for sol: 3, 4
+Doing 2-point crossover for sol: 5, 6
+Doing 2-point crossover for sol: 9, 10
+Doing 2-point crossover for sol: 11, 12
+Doing 2-point crossover for sol: 13, 14
+Doing 2-point crossover for sol: 15, 16
+Doing 2-point crossover for sol: 17, 18
+best sol sum after 706.5780442479182
+Doing adaptive mutation
+population size 20
+
+Generation : 36
+Feature indices in final selection : [3, 4, 5, 6, 8, 10, 11, 13, 14, 15, 21, 22, 23, 25, 26, 27, 28, 30, 33, 34, 37]
+Feature indices in final selection : [3, 4, 5, 6, 8, 10, 11, 13, 14, 15, 23, 25, 27, 28, 30, 31, 33, 37, 40]
+Feature indices in final selection : [3, 4, 5, 7, 8, 10, 11, 13, 14, 23, 25, 26, 27, 28, 30, 31, 32, 33, 34, 40]
+Feature indices in final selection : [4, 7, 8, 10, 11, 13, 14, 21, 22, 23, 24, 25, 26, 27, 28, 30, 31, 33, 37, 40]
+Feature indices in final selection : [0, 3, 4, 5, 6, 8, 10, 11, 13, 14, 15, 21, 22, 23, 25, 26, 27, 28, 30, 33, 34, 37]
+Feature indices in final selection : [3, 4, 5, 6, 8, 10, 11, 13, 14, 15, 21, 22, 23, 25, 26, 27, 28, 30, 33, 34, 37, 38]
+Feature indices in final selection : [3, 4, 5, 6, 8, 10, 11, 13, 14, 15, 23, 25, 26, 27, 28, 30, 31, 34, 37, 40]
+Feature indices in final selection : [4, 6, 8, 14, 25, 33, 35, 37, 40]
+Feature indices in final selection : [4, 6, 10, 11, 13, 14, 21, 22, 23, 25, 26, 27, 28, 30, 31, 33, 37, 40]
+Feature indices in final selection : [4, 5, 6, 8, 10, 11, 13, 14, 15, 21, 22, 23, 25, 26, 27, 28, 30, 33, 37]
+Feature indices in final selection : [14, 25, 33, 35, 37]
+Feature indices in final selection : [3, 4, 6, 8, 10, 11, 13, 14, 15, 23, 25, 26, 27, 28, 30, 31, 33, 34, 37, 38, 40]
+Feature indices in final selection : [3, 4, 5, 6, 8, 10, 11, 13, 14, 25, 27, 28, 30, 31, 33, 37, 40]
+Feature indices in final selection : [4, 7, 8, 10, 11, 13, 14, 21, 22, 23, 24, 25, 26, 27, 28, 30, 31, 33, 37, 40]
+Feature indices in final selection : [0, 4, 6, 8, 14, 25, 33, 35, 37, 40]
+Feature indices in final selection : [3, 4, 5, 6, 8, 10, 11, 13, 14, 15, 21, 22, 23, 25, 26, 27, 28, 30, 33, 34, 37]
+Feature indices in final selection : [3, 4, 6, 8, 10, 11, 13, 14, 15, 23, 25, 27, 28, 30, 31, 33, 37, 40]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 10, 11, 13, 14, 15, 20, 25, 26, 27, 28, 30, 31, 33, 34, 37]
+Feature indices in final selection : [3, 4, 5, 6, 8, 10, 11, 13, 14, 15, 20, 25, 26, 27, 28, 30, 33, 34, 37]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 10, 11, 13, 14, 15, 23, 25, 26, 27, 28, 30, 31, 33, 34, 40]
+best sol index found
+best sol index 17
+best avg performance 2.4715781565027957
+avg of avg goal 2.0263376551223122
+best performance :
+2.4715781565027957
+Crossover population 20
+Temp individual length 20
+best sol sum before 718.5014735611047
+Doing 2-point crossover for sol: 1, 2
+Doing 2-point crossover for sol: 3, 4
+Doing 2-point crossover for sol: 5, 6
+Doing 2-point crossover for sol: 7, 8
+Doing 2-point crossover for sol: 9, 10
+Doing 2-point crossover for sol: 11, 12
+Doing 2-point crossover for sol: 13, 14
+Doing 2-point crossover for sol: 15, 16
+Doing 2-point crossover for sol: 17, 18
+best sol sum after 718.5014735611047
+Doing adaptive mutation
+population size 20
+
+Generation : 37
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 10, 11, 13, 14, 15, 20, 25, 26, 27, 28, 30, 31, 33, 34, 37]
+Feature indices in final selection : [3, 4, 5, 7, 8, 10, 11, 13, 14, 20, 23, 25, 26, 27, 28, 30, 31, 32, 33, 34, 40]
+Feature indices in final selection : [0, 3, 4, 5, 6, 8, 11, 13, 14, 21, 22, 23, 25, 26, 27, 28, 30, 33, 34, 37]
+Feature indices in final selection : [3, 4, 6, 8, 10, 11, 13, 14, 15, 23, 25, 26, 27, 28, 30, 33, 34, 37, 38, 40]
+Feature indices in final selection : [3, 4, 5, 6, 8, 10, 11, 13, 14, 15, 21, 22, 23, 25, 26, 27, 28, 30, 31, 33, 34, 37, 38]
+Feature indices in final selection : [4, 6, 8, 10, 11, 13, 14, 21, 22, 23, 25, 27, 28, 31, 33, 37, 40]
+Feature indices in final selection : [4, 8, 14, 25, 26, 33, 35, 37, 40]
+Feature indices in final selection : [4, 6, 10, 11, 13, 14, 23, 25, 26, 27, 28, 30, 31, 33, 37, 40]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 10, 11, 13, 14, 15, 21, 22, 23, 25, 26, 27, 28, 30, 31, 33, 40]
+Feature indices in final selection : [3, 4, 5, 6, 8, 10, 11, 13, 14, 15, 21, 22, 23, 25, 26, 27, 28, 30, 33, 34, 37]
+Feature indices in final selection : [3, 4, 5, 6, 8, 10, 11, 13, 14, 15, 21, 22, 23, 25, 26, 27, 28, 30, 33, 34, 37, 38]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 10, 11, 13, 14, 15, 23, 25, 26, 27, 28, 30, 31, 33, 34, 37, 40]
+Feature indices in final selection : [4, 5, 6, 8, 10, 11, 13, 14, 15, 21, 22, 23, 25, 26, 27, 28, 30, 33]
+Feature indices in final selection : [3, 4, 5, 7, 8, 10, 11, 13, 14, 23, 25, 26, 27, 28, 30, 31, 32, 33, 34, 37, 40]
+Feature indices in final selection : [4, 7, 8, 10, 11, 13, 14, 21, 22, 23, 24, 25, 26, 27, 28, 30, 31, 33, 40]
+Feature indices in final selection : [4, 5, 6, 8, 10, 11, 13, 14, 15, 21, 22, 23, 25, 26, 27, 28, 30, 33, 37]
+Feature indices in final selection : [3, 4, 6, 8, 10, 11, 13, 14, 15, 23, 25, 26, 27, 28, 30, 31, 33, 34, 37, 38, 40]
+Feature indices in final selection : [3, 4, 6, 8, 10, 11, 13, 14, 15, 23, 25, 26, 27, 28, 30, 31, 33, 34, 37, 38, 40]
+Feature indices in final selection : [14, 25, 33, 35, 37]
+Feature indices in final selection : [3, 4, 6, 8, 10, 11, 13, 14, 15, 20, 23, 25, 26, 27, 28, 30, 31, 33, 34, 37, 38, 40]
+best sol index found
+best sol index 0
+best avg performance 2.4715781565027957
+avg of avg goal 2.011326041162394
+best performance :
+2.4715781565027957
+Crossover population 20
+Temp individual length 20
+best sol sum before 718.5014735611047
+Doing 2-point crossover for sol: 1, 2
+Doing 2-point crossover for sol: 5, 6
+Doing 2-point crossover for sol: 7, 8
+Doing 2-point crossover for sol: 9, 10
+Doing 2-point crossover for sol: 11, 12
+Doing 2-point crossover for sol: 13, 14
+Doing 2-point crossover for sol: 15, 16
+Doing 2-point crossover for sol: 17, 18
+best sol sum after 718.5014735611047
+Doing adaptive mutation
+population size 20
+
+Generation : 38
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 10, 11, 13, 14, 15, 20, 25, 26, 27, 28, 30, 31, 33, 34, 37]
+Feature indices in final selection : [3, 4, 5, 6, 8, 10, 11, 13, 14, 15, 21, 22, 23, 25, 26, 27, 28, 30, 33, 34, 37, 38]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 10, 11, 13, 14, 15, 20, 25, 26, 27, 28, 30, 31, 33, 34, 37]
+Feature indices in final selection : [3, 4, 5, 6, 8, 10, 11, 13, 14, 15, 17, 21, 22, 23, 25, 26, 27, 28, 30, 31, 33, 34, 37, 38]
+Feature indices in final selection : [0, 3, 4, 5, 6, 8, 11, 13, 14, 21, 22, 23, 25, 26, 27, 28, 30, 33, 34, 37, 38]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 10, 11, 13, 14, 15, 23, 25, 26, 27, 28, 30, 31, 33, 34, 37, 40]
+Feature indices in final selection : [3, 4, 5, 6, 8, 10, 11, 13, 14, 15, 21, 22, 23, 25, 26, 27, 28, 30, 31, 33, 34, 37, 38]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 10, 11, 14, 15, 20, 22, 23, 24, 25, 26, 27, 28, 30, 31, 33]
+Feature indices in final selection : [4, 7, 8, 10, 11, 13, 14, 21, 25, 26, 27, 28, 31, 33, 34, 37, 40]
+Feature indices in final selection : [3, 4, 5, 6, 8, 10, 11, 13, 14, 15, 23, 25, 26, 27, 28, 30, 31, 33, 34, 37, 40]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 10, 11, 13, 14, 15, 21, 22, 23, 25, 26, 27, 28, 30, 33, 34, 37, 38]
+Feature indices in final selection : [0, 3, 4, 5, 6, 8, 11, 13, 14, 21, 22, 23, 25, 26, 27, 28, 30, 31, 33, 37]
+Feature indices in final selection : [4, 6, 10, 11, 13, 14, 23, 25, 26, 27, 28, 30, 33, 34, 37, 40]
+Feature indices in final selection : [3, 4, 5, 6, 8, 10, 11, 13, 14, 15, 21, 22, 23, 25, 26, 27, 28, 30, 31, 33, 34, 37, 40]
+Feature indices in final selection : [3, 4, 5, 6, 8, 10, 11, 13, 14, 15, 23, 25, 26, 27, 28, 30, 33, 34, 37]
+Feature indices in final selection : [3, 4, 5, 7, 8, 10, 11, 13, 14, 20, 23, 25, 26, 27, 28, 30, 33, 34, 37, 40]
+Feature indices in final selection : [0, 3, 4, 5, 6, 8, 11, 13, 14, 21, 22, 23, 25, 26, 27, 28, 30, 31, 32, 33, 34]
+Feature indices in final selection : [3, 4, 6, 8, 10, 11, 13, 14, 15, 21, 22, 23, 25, 27, 28, 31, 33, 37, 40]
+Feature indices in final selection : [14, 25, 26, 33, 37]
+Feature indices in final selection : [4, 7, 8, 10, 11, 13, 14, 21, 22, 23, 24, 25, 26, 27, 28, 30, 31, 33, 40]
+best sol index found
+best sol index 0
+best avg performance 2.4715781565027957
+avg of avg goal 2.15062230097206
+best performance :
+2.4715781565027957
+Crossover population 20
+Temp individual length 20
+best sol sum before 718.5014735611047
+Doing 2-point crossover for sol: 1, 2
+Doing 2-point crossover for sol: 3, 4
+Doing 2-point crossover for sol: 5, 6
+Doing 2-point crossover for sol: 7, 8
+Doing 2-point crossover for sol: 9, 10
+Doing 2-point crossover for sol: 11, 12
+Doing 2-point crossover for sol: 13, 14
+Doing 2-point crossover for sol: 15, 16
+Doing 2-point crossover for sol: 17, 18
+best sol sum after 718.5014735611047
+Doing adaptive mutation
+population size 20
+
+Generation : 39
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 10, 11, 13, 14, 15, 20, 25, 26, 27, 28, 30, 31, 33, 34, 37]
+Feature indices in final selection : [3, 5, 6, 8, 10, 11, 13, 14, 15, 25, 26, 27, 28, 30, 31, 33, 34, 37, 40]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 10, 11, 13, 14, 15, 23, 25, 26, 27, 28, 30, 31, 33, 34, 37]
+Feature indices in final selection : [14, 25, 26, 33, 35, 37]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 10, 11, 13, 14, 15, 20, 25, 26, 27, 28, 30, 31, 33, 34, 37, 38]
+Feature indices in final selection : [0, 3, 4, 5, 6, 8, 11, 13, 14, 20, 23, 25, 26, 27, 28, 30, 33, 34, 37, 38]
+Feature indices in final selection : [3, 4, 5, 7, 8, 10, 11, 13, 14, 21, 22, 23, 25, 26, 27, 28, 30, 33, 34, 37, 40]
+Feature indices in final selection : [4, 6, 8, 10, 11, 13, 14, 15, 21, 22, 23, 25, 26, 27, 28, 30, 31, 33, 34, 37, 38]
+Feature indices in final selection : [5, 14, 25, 26, 33, 37]
+Feature indices in final selection : [3, 4, 5, 6, 8, 10, 11, 13, 14, 15, 21, 22, 23, 25, 26, 27, 28, 30, 31, 33, 34, 37]
+Feature indices in final selection : [3, 4, 5, 6, 8, 10, 11, 13, 14, 15, 19, 21, 22, 23, 25, 26, 27, 28, 30, 31, 33, 34, 37, 38, 40]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 10, 11, 13, 14, 21, 22, 23, 25, 26, 27, 28, 30, 31, 33]
+Feature indices in final selection : [0, 4, 5, 6, 8, 11, 14, 15, 20, 22, 23, 24, 25, 26, 27, 28, 30, 31, 33, 37]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 10, 11, 13, 14, 15, 19, 20, 25, 26, 27, 28, 30, 31, 33, 34, 37]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 10, 11, 13, 14, 15, 20, 25, 26, 27, 28, 30, 31, 33, 34, 37]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 10, 11, 14, 15, 20, 25, 26, 27, 28, 30, 31, 33]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 10, 11, 13, 14, 15, 20, 22, 23, 24, 25, 26, 27, 28, 30, 31, 33, 34, 37]
+Feature indices in final selection : [0, 3, 4, 5, 6, 8, 10, 11, 13, 14, 15, 23, 25, 26, 27, 28, 30, 31, 33, 34, 37, 40]
+Feature indices in final selection : [3, 4, 5, 6, 8, 14, 25, 26, 33, 35, 37]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 9, 10, 11, 13, 14, 15, 20, 25, 26, 27, 28, 30, 31, 33, 34, 37]
+best sol index found
+best sol index 15
+best avg performance 2.472976123786313
+avg of avg goal 2.2699913579703153
+best performance :
+2.472976123786313
+Crossover population 20
+Temp individual length 20
+best sol sum before 715.2690296264863
+Doing 2-point crossover for sol: 3, 4
+Doing 2-point crossover for sol: 5, 6
+Doing 2-point crossover for sol: 7, 8
+Doing 2-point crossover for sol: 9, 10
+Doing 2-point crossover for sol: 11, 12
+Doing 2-point crossover for sol: 13, 14
+Doing 2-point crossover for sol: 15, 16
+Doing 2-point crossover for sol: 17, 18
+best sol sum after 715.2690296264863
+Doing adaptive mutation
+population size 20
+
+Generation : 40
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 10, 11, 14, 15, 20, 25, 26, 27, 28, 30, 31, 33]
+Feature indices in final selection : [3, 5, 6, 8, 10, 11, 13, 14, 15, 25, 26, 27, 28, 30, 31, 33, 34, 37, 40]
+Feature indices in final selection : [5, 14, 25, 26, 33, 37]
+Feature indices in final selection : [3, 4, 5, 7, 8, 10, 11, 13, 14, 21, 22, 23, 25, 26, 27, 28, 30, 33, 34, 37, 40]
+Feature indices in final selection : [14, 25, 26, 33, 35, 37]
+Feature indices in final selection : [3, 4, 5, 6, 14, 25, 26, 33, 35, 37]
+Feature indices in final selection : [3, 4, 5, 7, 8, 10, 11, 13, 14, 21, 22, 23, 24, 25, 26, 27, 28, 30, 33, 34, 37, 38, 40]
+Feature indices in final selection : [3, 4, 5, 6, 8, 10, 11, 13, 14, 15, 19, 21, 22, 23, 25, 26, 27, 28, 30, 31, 33, 34, 37, 38, 40]
+Feature indices in final selection : [3, 4, 5, 7, 8, 10, 11, 13, 14, 21, 22, 23, 25, 26, 27, 28, 30, 33, 34, 37, 40]
+Feature indices in final selection : [3, 4, 5, 6, 8, 14, 25, 26, 29, 33, 35, 37]
+Feature indices in final selection : [3, 4, 5, 7, 8, 10, 11, 13, 14, 21, 22, 23, 25, 26, 27, 28, 30, 33, 34, 37, 38, 40]
+Feature indices in final selection : [3, 4, 5, 6, 8, 14, 15, 18, 20, 25, 26, 33, 35, 37]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 10, 11, 13, 14, 21, 22, 23, 25, 26, 27, 28, 30, 31, 33, 34, 37]
+Feature indices in final selection : [0, 3, 4, 5, 6, 8, 14, 25, 26, 33, 35, 37]
+Feature indices in final selection : [0, 3, 4, 5, 6, 8, 11, 13, 14, 20, 23, 25, 26, 27, 28, 30, 33, 34, 37, 38]
+Feature indices in final selection : [3, 4, 5, 7, 8, 10, 11, 13, 14, 18, 26, 27, 28, 30, 33, 37]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 10, 11, 13, 14, 21, 22, 23, 25, 26, 27, 28, 30, 33, 34, 37, 40]
+Feature indices in final selection : [3, 5, 6, 8, 10, 11, 13, 14, 15, 20, 25, 26, 27, 28, 30, 31, 33, 34, 37, 40]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 10, 11, 13, 14, 15, 25, 26, 27, 28, 30, 31, 33, 34, 37]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 10, 11, 13, 14, 15, 20, 22, 23, 24, 25, 26, 27, 28, 30, 31, 33, 34, 37, 38]
+best sol index found
+best sol index 0
+best avg performance 2.472976123786313
+avg of avg goal 2.1503444667588103
+best performance :
+2.472976123786313
+Crossover population 20
+Temp individual length 20
+best sol sum before 715.2690296264863
+Doing 2-point crossover for sol: 1, 2
+Doing 2-point crossover for sol: 3, 4
+Doing 2-point crossover for sol: 5, 6
+Doing 2-point crossover for sol: 7, 8
+Doing 2-point crossover for sol: 9, 10
+Doing 2-point crossover for sol: 11, 12
+Doing 2-point crossover for sol: 13, 14
+Doing 2-point crossover for sol: 15, 16
+Doing 2-point crossover for sol: 17, 18
+best sol sum after 715.2690296264863
+Doing adaptive mutation
+population size 20
+
+Generation : 41
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 10, 11, 14, 15, 20, 25, 26, 27, 28, 30, 31, 33]
+Feature indices in final selection : [0, 3, 4, 5, 6, 8, 11, 13, 14, 20, 23, 25, 26, 27, 28, 30, 33, 34, 37, 38]
+Feature indices in final selection : [3, 4, 5, 6, 8, 14, 15, 18, 20, 25, 26, 29, 33, 35, 37]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 10, 11, 13, 14, 15, 19, 21, 22, 23, 25, 26, 27, 28, 30, 31, 33, 34, 37, 38, 40]
+Feature indices in final selection : [3, 4, 5, 7, 8, 10, 11, 13, 14, 21, 22, 23, 24, 25, 26, 27, 28, 30, 33, 34, 37, 38, 40]
+Feature indices in final selection : [3, 5, 6, 8, 10, 11, 13, 14, 15, 23, 25, 26, 27, 28, 30, 33, 34, 37, 40]
+Feature indices in final selection : [14, 25, 26, 33, 35, 37]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 10, 11, 13, 14, 18, 26, 27, 28, 30, 33, 37]
+Feature indices in final selection : [3, 4, 5, 7, 10, 11, 13, 14, 15, 20, 22, 23, 24, 25, 26, 27, 28, 30, 31, 33, 34, 37, 38]
+Feature indices in final selection : [3, 5, 6, 8, 10, 11, 13, 14, 15, 25, 26, 27, 28, 30, 31, 33, 34, 37, 40]
+Feature indices in final selection : [3, 4, 5, 7, 8, 10, 11, 13, 14, 21, 22, 23, 24, 25, 26, 27, 28, 30, 32, 33, 34, 37, 38, 40]
+Feature indices in final selection : [3, 4, 5, 6, 8, 11, 13, 14, 20, 23, 25, 26, 27, 28, 30, 33, 34, 37, 38]
+Feature indices in final selection : [0, 3, 4, 5, 6, 8, 14, 15, 18, 20, 25, 26, 33, 35, 37]
+Feature indices in final selection : [4, 5, 7, 8, 10, 11, 13, 14, 21, 22, 23, 25, 26, 27, 28, 30, 33, 34, 37, 38, 40]
+Feature indices in final selection : [0, 3, 4, 5, 6, 8, 14, 25, 26, 33, 35, 37]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 11, 14, 15, 20, 25, 26, 27, 28, 30, 31, 33]
+Feature indices in final selection : [3, 4, 6, 7, 8, 10, 11, 13, 14, 15, 20, 22, 23, 24, 25, 26, 27, 28, 30, 31, 33, 34, 37, 38]
+Feature indices in final selection : [3, 4, 5, 7, 8, 10, 11, 13, 14, 17, 21, 22, 23, 25, 26, 27, 28, 30, 33, 34, 37, 40]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 10, 11, 13, 14, 22, 23, 25, 26, 27, 28, 30, 31, 33, 34, 37]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 10, 11, 13, 14, 21, 22, 23, 25, 26, 27, 28, 30, 31, 33, 34, 37]
+best sol index found
+best sol index 15
+best avg performance 2.475957526936189
+avg of avg goal 2.1930830452566705
+best performance :
+2.475957526936189
+Crossover population 20
+Temp individual length 20
+best sol sum before 716.7881499541442
+Doing 2-point crossover for sol: 1, 2
+Doing 2-point crossover for sol: 3, 4
+Doing 2-point crossover for sol: 5, 6
+Doing 2-point crossover for sol: 11, 12
+Doing 2-point crossover for sol: 13, 14
+Doing 2-point crossover for sol: 15, 16
+Doing 2-point crossover for sol: 17, 18
+best sol sum after 716.7881499541442
+Doing adaptive mutation
+population size 20
+
+Generation : 42
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 11, 14, 15, 20, 25, 26, 27, 28, 30, 31, 33]
+Feature indices in final selection : [3, 4, 5, 7, 8, 10, 11, 13, 14, 20, 22, 23, 24, 25, 26, 27, 28, 30, 33, 34, 37, 38, 40]
+Feature indices in final selection : [3, 4, 5, 7, 10, 11, 13, 14, 15, 21, 22, 23, 24, 25, 26, 27, 28, 30, 31, 33, 34, 37, 38]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 11, 14, 15, 20, 25, 26, 27, 28, 30, 31, 33]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 10, 11, 14, 15, 20, 22, 25, 26, 27, 28, 30, 31, 33]
+Feature indices in final selection : [3, 4, 6, 8, 10, 11, 13, 14, 20, 25, 26, 27, 28, 30, 31, 33, 34, 37, 40]
+Feature indices in final selection : [5, 14, 25, 26, 33, 35, 36]
+Feature indices in final selection : [14, 25, 26, 33, 35, 37]
+Feature indices in final selection : [0, 3, 4, 5, 6, 8, 11, 13, 14, 20, 21, 23, 25, 26, 27, 28, 30, 33, 34, 37, 38]
+Feature indices in final selection : [3, 4, 5, 7, 8, 10, 11, 13, 14, 21, 22, 23, 24, 25, 26, 27, 28, 30, 32, 33, 34, 37, 38, 40]
+Feature indices in final selection : [5]
+Feature indices in final selection : [3, 4, 5, 7, 9, 10, 11, 13, 14, 15, 20, 21, 22, 23, 24, 25, 26, 27, 30, 31, 33, 34, 37, 38]
+Feature indices in final selection : [3, 4, 6, 7, 8, 10, 11, 13, 14, 15, 20, 22, 23, 24, 25, 26, 27, 28, 30, 31, 33, 34, 37, 38]
+Feature indices in final selection : [1, 3, 4, 5, 6, 7, 8, 10, 11, 13, 14, 20, 25, 26, 27, 28, 30, 31, 33, 34, 37]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 10, 11, 14, 15, 22, 23, 25, 26, 27, 28, 30, 31, 33]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 10, 11, 13, 14, 19, 21, 22, 23, 25, 26, 27, 28, 30, 31, 33, 34, 37, 38, 40]
+Feature indices in final selection : [3, 4, 6, 7, 8, 10, 11, 13, 14, 15, 20, 22, 23, 24, 25, 26, 27, 28, 30, 31, 33, 34, 37, 38]
+Feature indices in final selection : [3, 4, 5, 6, 8, 11, 13, 14, 20, 23, 25, 26, 27, 28, 30, 33, 34, 37]
+Feature indices in final selection : [3, 5, 6, 8, 10, 11, 13, 14, 15, 25, 26, 27, 28, 30, 31, 33, 34, 37, 38, 40]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 10, 11, 13, 14, 21, 22, 23, 25, 26, 27, 28, 30, 31, 33, 34, 37]
+best sol index found
+best sol index 0
+best avg performance 2.475957526936189
+avg of avg goal 2.256505591617361
+best performance :
+2.475957526936189
+Crossover population 20
+Temp individual length 20
+best sol sum before 716.7881499541442
+Doing 2-point crossover for sol: 1, 2
+Doing 2-point crossover for sol: 3, 4
+Doing 2-point crossover for sol: 5, 6
+Doing 2-point crossover for sol: 7, 8
+Doing 2-point crossover for sol: 9, 10
+Doing 2-point crossover for sol: 11, 12
+Doing 2-point crossover for sol: 13, 14
+Doing 2-point crossover for sol: 15, 16
+Doing 2-point crossover for sol: 17, 18
+best sol sum after 716.7881499541442
+Doing adaptive mutation
+population size 20
+
+Generation : 43
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 11, 14, 15, 20, 25, 26, 27, 28, 30, 31, 33]
+Feature indices in final selection : [3, 4, 5, 6, 8, 9, 11, 13, 14, 15, 18, 20, 21, 25, 26, 27, 28, 30, 33, 34, 37, 38]
+Feature indices in final selection : [3, 4, 6, 7, 8, 10, 11, 13, 14, 15, 20, 22, 23, 24, 25, 26, 27, 28, 30, 31, 33, 34, 37, 38]
+Feature indices in final selection : [3, 4, 5, 7, 8, 10, 11, 13, 14, 20, 22, 23, 24, 25, 26, 27, 28, 30, 33, 34, 37, 38, 40]
+Feature indices in final selection : [1, 3, 4, 5, 6, 7, 8, 10, 11, 13, 14, 15, 20, 21, 22, 23, 24, 25, 26, 27, 30, 31, 33, 34, 37, 38]
+Feature indices in final selection : [3, 4, 5, 7, 9, 10, 11, 13, 14, 20, 25, 26, 27, 28, 30, 31, 33, 34, 37]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 10, 11, 14, 15, 20, 22, 25, 26, 27, 28, 30, 31, 33]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 10, 11, 14, 15, 20, 22, 25, 26, 27, 28, 30, 31, 33]
+Feature indices in final selection : [3, 4, 5, 7, 9, 10, 11, 13, 14, 15, 20, 21, 22, 23, 24, 25, 26, 27, 30, 31, 33, 34, 37, 38]
+Feature indices in final selection : [3, 4, 5, 7, 9, 10, 11, 13, 14, 15, 20, 21, 22, 23, 24, 25, 26, 27, 30, 31, 33, 34, 37, 38]
+Feature indices in final selection : [3, 4, 6, 8, 10, 11, 13, 14, 20, 23, 25, 26, 27, 28, 30, 33, 34, 37]
+Feature indices in final selection : [3, 4, 5, 6, 8, 11, 13, 14, 20, 25, 26, 27, 28, 30, 31, 32, 33, 34, 37, 40]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 10, 11, 14, 15, 20, 22, 23, 24, 25, 26, 27, 28, 30, 31, 33, 34, 37, 38]
+Feature indices in final selection : [3, 4, 6, 7, 8, 10, 11, 13, 14, 15, 20, 22, 25, 26, 27, 28, 30, 31, 33]
+Feature indices in final selection : [0, 1, 3, 4, 5, 6, 8, 11, 13, 14, 20, 21, 23, 25, 26, 27, 28, 30, 33, 34, 37, 38]
+Feature indices in final selection : [3, 4, 5, 7, 10, 11, 13, 14, 15, 21, 22, 23, 24, 25, 26, 27, 28, 30, 31, 33, 34, 37, 38]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 10, 11, 14, 15, 20, 25, 26, 27, 28, 30, 31, 33, 34, 37, 38, 40]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 11, 13, 14, 19, 21, 22, 23, 25, 26, 27, 28, 30, 31, 33]
+Feature indices in final selection : [1, 3, 4, 5, 6, 7, 8, 10, 11, 13, 14, 20, 25, 26, 27, 28, 30, 31, 33, 34, 37]
+best sol index found
+best sol index 0
+best avg performance 2.475957526936189
+avg of avg goal 2.2103692021272905
+best performance :
+2.475957526936189
+Crossover population 20
+Temp individual length 20
+best sol sum before 716.7881499541442
+Doing 2-point crossover for sol: 1, 2
+Doing 2-point crossover for sol: 3, 4
+Doing 2-point crossover for sol: 5, 6
+Doing 2-point crossover for sol: 7, 8
+Doing 2-point crossover for sol: 9, 10
+Doing 2-point crossover for sol: 11, 12
+Doing 2-point crossover for sol: 13, 14
+Doing 2-point crossover for sol: 15, 16
+Doing 2-point crossover for sol: 17, 18
+best sol sum after 716.7881499541442
+Doing adaptive mutation
+population size 20
+
+Generation : 44
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 11, 14, 15, 20, 25, 26, 27, 28, 30, 31, 33]
+Feature indices in final selection : [3, 4, 5, 7, 10, 11, 13, 14, 15, 21, 22, 23, 24, 25, 26, 27, 28, 30, 31, 33]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 10, 11, 14, 15, 20, 22, 25, 26, 27, 28, 30, 31, 33, 34, 37, 38]
+Feature indices in final selection : [1, 3, 4, 5, 6, 7, 8, 10, 11, 13, 14, 20, 25, 26, 27, 28, 30, 33, 34, 37, 38]
+Feature indices in final selection : [3, 4, 5, 6, 8, 9, 11, 13, 14, 15, 18, 20, 21, 25, 26, 27, 28, 30, 31, 33, 34, 37]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 10, 11, 14, 15, 20, 23, 25, 26, 27, 28, 30, 33, 34, 37]
+Feature indices in final selection : [3, 4, 6, 8, 10, 11, 13, 14, 20, 21, 22, 25, 26, 27, 28, 30, 31, 33]
+Feature indices in final selection : [3, 4, 5, 6, 7, 10, 11, 13, 14, 15, 21, 22, 23, 24, 25, 26, 27, 28, 30, 31, 33, 34, 37]
+Feature indices in final selection : [3, 4, 5, 6, 8, 9, 11, 13, 14, 15, 17, 18, 20, 21, 25, 26, 27, 28, 30, 33, 34, 37, 38]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 10, 11, 14, 15, 20, 25, 26, 27, 28, 30, 31, 33, 34, 37, 40]
+Feature indices in final selection : [1, 3, 4, 5, 6, 7, 8, 10, 11, 13, 14, 20, 25, 26, 27, 28, 30, 31, 33, 34, 37, 38]
+Feature indices in final selection : [3, 4, 6, 8, 9, 11, 13, 15, 18, 20, 22, 23, 24, 25, 26, 27, 28, 30, 31, 33, 34, 37, 38]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 10, 11, 13, 14, 15, 20, 21, 25, 26, 27, 28, 30, 33, 34, 37, 38]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 14, 15, 20, 25, 26, 27, 28, 30, 31, 33]
+Feature indices in final selection : [3, 4, 6, 7, 8, 10, 11, 13, 14, 15, 19, 20, 22, 24, 25, 26, 27, 28, 30, 31, 33]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 11, 13, 14, 15, 19, 21, 22, 23, 25, 26, 27, 28, 30, 31, 33]
+Feature indices in final selection : [3, 4, 6, 8, 10, 11, 13, 14, 20, 22, 25, 26, 27, 28, 30, 31, 33]
+Feature indices in final selection : [3, 4, 5, 6, 8, 10, 11, 14, 15, 20, 22, 25, 26, 27, 28, 30, 31, 33]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 9, 11, 13, 14, 15, 18, 20, 21, 25, 26, 27, 28, 30, 33, 34, 37, 38]
+Feature indices in final selection : [3, 4, 6, 8, 10, 11, 13, 14, 20, 23, 25, 26, 27, 28, 30, 33, 34, 37]
+best sol index found
+best sol index 0
+best avg performance 2.475957526936189
+avg of avg goal 2.3642539721194646
+best performance :
+2.475957526936189
+Crossover population 20
+Temp individual length 20
+best sol sum before 716.7881499541442
+Doing 2-point crossover for sol: 1, 2
+Doing 2-point crossover for sol: 3, 4
+Doing 2-point crossover for sol: 5, 6
+Doing 2-point crossover for sol: 7, 8
+Doing 2-point crossover for sol: 9, 10
+Doing 2-point crossover for sol: 11, 12
+Doing 2-point crossover for sol: 13, 14
+Doing 2-point crossover for sol: 15, 16
+Doing 2-point crossover for sol: 17, 18
+best sol sum after 716.7881499541442
+Doing adaptive mutation
+population size 20
+
+Generation : 45
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 11, 14, 15, 20, 25, 26, 27, 28, 30, 31, 33]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 10, 11, 14, 15, 20, 22, 25, 26, 27, 28, 30, 31, 33, 34, 37]
+Feature indices in final selection : [3, 4, 5, 6, 8, 9, 11, 13, 14, 15, 18, 20, 21, 25, 26, 27, 28, 30, 31, 33, 34, 37, 38]
+Feature indices in final selection : [3, 4, 5, 6, 8, 9, 11, 13, 14, 15, 18, 20, 21, 25, 26, 27, 28, 30, 31, 33, 34, 37, 38]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 9, 11, 13, 14, 15, 18, 20, 21, 25, 26, 27, 28, 30, 33, 34, 37]
+Feature indices in final selection : [3, 4, 5, 6, 8, 9, 10, 11, 14, 15, 20, 22, 25, 26, 27, 28, 30, 31, 34, 37, 38]
+Feature indices in final selection : [1, 3, 4, 5, 6, 7, 8, 11, 13, 14, 15, 18, 20, 21, 22, 25, 26, 27, 28, 30, 31, 33, 34]
+Feature indices in final selection : [3, 4, 5, 7, 10, 11, 13, 14, 15, 18, 20, 21, 25, 26, 27, 30, 33, 34, 37, 38]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 9, 11, 13, 14, 15, 21, 22, 23, 24, 25, 26, 27, 28, 30, 31, 33]
+Feature indices in final selection : [3, 4, 5, 6, 7, 10, 11, 13, 14, 15, 17, 18, 20, 21, 25, 26, 27, 28, 30, 33, 34, 37, 38]
+Feature indices in final selection : [3, 4, 5, 6, 8, 9, 11, 13, 14, 15, 21, 22, 23, 24, 25, 26, 27, 28, 30, 31, 33, 34, 37]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 10, 11, 14, 15, 19, 21, 22, 23, 25, 26, 27, 28, 30, 31, 33]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 11, 13, 14, 15, 20, 22, 25, 26, 27, 28, 30, 31, 33, 34, 37, 38]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 9, 11, 13, 14, 15, 18, 20, 21, 25, 26, 27, 28, 30, 33, 34, 37, 38]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 9, 11, 13, 14, 15, 18, 20, 21, 25, 26, 27, 28, 30, 33, 34, 37, 38]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 10, 11, 13, 14, 20, 25, 26, 27, 28, 30, 31, 33, 34, 37, 38]
+Feature indices in final selection : [1, 3, 4, 5, 6, 7, 8, 10, 11, 14, 15, 20, 25, 26, 27, 28, 30, 31, 33, 34, 37, 38, 40]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 10, 11, 13, 14, 15, 19, 20, 22, 24, 25, 26, 27, 28, 30, 33]
+Feature indices in final selection : [3, 4, 6, 7, 8, 10, 11, 14, 15, 20, 25, 26, 27, 28, 30, 31, 33, 34, 37, 40]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 10, 11, 13, 14, 15, 20, 21, 25, 26, 27, 28, 30, 33, 34, 37, 38]
+best sol index found
+best sol index 0
+best avg performance 2.475957526936189
+avg of avg goal 2.4010762669407955
+best performance :
+2.475957526936189
+Crossover population 20
+Temp individual length 20
+best sol sum before 716.7881499541442
+Doing 2-point crossover for sol: 1, 2
+Doing 2-point crossover for sol: 3, 4
+Doing 2-point crossover for sol: 5, 6
+Doing 2-point crossover for sol: 7, 8
+Doing 2-point crossover for sol: 9, 10
+Doing 2-point crossover for sol: 11, 12
+Doing 2-point crossover for sol: 13, 14
+Doing 2-point crossover for sol: 15, 16
+Doing 2-point crossover for sol: 17, 18
+best sol sum after 716.7881499541442
+Doing adaptive mutation
+population size 20
+
+Generation : 46
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 11, 14, 15, 20, 25, 26, 27, 28, 30, 31, 33]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 9, 11, 13, 14, 15, 21, 22, 23, 24, 25, 26, 27, 28, 30, 33, 34, 37, 38]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 9, 11, 13, 14, 15, 18, 20, 21, 25, 26, 27, 28, 30, 31, 33]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 9, 11, 13, 14, 15, 18, 20, 21, 25, 26, 27, 28, 30, 34, 37]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 10, 11, 14, 15, 20, 22, 25, 26, 27, 28, 30, 31, 33, 34, 37, 38]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 10, 11, 13, 14, 20, 21, 25, 26, 27, 28, 30, 33, 34, 37]
+Feature indices in final selection : [4, 5, 6, 7, 8, 10, 11, 13, 14, 15, 20, 25, 26, 27, 28, 30, 31, 33, 34, 37, 38]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 11, 13, 14, 15, 20, 22, 25, 26, 27, 28, 30, 31, 33]
+Feature indices in final selection : [1, 3, 4, 6, 7, 8, 11, 14, 15, 18, 20, 21, 22, 25, 26, 27, 28, 30, 31, 33, 34]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 9, 11, 13, 14, 15, 18, 21, 22, 23, 25, 26, 27, 28, 30, 33, 34, 37, 38]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 9, 11, 13, 14, 15, 20, 21, 24, 25, 26, 27, 28, 30, 31, 33, 34, 37]
+Feature indices in final selection : [1, 3, 4, 5, 6, 7, 8, 10, 11, 13, 14, 15, 19, 20, 22, 24, 25, 26, 27, 28, 30, 33]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 10, 11, 14, 15, 20, 25, 26, 27, 28, 30, 31, 33, 34, 37, 38, 40]
+Feature indices in final selection : [3, 4, 6, 7, 8, 9, 11, 13, 14, 15, 18, 20, 21, 25, 26, 27, 28, 30, 33, 34, 37, 40]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 10, 14, 15, 20, 22, 24, 25, 26, 27, 28, 30, 31, 33, 34, 37, 40]
+Feature indices in final selection : [3, 4, 5, 7, 10, 11, 13, 14, 15, 18, 20, 25, 26, 27, 28, 30, 31, 33]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 11, 14, 15, 20, 21, 26, 27, 30, 33, 34, 37, 38]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 10, 11, 13, 14, 15, 19, 20, 22, 25, 26, 27, 28, 30, 33]
+Feature indices in final selection : [4, 5, 6, 8, 9, 11, 13, 14, 15, 21, 22, 23, 24, 25, 26, 27, 28, 30, 31, 33, 34, 37]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 11, 14, 15, 20, 25, 26, 27, 28, 30, 31, 33]
+best sol index found
+best sol index 0
+best avg performance 2.475957526936189
+avg of avg goal 2.387022000750977
+best performance :
+2.475957526936189
+Crossover population 20
+Temp individual length 20
+best sol sum before 716.7881499541442
+Doing 2-point crossover for sol: 1, 2
+Doing 2-point crossover for sol: 3, 4
+Doing 2-point crossover for sol: 5, 6
+Doing 2-point crossover for sol: 7, 8
+Doing 2-point crossover for sol: 9, 10
+Doing 2-point crossover for sol: 11, 12
+Doing 2-point crossover for sol: 13, 14
+Doing 2-point crossover for sol: 17, 18
+best sol sum after 716.7881499541442
+Doing adaptive mutation
+population size 20
+
+Generation : 47
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 11, 14, 15, 20, 25, 26, 27, 28, 30, 31, 33]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 9, 11, 14, 15, 20, 21, 26, 27, 30, 33, 38]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 9, 11, 13, 14, 15, 18, 20, 21, 25, 26, 27, 28, 30, 31, 33, 34, 37, 38]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 9, 13, 14, 15, 18, 20, 21, 25, 26, 27, 28, 30, 31, 33]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 9, 11, 13, 14, 15, 18, 20, 21, 25, 26, 27, 28, 30, 34, 37]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 9, 11, 13, 14, 15, 20, 21, 25, 26, 27, 28, 30, 31, 33]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 10, 11, 13, 14, 18, 20, 21, 23, 25, 26, 27, 28, 30, 33, 34, 37]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 10, 13, 14, 15, 18, 20, 21, 25, 26, 27, 28, 30, 34, 37]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 9, 11, 14, 15, 20, 22, 25, 26, 27, 28, 30, 31, 33, 34, 37, 38]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 9, 11, 13, 14, 15, 20, 22, 24, 25, 26, 27, 28, 30, 33, 34, 37, 38]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 10, 14, 15, 18, 21, 22, 23, 25, 26, 27, 28, 30, 31, 33, 34, 37, 40]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 9, 11, 13, 14, 15, 18, 20, 21, 25, 26, 27, 28, 30, 34, 37]
+Feature indices in final selection : [4, 5, 6, 8, 9, 11, 13, 14, 15, 21, 22, 23, 24, 25, 26, 27, 28, 30, 31, 32, 33, 37]
+Feature indices in final selection : [4, 5, 6, 7, 8, 10, 11, 14, 15, 18, 20, 21, 25, 26, 27, 28, 30, 34, 37]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 9, 11, 13, 14, 15, 20, 25, 26, 27, 28, 30, 31, 33, 34, 37, 38, 40]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 11, 14, 15, 20, 21, 26, 27, 30, 33, 34, 37, 38]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 11, 14, 15, 20, 25, 26, 27, 28, 30, 31, 33]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 10, 14, 15, 20, 22, 24, 25, 26, 27, 28, 30, 31, 33, 40]
+Feature indices in final selection : [1, 3, 4, 5, 6, 7, 8, 10, 11, 13, 14, 15, 20, 22, 24, 25, 26, 28, 30, 33, 34, 37]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 9, 11, 13, 14, 15, 18, 21, 22, 23, 25, 26, 27, 28, 30, 33, 34, 37, 38]
+best sol index found
+best sol index 0
+best avg performance 2.475957526936189
+avg of avg goal 2.387320230735231
+best performance :
+2.475957526936189
+Crossover population 20
+Temp individual length 20
+best sol sum before 716.7881499541442
+Doing 2-point crossover for sol: 1, 2
+Doing 2-point crossover for sol: 3, 4
+Doing 2-point crossover for sol: 9, 10
+Doing 2-point crossover for sol: 11, 12
+Doing 2-point crossover for sol: 13, 14
+Doing 2-point crossover for sol: 15, 16
+Doing 2-point crossover for sol: 17, 18
+best sol sum after 716.7881499541442
+Doing adaptive mutation
+population size 20
+
+Generation : 48
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 11, 14, 15, 20, 25, 26, 27, 28, 30, 31, 33]
+Feature indices in final selection : [1, 3, 4, 5, 6, 7, 8, 9, 11, 13, 14, 15, 20, 21, 25, 26, 27, 28, 30, 31, 33]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 10, 11, 13, 14, 22, 24, 25, 26, 28, 30, 33, 34, 37]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 9, 11, 13, 14, 15, 18, 21, 22, 23, 25, 26, 27, 28, 30, 33, 34, 37, 38]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 9, 11, 13, 14, 15, 18, 20, 21, 25, 26, 27, 28, 30, 33, 34, 37]
+Feature indices in final selection : [4, 5, 6, 7, 8, 10, 11, 14, 15, 18, 20, 21, 24, 25, 26, 27, 28, 30, 34, 37]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 9, 11, 13, 14, 15, 20, 25, 26, 27, 28, 30, 31, 33, 34, 37, 38, 40]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 9, 11, 13, 14, 15, 20, 25, 26, 27, 28, 30, 31, 33, 34, 37, 38, 40]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 9, 11, 13, 14, 15, 20, 25, 26, 27, 28, 30, 31, 33, 34, 37, 38, 40]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 9, 13, 14, 15, 20, 22, 24, 25, 26, 27, 28, 30, 31, 33]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 9, 13, 14, 18, 20, 21, 25, 27, 28, 30, 33, 34, 37, 38]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 9, 11, 13, 14, 15, 18, 20, 21, 25, 26, 27, 28, 30, 34, 37]
+Feature indices in final selection : [4, 5, 6, 7, 8, 10, 11, 14, 15, 18, 20, 21, 25, 26, 27, 28, 30, 34, 37]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 10, 11, 13, 14, 18, 20, 21, 23, 25, 26, 27, 28, 30, 32, 33, 34, 37]
+Feature indices in final selection : [1, 3, 4, 5, 6, 7, 8, 10, 11, 13, 14, 15, 17, 20, 22, 24, 25, 26, 28, 30, 33, 34, 37]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 9, 11, 13, 14, 15, 20, 22, 24, 25, 26, 27, 28, 30, 31, 33]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 9, 11, 13, 14, 15, 20, 21, 24, 25, 26, 27, 28, 30, 33, 34, 37, 38]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 9, 11, 13, 14, 15, 20, 22, 24, 25, 26, 27, 28, 30, 31, 33, 34, 37, 38]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 9, 11, 14, 15, 20, 22, 25, 27, 28, 30, 33, 34, 37, 38]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 9, 11, 14, 15, 20, 22, 25, 26, 27, 28, 30, 31, 33, 34, 37, 38]
+best sol index found
+best sol index 0
+best avg performance 2.475957526936189
+avg of avg goal 2.3939590516351243
+best performance :
+2.475957526936189
+Crossover population 20
+Temp individual length 20
+best sol sum before 716.7881499541442
+Doing 2-point crossover for sol: 1, 2
+Doing 2-point crossover for sol: 3, 4
+Doing 2-point crossover for sol: 5, 6
+Doing 2-point crossover for sol: 7, 8
+Doing 2-point crossover for sol: 9, 10
+Doing 2-point crossover for sol: 11, 12
+Doing 2-point crossover for sol: 13, 14
+Doing 2-point crossover for sol: 15, 16
+Doing 2-point crossover for sol: 17, 18
+best sol sum after 716.7881499541442
+Doing adaptive mutation
+population size 20
+
+Generation : 49
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 11, 14, 15, 20, 25, 26, 27, 28, 30, 31, 33]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 9, 13, 14, 18, 20, 21, 25, 27, 28, 30, 33, 34, 37, 38]
+Feature indices in final selection : [1, 4, 5, 6, 7, 8, 10, 11, 14, 15, 18, 20, 21, 24, 25, 26, 27, 28, 34, 37]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 9, 11, 13, 14, 15, 18, 20, 21, 25, 26, 27, 28, 30, 34, 37]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 10, 11, 13, 14, 18, 20, 21, 23, 25, 26, 27, 28, 30, 32, 33, 34, 37]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 9, 11, 14, 15, 20, 22, 25, 27, 28, 30, 33, 34, 37, 38]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 9, 11, 14, 15, 20, 22, 25, 27, 28, 30, 33, 34, 37, 38]
+Feature indices in final selection : [1, 3, 4, 5, 6, 7, 8, 10, 11, 13, 14, 15, 17, 20, 22, 24, 25, 26, 28, 30, 33, 34, 37]
+Feature indices in final selection : [1, 3, 4, 5, 6, 7, 8, 9, 11, 13, 14, 15, 20, 21, 25, 26, 27, 28, 30, 31, 33]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 9, 11, 13, 14, 15, 18, 20, 22, 24, 25, 26, 27, 28, 30, 31, 33, 34, 37, 38]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 9, 11, 13, 14, 15, 20, 22, 24, 25, 26, 27, 28, 30, 31, 33]
+Feature indices in final selection : [3, 4, 6, 7, 8, 10, 11, 13, 14, 15, 20, 21, 25, 26, 27, 28, 30, 31, 33]
+Feature indices in final selection : [1, 3, 4, 5, 6, 7, 8, 9, 11, 13, 14, 18, 20, 21, 23, 25, 26, 27, 28, 30, 32, 33, 34, 37]
+Feature indices in final selection : [1, 3, 4, 5, 6, 7, 8, 9, 11, 13, 14, 15, 20, 21, 25, 26, 27, 28, 30, 31, 33]
+Feature indices in final selection : [1, 3, 4, 5, 6, 7, 8, 10, 11, 13, 14, 15, 17, 20, 22, 24, 25, 26, 28, 30, 33, 34, 37]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 9, 11, 13, 14, 15, 18, 21, 22, 23, 25, 26, 27, 28, 30, 34, 37, 38]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 9, 11, 13, 14, 15, 18, 21, 22, 23, 25, 26, 27, 28, 30, 33, 34, 37, 38]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 10, 11, 14, 15, 20, 25, 26, 27, 28, 30, 31, 33]
+Feature indices in final selection : [3, 4, 5, 6, 7, 8, 11, 13, 14, 18, 20, 21, 23, 25, 26, 27, 28, 30, 32, 33, 34, 37]
+Feature indices in final selection : [4, 5, 6, 7, 8, 10, 14, 15, 18, 20, 21, 24, 25, 26, 27, 28, 30, 34, 37]
+best sol index found
+best sol index 0
+best avg performance 2.475957526936189
+avg of avg goal 2.4126650017590947
+best performance :
+2.475957526936189
+No Convergence
+
+Time (in minutes) taken for feature selection and parameters optimisation : 6923.687428889532
+

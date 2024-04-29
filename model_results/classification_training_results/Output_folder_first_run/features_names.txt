@@ -1,0 +1,31 @@
+BP_similarity
+MF_similarity
+CC_similarity
+Exists in MINT?
+Exists in DIP?
+Exists in APID?
+Exists in BIOGRID?
+pfam_interaction
+A %
+L %
+I %
+V %
+S %
+Y %
+H %
+Q %
+N %
+D %
+E %
+C %
+W %
+R %
+G %
+Aromaticity dif
+helix_fraction_dif
+sheet_fraction_dif
+cys_reduced_dif
+cys_residues_dif
+gravy_dif
+ph7_charge_dif
+GSE228702_spearman

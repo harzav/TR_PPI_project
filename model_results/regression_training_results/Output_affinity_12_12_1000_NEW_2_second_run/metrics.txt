@@ -1,0 +1,12 @@
+Cross validation Root Mean Square Error: 0.0997
+Cross validation Relative Absolute Error: 91.96 %
+Cross validation Root Relative Squared Error: 85.21 %
+Cross validation R2 (coefficient of determination) regression score: 0.03
+Cross validation Explained Variance score: 0.57 
+Cross validation Spearman Correlation: 0.36 
+Training Root Mean Square Error: 0.0455
+Training Relative Absolute Error: 17.36 %
+Training Root Relative Squared Error: 20.61 %
+Training R2 (coefficient of determination) regression score: 0.96
+Training Explained Variance score: 0.96 
+Training Spearman Correlation: 0.49 

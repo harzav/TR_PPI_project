@@ -1,0 +1,6 @@
+Testing accuracy: 76.02 %
+Testing specificity: 97.63 %
+Testing sensitivity: 54.41 %
+Testing F1 score: 69.41 %
+Testing F2 score: 59.56 %
+Testing ROC AUC: 0.76 

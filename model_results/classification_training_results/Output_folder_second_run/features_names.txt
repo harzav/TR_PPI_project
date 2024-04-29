@@ -1,0 +1,29 @@
+MF_similarity
+Exists in MINT?
+Exists in DIP?
+Exists in APID?
+Exists in BIOGRID?
+Sequence_similarity
+pfam_interaction
+A %
+L %
+F %
+M %
+V %
+S %
+Y %
+Q %
+N %
+D %
+E %
+C %
+W %
+R %
+G %
+Aromaticity dif
+Instability dif
+helix_fraction_dif
+turn_fraction_dif
+sheet_fraction_dif
+gravy_dif
+ph7_charge_dif

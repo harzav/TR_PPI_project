@@ -1,0 +1,27 @@
+MF_similarity
+CC_similarity
+A %
+L %
+F %
+V %
+S %
+P %
+T %
+H %
+Q %
+K %
+D %
+C %
+W %
+MW dif
+Aromaticity dif
+Instability dif
+helix_fraction_dif
+turn_fraction_dif
+sheet_fraction_dif
+cys_reduced_dif
+cys_residues_dif
+gravy_dif
+ph7_charge_dif
+GSE227375_spearman
+GSE228702_spearman

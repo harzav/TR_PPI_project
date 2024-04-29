@@ -1,0 +1,28 @@
+iRefIndex (positive dataset) filtering criteria:
+
+1) Uniprot entries-PPIs Only: 
+   Both columns 'uidA' and 'uidB' must contain uniprot IDs
+
+2) Unique Interactions Only:
+   To identify unique interactions and avoid doubles, we use 'Checksum_Interaction' column. Same PPIs use the same RIGID, so we group the PPIs by keeping unique RIGIDs. "This column [i.e. 'Checksum_Interaction'] may be used to identify other rows (interaction records) in this file that describe interactions between the same set of proteins from the same taxon id.
+This universal key listed here is the RIGID (redundant interaction group identifier) described in the original iRefIndex paper, PMID 18823568." (from iRefIndex documentation)
+
+3) Method of Interaction detection
+  We want to use valid and secure methods of positive interaction detection. So we filter the 'method' column by the terms that contain 'tandem affinity purification' and 'two hybrid'. In this way, the methods that are finally filtered are: tandem affinity purification, two hybrid (More specifically: two hybrid, two hybrid array, two hybrid pooling approach, two hybrid fragment pooling approach,lambda repressor two hybrid, tandem affinity purification, reverse two hybrid, (two hybrid prey pooling approach, two hybrid bait and prey pooling approach,validated two hybrid,barcode fusion genetics two hybrid)
+
+4) Host Organism
+  The host organism in which the interaction was experimentally detected must be Homo sapiens. That's why we filtered 'Host_organism_taxid' column so it contains "taxid:9606".
+
+5) Number of participants in the interaction
+  'numParticipants' column must contain only binary interactions (i.e. between two single proteins), so we applied the df['numParticipants']==2 criteria 
+
+--> 1,678 positive PPI entries
+
+Negative dataset filters:
+
+1) Search if no negative PPIs exist in the positive dataset --> Keep only the ones that do not exist
+
+
+--> 3,356 negative PPI entries
+
+=> FINAL DATASET TOTAL ENTRIES: 5,034 PPIs
