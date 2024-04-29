@@ -1,0 +1,12 @@
+main script: HDOCK_MMGBSA.py has three main sections:
+
+1) ### Download PDB and CIF files for each entry in the CSV file and print the confidence numbers ###
+2) ### Calculate Docking score using HDOCK ###
+3) ### Calculate MMGBSA  binding affinity using gmx_MMPBSA ###
+
+It takes as input "FINAL_DATASET.csv", read uidA and uidB and downloads PDB and CIF files (stored in CIF_FILES and PDB_FILES directories).
+After that, it performs docking procedure using HDOCK software (hdock and createpl scripts) of the entries above "confidence_threshold".
+Subsequently, it performs MMGBSA procedure to calculate the binding affinity.
+
+All the output docking files are saved in the directory "HDOCK_Outputs".
+All the output binding affinity files are saved in the directory "MMGBSA_Outputs".
