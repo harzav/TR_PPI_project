@@ -1,0 +1,1 @@
+{"package": {"name": "pygosemsim", "version": "0.1.0"}, "source": {"git_url": "../", "git_rev": "0.1.0"}, "requirements": {"build": ["python", "setuptools"], "run": ["python", "networkx"]}, "test": {"imports": "pygosemsim"}, "about": {"license_file": "LICENSE", "home": "https://github.com/mojaie/pygosemsim", "license": "MIT"}}
