@@ -51,7 +51,7 @@ For testing:
 testing_multibiomarker_predictive_analytics_model_backend.py
 ```
 
-**The commands for training the models are:**
+**The Unix commands for training the models are:**
 
 For the Binary Classifier:
 ```
@@ -185,7 +185,7 @@ All these files are contained in the directory <code>example_datasets</code> > <
 
 Examples from the output folders from training results of this project can be found in the directory <code>model_results</code>.
 
-**The commands for testing the classification models are:**
+**The Unix commands for testing the classification models are:**
 
 For the Ensemble method:
 ```
