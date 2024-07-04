@@ -1,0 +1,14 @@
+sheet_fraction_dif
+cys_reduced_dif
+cys_residues_dif
+GSE227375_spearman
+Sequence_similarity
+A %
+M %
+P %
+Q %
+N %
+K %
+G %
+MW dif
+Instability dif

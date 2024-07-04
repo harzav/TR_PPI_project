@@ -1,0 +1,26 @@
+CC_similarity
+Exists in APID?
+Exists in BIOGRID?
+A %
+I %
+M %
+P %
+T %
+Y %
+Q %
+K %
+D %
+E %
+C %
+W %
+G %
+Aromaticity dif
+Instability dif
+helix_fraction_dif
+turn_fraction_dif
+sheet_fraction_dif
+cys_reduced_dif
+cys_residues_dif
+ph7_charge_dif
+GSE227375_spearman
+GSE228702_spearman
