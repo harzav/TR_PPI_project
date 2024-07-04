@@ -1,14 +1,15 @@
 # TR-PPI project
 
 This is the directory containing the necessary files and codes for running the classification and regression models of the TR-PPI project. 
-This is a project aiming at PPI discovery through an Evolutionary Optimization Algorithm and quantification of the strength of PPIs through regression models based on an HDOCKlite endpoint. 
+This is a project aiming at PPI discovery through an Evolutionary Optimization Algorithm and quantification of the strength of PPIs through regression models based on an MM-GBSA endpoint. 
 These models are to be used on the TR interactome, with the purpose of finding potential novel TR interactions and filtering the most probable ones.
 
 The Flowchart of the proposed method and the Tutorial for the feature calculation and model creation are presented below.
 
 <h2>A. Flowchart of the Proposed Method</h2>
 
-![Rusell’s Negative Dataset (1)](https://github.com/harzav/PPI_project/assets/165158954/db438aee-6623-449a-bac4-f38e62dcdb55)
+![Picture1](https://github.com/harzav/TR_PPI_project/assets/165158954/3781fc95-876e-40e6-8fca-112c33ebf871)
+
 
 <h2>B. Tutorial for model creation </h2>
 
@@ -29,7 +30,7 @@ Output examples from the different datasets created for this project can be foun
 
 **! Important !**
 
-For the creation of the regression models, the HDOCKlite endpoint is necessary. For the calculation of this endpoint (and additionally the MMGBSA endpoint) run the Python script:
+For the creation of the regression models, the MM-GBSA endpoint is necessary. For the calculation of this endpoint (and additionally the HDOCK Docking Score endpoint) run the Python script:
 
 ```
 HDOCK_MMGBSA.py
