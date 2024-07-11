@@ -43,14 +43,12 @@ located in the <code>HDOCK_MMGBSA_calculation</code> directory along with the su
 **The scripts for training and testing the models can be found in the directory <code>codes</code>.**
 
 For training:
-```
-biomarker_discovery_script_selection_backend.py
-```
+
+<code>insybio-biomarkers</code> > <code> 04.Training_Multibiomarker_Predictive_Analytics_Model </code> > <code> biomarker_discovery_script_selection_backend.py </code>
 
 For testing:
-```
-testing_multibiomarker_predictive_analytics_model_backend.py
-```
+
+<code>insybio-biomarkers</code> > <code> 05.Testing_Multibiomarker_Predictive_Analytics_Model </code> > <code> testing_multibiomarkers_discovery_script_selection_backend.py </code>
 
 **The Unix commands for training the models are:**
 
