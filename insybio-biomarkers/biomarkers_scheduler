@@ -1,0 +1,22 @@
+#!/bin/bash
+
+     SOURCE="${BASH_SOURCE[0]}"
+     # While $SOURCE is a symlink, resolve it
+     while [ -h "$SOURCE" ]; do
+          DIR="$( cd -P "$( dirname "$SOURCE" )" && pwd )"
+          SOURCE="$( readlink "$SOURCE" )"
+          # If $SOURCE was a relative symlink (so no "/" as prefix, need to resolve it relative to the symlink base directory
+          [[ $SOURCE != /* ]] && SOURCE="$DIR/$SOURCE"
+     done
+     DIR="$( cd -P "$( dirname "$SOURCE" )" && pwd )"
+     echo "$DIR"
+#echo $SOURCE
+
+while true 
+do 
+	python3 $DIR/02.Dataset_Preprocessing/dataset_preprocessing_schedule.py >> /var/log/insybio-biomarkers.log & 
+	python3 $DIR/03.Biomarkers_Dataset_Statistical_Analysis/biomarkers_dataset_statistical_analysis_schedule.py >> /var/log/insybio-biomarkers.log & 
+	python3 $DIR/04.Training_Multibiomarker_Predictive_Analytics_Model/biomarker_discovery_script_selection_scheduler.py >> /var/log/insybio-biomarkers.log & 
+	python3 $DIR/05.Testing_Multibiomarker_Predictive_Analytics_Model/testing_multibiomarker_predictive_analytics_model_backend_schedule.py >> /var/log/insybio-biomarkers.log &     
+	sleep 30
+done

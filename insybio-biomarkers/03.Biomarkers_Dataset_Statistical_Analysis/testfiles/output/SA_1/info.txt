@@ -1,0 +1,7 @@
+Kruskal Wallis test was used for multple phenotypes comparison
+Wilcoxon test was used for pairwise comparisons
+Wilcoxon test was used for pairwise comparisons
+Wilcoxon test was used for pairwise comparisons
+Wilcoxon test was used for pairwise comparisons
+Wilcoxon test was used for pairwise comparisons
+Wilcoxon test was used for pairwise comparisons

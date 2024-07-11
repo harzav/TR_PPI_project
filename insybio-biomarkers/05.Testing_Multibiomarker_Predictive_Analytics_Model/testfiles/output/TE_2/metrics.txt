@@ -1,0 +1,3 @@
+Root Mean Square Error: 0.7484
+Relative Absolute Error: 27.11 %
+Root Relative Squared Error: 35.67 %

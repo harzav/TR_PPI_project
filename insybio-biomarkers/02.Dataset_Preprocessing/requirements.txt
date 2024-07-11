@@ -1,0 +1,4 @@
+numpy>=1.13.3
+knnimpute>=0.1.0
+psycopg2>=2.7.4
+scikit_learn>=0.19.1

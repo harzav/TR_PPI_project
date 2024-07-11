@@ -1,0 +1,15 @@
+#tensorflow==2.4.1
+knnimpute
+matplotlib
+iterative_stratification
+pandas
+pytest
+numpy
+pytest_steps
+smogn
+scipy
+Bottleneck
+mlxtend
+joblib
+psycopg2
+scikit_learn>=0.21

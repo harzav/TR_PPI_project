@@ -1,0 +1,12 @@
+First install it in your Ubuntu:
+
+sudo apt-get install libsvm3
+
+Then get svmutil and svm from the website: https://github.com/cjlin1/libsvm/tree/master/python
+
+This link might be useful: https://stackoverflow.com/questions/15755130/how-to-setup-libsvm-for-python
+
+For plotting:
+
+http://kanglinxm.blogspot.com/2017/08/when-using-matplotlibpyplot-python-via.html
+https://stackoverflow.com/questions/2801882/generating-a-png-with-matplotlib-when-display-is-undefined

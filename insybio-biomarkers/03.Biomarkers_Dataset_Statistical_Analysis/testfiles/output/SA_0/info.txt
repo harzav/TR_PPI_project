@@ -1,0 +1,7 @@
+Parametric test with limma
+Paired t-test was used for pairwise comparisons between Aorta vs IMA
+Paired t-test was used for pairwise comparisons between Aorta vs Radial
+Paired t-test was used for pairwise comparisons between Aorta vs Vein
+Paired t-test was used for pairwise comparisons between IMA vs Radial
+Paired t-test was used for pairwise comparisons between IMA vs Vein
+Paired t-test was used for pairwise comparisons between Radial vs Vein

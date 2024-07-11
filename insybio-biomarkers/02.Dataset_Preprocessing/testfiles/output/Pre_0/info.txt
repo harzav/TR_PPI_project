@@ -1,0 +1,8 @@
+Data were successfully filtered!
+Results of filtering:
+Total Number of Molecules = 49
+Total Number of Molecules with missing values less than the allowed threshold = 49
+Percentage of Missing Values in all molecules = 0.00
+Average imputation method was used!
+Duplicate measurements have been averaged successfully!
+Arithmetic normalization was used!

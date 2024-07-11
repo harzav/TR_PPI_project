@@ -1,0 +1,38 @@
+1. To install the python libraries do the following:
+
+sudo apt-get install python3-numpy python3-scipy python3-matplotlib python3-plotly python3-statsmodels python3-sklearn python3-rpy2 python3-seaborn
+sudo pip3 install knnimpute
+
+
+2. To install the R packages do the following:
+
+Install R: sudo apt-get install r-base-core (this should install 3.4.4 version)
+
+Install the packages: sudo apt-get install r-bioc-limma r-cran-ggplot2 r-cran-lattice
+
+
+===================== Depracated =========================================
+
+2. To install the R packages do the following:
+
+Install R: sudo apt-get install r-base-core (this should install 3.4.4 version)
+
+Open an R terminal and type:
+
+install.packages(c('statmod','ggrepel','lattice'))
+
+To install ggplot2 of version 2.2.1:
+1) https://support.rstudio.com/hc/en-us/articles/219949047-Installing-older-versions-of-packages
+2) https://cran.r-project.org/src/contrib/Archive/ggplot2/
+
+Open an R terminal and type:
+> package_url <- "https://cran.r-project.org/src/contrib/Archive/ggplot2/ggplot2_2.2.1.tar.gz"
+> install.packages(packageurl, repos=NULL, type="source")
+
+To install limma follow the instructions from here: https://bioconductor.org/packages/release/bioc/html/limma.html
+
+If the link doesn't work, here's what you have to do:
+
+## try http:// if https:// URLs are not supported
+source("https://bioconductor.org/biocLite.R")
+biocLite("limma")
