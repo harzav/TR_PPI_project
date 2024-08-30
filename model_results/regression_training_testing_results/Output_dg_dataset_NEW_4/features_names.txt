@@ -1,0 +1,11 @@
+CC_similarity
+L %
+V %
+H %
+8
+10
+5
+6
+sheet_fraction_dif
+gravy_dif
+MF_similarity

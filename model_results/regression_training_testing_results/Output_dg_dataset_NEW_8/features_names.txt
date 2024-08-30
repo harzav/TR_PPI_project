@@ -1,0 +1,26 @@
+L %
+F %
+I %
+V %
+T %
+Y %
+H %
+Q %
+C %
+R %
+MW dif
+helix_fraction_dif
+cys_reduced_dif
+cys_residues_dif
+gravy_dif
+ph7_charge_dif
+BP_similarity
+CC_similarity
+1
+4
+8
+10
+5
+6
+11
+12

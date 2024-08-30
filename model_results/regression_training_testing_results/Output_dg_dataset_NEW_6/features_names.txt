@@ -1,0 +1,13 @@
+CC_similarity
+L %
+F %
+I %
+1
+H %
+Q %
+4
+6
+11
+12
+sheet_fraction_dif
+BP_similarity

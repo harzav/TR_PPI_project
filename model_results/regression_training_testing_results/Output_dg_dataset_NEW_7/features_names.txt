@@ -1,0 +1,6 @@
+F %
+Y %
+7
+12
+14
+cys_reduced_dif

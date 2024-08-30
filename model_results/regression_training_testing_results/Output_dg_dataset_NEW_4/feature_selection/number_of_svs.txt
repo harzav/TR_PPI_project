@@ -1,0 +1,13 @@
+Model 1 - Number of Support Vectors: 140
+Model 2 - Number of Support Vectors: 143
+Model 3 - Number of Support Vectors: 131
+Model 4 - Number of Support Vectors: 143
+Model 5 - Number of Support Vectors: 140
+Model 6 - Number of Support Vectors: 142
+Model 7 - Number of Support Vectors: 142
+Model 8 - Number of Support Vectors: 141
+Model 9 - Number of Support Vectors: 141
+Model 10 - Number of Support Vectors: 139
+Model 11 - Number of Support Vectors: 139
+Model 12 - Number of Support Vectors: 209
+Model 13 - Number of Support Vectors: 139
