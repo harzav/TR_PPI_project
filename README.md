@@ -43,7 +43,7 @@ For testing the classification models:
 <code>insybio-biomarkers</code> > <code> 05.Testing_Multibiomarker_Predictive_Analytics_Model </code> > <code> testing_multibiomarkers_discovery_script_selection_backend.py </code>
 
 For testing the regression models use the python script:
-<code> regression_test.py </code> 
+<code> regression_test.py </code> .
 This includes extensive commentary on the input files and datasets that have to be used.
 
 **The Unix commands for training the models are:**
@@ -324,7 +324,7 @@ The <code>models_1.zip</code> contains the best scoring models, the classifier c
 For the Best Model method:
 The same as the Ensemble method, but instead of many .pkl files, models_1.zip contains a single best model.
 
-<h4>3.	BML Analysis</h4>
+<h2>3.	BML Analysis</h2>
 
 The files needed for the training and testing of the Benchmark Machine Learning (BML) Analysis models are contained in the <code>BML Analysis</code> directory.
 
