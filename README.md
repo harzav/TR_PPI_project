@@ -43,7 +43,7 @@ For testing the classification models:
 <code>insybio-biomarkers</code> > <code> 05.Testing_Multibiomarker_Predictive_Analytics_Model </code> > <code> testing_multibiomarkers_discovery_script_selection_backend.py </code>
 
 For testing the regression models use the python script:
-<code> regression_test </code> 
+<code> regression_test.py </code> 
 This includes extensive commentary on the input files and datasets that have to be used.
 
 **The Unix commands for training the models are:**
