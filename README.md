@@ -1,14 +1,14 @@
 # TR-PPI project
 
 This is the directory containing the necessary files and codes for running the classification and regression models of the TR-PPI project. 
-This is a project aiming at PPI discovery through an Evolutionary Optimization Algorithm and quantification of the strength of PPIs through regression models based on an MM-GBSA endpoint. 
+This is a project aiming at PPI discovery through an Evolutionary Optimization Algorithm and quantification of the strength of PPIs through regression models. The regression models are based on an endpoint created by experimental ΔG affinity scores mined from PDBbind v2020118, SKEMPI 2.0119, MPAD120 and Binding Affinity Benchmark version 2 (BABv2). 
 These models are to be used on the TR interactome, with the purpose of finding potential novel TR interactions and filtering the most probable ones.
 
 The Flowchart of the proposed method and the Tutorial for the feature calculation and model creation are presented below.
 
 <h2>A. Flowchart of the Proposed Method</h2>
 
-![Picture1](https://github.com/harzav/TR_PPI_project/assets/165158954/3781fc95-876e-40e6-8fca-112c33ebf871)
+![Picture1](https://github.com/user-attachments/assets/6c1a9181-17b8-40c6-ac23-96e9cdd750c8)
 
 
 <h2>B. Tutorial for model creation </h2>
@@ -18,39 +18,33 @@ The Flowchart of the proposed method and the Tutorial for the feature calculatio
 The code for calculating the features for all Datasets in the project (affinity test and training datasets, PPI test and training datasets and taste receptor dataset) can be found in the directory <code>codes</code>.
 ‘feature_calculation_code.py’
 
-Receives as input: A csv dataset with 4 columns that must be named ‘uidA’, ‘uidB’, protein_accession_A’, ‘protein_accession_B’. It can have more columns but these 4 must be present.
+Receives as input: A csv dataset with 6 columns that must be named ‘uidA’, ‘uidB’, protein_accession_A’, ‘protein_accession_B’, 'seq_A', 'seq_B'. It can have more columns but these 6 must be present.
 
- ![image](https://github.com/harzav/PPI_project/assets/165158954/43e62396-63e0-406f-8f1b-88f0257e1961)
+![image](https://github.com/user-attachments/assets/90b12bbb-ebf7-43c7-b0c7-cb9e387a3332)
 
 Output: A csv dataset with 61 additional features named:  'BP_similarity', 'MF_similarity', 'CC_similarity', 'Exists in MINT?', 'Exists in DIP?', 'Exists in APID?','Exists in BIOGRID?', 'Sequence_similarity', 'pfam_interaction','MW dif', 'Aromaticity dif', 'Instability dif', 'helix_fraction_dif', 'turn_fraction_dif', 'sheet_fraction_dif', 'cys_reduced_dif', 'gravy_dif', 'ph7_charge_dif', 'A %', 'L %', 'F %', 'I %', 'M %', 'V %', 'S %', 'P %', 'T %', 'Y %', 'H %', 'Q %', 'N %', 'K %', 'D %', 'E %', 'C %', 'W %', 'R %', 'G %',   'GSE227375_spearman', 'GSE228702_spearman', ‘0, 1, 2...14’, ‘Homologous in Mouse/ Drosophila/Yeast/Ecoli ’,  ‘Subcellular Co-localization?’
 
 Output examples from the different datasets created for this project can be found in the <code>example_datasets</code> directory (AFFINITY_DATASET, PPI_TESTING_DATASET,PPI_TRAINING_DATASET)
 
-<code>Datasets</code>: The directory containing all the datasets needed for the calculation of the features. 
+The 'AFFINITY_DATASET' folder contains also the <code>'exp_affinities_ds.csv'</code>  file, which contains the mined experimental affinities for specific PPI pairs.
 
-**! Important !**
-
-For the creation of the regression models, the MM-GBSA endpoint is necessary. For the calculation of this endpoint (and additionally the HDOCK Docking Score endpoint) run the Python script:
-
-```
-HDOCK_MMGBSA.py
-```
-
-located in the <code>HDOCK_MMGBSA_calculation</code> directory along with the supporting README file.
+<code>Datasets</code>: The directory containing all the datasets needed for the calculation of the features. Note that the Download paths for these datasets must be passed manually to the feature calculation code python file, in order for it to run.
 
 <h2>2.	Model Creation and Testing </h2>
 
 **The scripts for training and testing the models can be found in the directory <code>codes</code>.**
 
 For training:
-```
-biomarker_discovery_script_selection_backend.py
-```
 
-For testing:
-```
-testing_multibiomarker_predictive_analytics_model_backend.py
-```
+<code>insybio-biomarkers</code> > <code> 04.Training_Multibiomarker_Predictive_Analytics_Model </code> > <code> biomarker_discovery_script_selection_backend.py </code>
+
+For testing the classification models:
+
+<code>insybio-biomarkers</code> > <code> 05.Testing_Multibiomarker_Predictive_Analytics_Model </code> > <code> testing_multibiomarkers_discovery_script_selection_backend.py </code>
+
+For testing the regression models use the python script:
+<code> regression_test.py </code> .
+This includes extensive commentary on the input files and datasets that have to be used.
 
 **The Unix commands for training the models are:**
 
@@ -61,7 +55,7 @@ sudo python3 biomarker_discovery_script_selection_backend.py ~/Downloads/ppi_tra
 
 For the Regressor:
 ```
-sudo python3 biomarker_discovery_script_selection_backend.py ~/Downloads/new_affinity_t.csv ~/Downloads/new_affinity_labels.txt "1,10,1,1,1,1,1,1" "" 1 0 0 50 1000 0.01 0 0.9 10 8 1 1 ~/Downloads/Output_folder_regressor/
+sudo python3 biomarker_discovery_script_selection_backend.py ~/Downloads/dg_dataset_t.csv ~/Downloads/dg_labels.txt "1,10,1,1,1,1,1,1" "" 1 0 0 50 1000 0.01 0 0.9 10 8 1 1 ~/Downloads/Output_folder_regressor/
 ```
 
 **Training Algorithm Parameters:**
@@ -180,11 +174,11 @@ sudo python3 biomarker_discovery_script_selection_backend.py ~/Downloads/new_aff
 
 </table>
 
-‘ppi_training_dataset.txt’, ‘new_affinity_t.csv’ are the transposed versions of the preprocessed PPI and AFFINITY training datasets. ‘ppi_training_labelss.txt’, ‘new_affinity_labels.txt’ are the sample labels of the said datasets.
+‘ppi_training_dataset.txt’, ‘dg_dataset_t.csv’ are the transposed versions of the preprocessed PPI and AFFINITY training datasets. ‘ppi_training_labelss.txt’, ‘dg_labels.txt’ are the sample labels of the said datasets.
 
 All these files are contained in the directory <code>example_datasets</code> > <code>cmd_input_datasets</code>.
 
-Examples from the output folders from training results of this project can be found in the directory <code>model_results</code>.
+Examples from the output folders from training and testing results of this project can be found in the directory <code>model_results</code>.
 
 **The Unix commands for testing the classification models are:**
 
@@ -330,7 +324,7 @@ The <code>models_1.zip</code> contains the best scoring models, the classifier c
 For the Best Model method:
 The same as the Ensemble method, but instead of many .pkl files, models_1.zip contains a single best model.
 
-<h4>3.	BML Analysis</h4>
+<h2>3.	BML Analysis</h2>
 
 The files needed for the training and testing of the Benchmark Machine Learning (BML) Analysis models are contained in the <code>BML Analysis</code> directory.
 
