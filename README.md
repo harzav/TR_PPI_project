@@ -11,9 +11,9 @@ The Flowchart of the proposed method and the Tutorial for the feature calculatio
 ![Picture1](https://github.com/user-attachments/assets/6c1a9181-17b8-40c6-ac23-96e9cdd750c8)
 
 
-<h2>B. Tutorial for model creation </h2>
+## <h2>B. Tutorial for model creation </h2>
 
-<h2>1.	Creation of the training datasets- feature calculation</h2>
+## <h2>1.	Creation of the training datasets- feature calculation</h2>
 
 The code for calculating the features for all Datasets in the project (affinity test and training datasets, PPI test and training datasets and taste receptor dataset) can be found in the directory <code>codes</code>.
 ‘feature_calculation_code.py’
@@ -30,7 +30,7 @@ The 'AFFINITY_DATASET' folder contains also the <code>'exp_affinities_ds.csv'</c
 
 <code>Datasets</code>: The directory containing all the datasets needed for the calculation of the features. Note that the Download paths for these datasets must be passed manually to the feature calculation code python file, in order for it to run.
 
-<h2>2.	Model Creation and Testing </h2>
+## <h2>2.	Model Creation and Testing </h2>
 
 **The scripts for training and testing the models can be found in the directory <code>codes</code>.**
 
@@ -324,7 +324,7 @@ The <code>models_1.zip</code> contains the best scoring models, the classifier c
 For the Best Model method:
 The same as the Ensemble method, but instead of many .pkl files, models_1.zip contains a single best model.
 
-<h2>3.	BML Analysis</h2>
+## <h2>3.	BML Analysis</h2>
 
 The files needed for the training and testing of the Benchmark Machine Learning (BML) Analysis models are contained in the <code>BML Analysis</code> directory.
 
