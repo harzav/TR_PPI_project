@@ -10,6 +10,11 @@ The Flowchart of the proposed method and the Tutorial for the feature calculatio
 
 ![Picture1](https://github.com/user-attachments/assets/6c1a9181-17b8-40c6-ac23-96e9cdd750c8)
 
+## Table of Contents
+- [Tutorial for model creation](#tutorial)
+- [Creation of the training datasets- feature calculation](#training-datasets)
+- [Model Creation and Testing ](#models-testing)
+- [BML Analysis](#bml)
 
 ## <h2>B. Tutorial for model creation </h2>
 
