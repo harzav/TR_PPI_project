@@ -340,4 +340,6 @@ The datasets needed for running are ‘TEST_DATASET_PROCESSED.csv’ and ‘trai
 The trained model is saved as ‘train_full_features.json’
 
 
+## <h2>C. Acknowledgements </h2>
 
+![alt text](image.png) The present work has been developed as part of the VIRTUOUS project (https://www.virtuoush2020.com/), funded by the European Union’s Horizon 2020 research and innovation program under the Marie Sklodowska-Curie-RISE (Grant Agreement No 872181).
