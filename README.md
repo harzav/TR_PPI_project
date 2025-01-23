@@ -1,3 +1,7 @@
+![! UNDER NEW MANAGEMENT !](https://github.com/user-attachments/assets/2c2aa8c1-d981-434b-aa16-a8559bc97adc)
+
+Please visit: https://github.com/HarrisZavs/TR_PPI for any further updates and recent developments on this project! Thank you!
+
 # TR-PPI project
 
 This is the directory containing the necessary files and codes for running the classification and regression models of the TR-PPI project. 
